@@ -51,23 +51,19 @@ def each_version(template_name: str, code, include_base: bool = False,
 
 
 def write_json(name: str, minName: str, docs: Dict[Any, Dict[str, Any]]):
+	# Modification here to preserve names in minified dict
 	items = []
 	for (id, doc) in docs.items():
 		named = {k: v for (k, v) in doc.items() if not k.startswith("__")}
-		nameless = named.copy()
-		if "name" in nameless:
-			del nameless["name"]
-		if nameless != {}:
-			items.append((id, named, nameless))
+		items.append((id, named))
 	items.sort(key=lambda k: int(k[0]))
 
-	withNames = collections.OrderedDict([(k, v) for (k, v, _) in items])
+	item_dict = collections.OrderedDict([(k, v) for (k, v) in items])
 	with open(name, "w+") as fi:
-		json.dump(withNames, fi, indent=2)
+		json.dump(item_dict, fi, indent=2)
 
-	withoutNames = collections.OrderedDict([(k, v) for (k, _, v) in items])
 	with open(minName, "w+") as fi:
-		json.dump(withoutNames, fi, separators=(",", ":"))
+		json.dump(item_dict, fi, separators=(",", ":"))
 
 
 def get_doc_for_id_string(source: str, version: Dict[str, str], docs: Dict[str, Dict],

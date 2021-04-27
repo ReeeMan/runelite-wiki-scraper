@@ -6,6 +6,10 @@ import util
 from typing import *
 import copy
 
+# Modification here to include many more attributes
+npc_trait_keys = ["hitpoints", "att", "str", "def", "mage", "range", "attbns", "strbns", "defbns", "amagic", "mbns", 
+				  "arange", "rngbns", "dstab", "dslash", "dcrush", "dmagic", "drange"]
+
 
 def run():
 	npcs = {}
@@ -31,7 +35,7 @@ def run():
 
 				scaling = util.has_template("Chambers of Xeric", code) or util.has_template("Theatre of Blood", code)
 				if not scaling:
-					for key in ["hitpoints"]:
+					for key in npc_trait_keys:
 						try:
 							util.copy(key, doc, version, lambda x: int(x))
 						except ValueError:
@@ -43,4 +47,4 @@ def run():
 			print("NPC {} failed:".format(name))
 			traceback.print_exc()
 
-	util.write_json("npcs.json", "npcs.min.json", npcs)
+	util.write_json("npcs-dps-calc.json", "npcs-dps-calc.min.json", npcs)

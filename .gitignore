@@ -3,6 +3,6 @@
 stats.ids.min.json
 stats.json
 .mypy_cache
-npcs.json
-npcs.min.json
+npcs-dps-calc.json
+npcs-dps-calc.min.json
 __pycache__
