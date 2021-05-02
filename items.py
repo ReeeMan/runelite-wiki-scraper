@@ -55,14 +55,17 @@ def run():
 				doc = {}
 				equips[vid] = doc
 
-				if "slot" in version:
-					slotID = str(version["slot"]).strip().lower()
-					if slotID in slotIDs:
-						doc["slot"] = slotIDs[slotID]
-						if slotID == "2h":
-							doc["is2h"] = True
-					elif slotID != "?":
-						print("Item {} has unknown slot {}".format(name, slotID))
+				if "slot" not in version:
+					continue
+
+				slotID = str(version["slot"]).strip().lower()
+				if slotID in slotIDs:
+					doc["slot"] = slotIDs[slotID]
+					if slotID == "2h":
+						doc["is2h"] = True
+				else:
+					print("Item {} has unknown slot {}".format(name, slotID))
+					continue
 
 				for key in [
 					"astab", "aslash", "acrush", "amagic", "arange", "dstab", "dslash", "dcrush", "dmagic", "drange", "str",
@@ -77,6 +80,11 @@ def run():
 				if "removal" in version and not str(version["removal"]).strip().lower() in ["", "no", "n/a"]:
 					continue
 
+				equipable = "equipable" in version and "yes" in str(version["equipable"]).strip().lower()
+				equipVid = vid if vid in equips else -1 if -1 in equips else None
+				if not equipable or equipVid is None:
+					continue
+
 				doc = util.get_doc_for_id_string(name + str(vid), version, stats)
 				if doc == None:
 					continue
@@ -84,6 +92,8 @@ def run():
 				util.copy("name", doc, version)
 				if not "name" in doc:
 					doc["name"] = name
+
+				util.copy("quest", doc, version, lambda x: x.lower() != "no")
 
 				equipable = "equipable" in version and "yes" in str(version["equipable"]).strip().lower()
 
@@ -96,17 +106,14 @@ def run():
 						if floatval != 0:
 							doc["weight"] = floatval
 
-				equipVid = vid if vid in equips else -1 if -1 in equips else None
-				if equipVid != None:
-					if equipable or not "broken" in version["name"].lower():
-						if not equipable:
-							print("Item {} has Infobox Bonuses but not equipable".format(name))
-						doc["equipable"] = True
-						doc["equipment"] = equips[equipVid]
-				elif equipable:
-					print("Item {} has equipable but not Infobox Bonuses".format(name))
+				if equipVid != None and (equipable or not "broken" in version["name"].lower()):
+					if not equipable:
+						print("Item {} has Infobox Bonuses but not equipable".format(name))
+						continue
 					doc["equipable"] = True
-					doc["equipment"] = {}
+					doc["equipment"] = equips[equipVid]
+				else:
+					continue
 
 				itemName = name
 				if "gemwname" in version:
@@ -116,10 +123,13 @@ def run():
 				if itemName in limits:
 					doc['ge_limit'] = limits[itemName]
 
+				for (vid, version) in util.each_version("CombatStyles", code):
+					doc['weaponType'] = version[''].upper().replace(' ', '_').replace('2H_SWORD', 'TWO_HANDED_SWORD')
+
 		except (KeyboardInterrupt, SystemExit):
 			raise
 		except:
 			print("Item {} failed:".format(name))
 			traceback.print_exc()
 
-	util.write_json("stats.json", "stats.ids.min.json", stats)
+	util.write_json("items-dps-calc.json", "items-dps-calc.min.json", stats)

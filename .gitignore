@@ -1,8 +1,8 @@
 .vscode
 *.cache.json
-stats.ids.min.json
-stats.json
 .mypy_cache
 npcs-dps-calc.json
 npcs-dps-calc.min.json
+items-dps-calc.json
+items-dps-calc.min.json
 __pycache__

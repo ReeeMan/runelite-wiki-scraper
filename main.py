@@ -1,9 +1,9 @@
 import api
 
 import npcs
+import items
 
 api.use_cache = True
 
-# Modification here to not bother doing item scraping
-# items.run()
+items.run()
 npcs.run()
