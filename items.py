@@ -111,7 +111,8 @@ def run():
 						print("Item {} has Infobox Bonuses but not equipable".format(name))
 						continue
 					doc["equipable"] = True
-					doc["equipment"] = equips[equipVid]
+					for k in equips[equipVid]:
+						doc[k] = equips[equipVid][k]
 				else:
 					continue
 
