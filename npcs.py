@@ -8,7 +8,7 @@ import copy
 
 # Modification here to include many more attributes
 npc_trait_keys = ["hitpoints", "att", "str", "def", "mage", "range", "attbns", "strbns", "defbns", "amagic", "mbns", 
-				  "arange", "rngbns", "dstab", "dslash", "dcrush", "dmagic", "drange", "combat"]
+				  "arange", "rngbns", "dstab", "dslash", "dcrush", "dmagic", "drange", "combat", "size"]
 
 
 def run():

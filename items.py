@@ -99,6 +99,7 @@ def run():
 
 				if "weight" in version:
 					strval = str(version["weight"]).strip()
+					strval = re.sub(r"<!--.*?-->", "", strval)
 					if strval.endswith("kg"):
 						strval = strval[:-2].strip()
 					if strval != "":
