@@ -21,6 +21,7 @@ case class NewNpcStats(
                      defenseMagic: Option[Int] = Some(0),
                      defenseRanged: Option[Int] = Some(0),
                      combatLevel: Option[Int] = Some(0),
+                     size: Option[Int] = Some(1),
                      isDemon: Option[Boolean] = Some(false),
                      isDragon: Option[Boolean] = Some(false),
                      isKalphite: Option[Boolean] = Some(false),
