@@ -1,7 +1,7 @@
 .vscode
 *.cache.json
 .mypy_cache
-npcs-dps-calc.json
+../runelite-wiki-scraper-filtering/npcs-dps-calc.json
 npcs-dps-calc.min.json
 items-dps-calc.json
 items-dps-calc.min.json

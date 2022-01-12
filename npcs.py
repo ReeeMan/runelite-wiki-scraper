@@ -7,7 +7,7 @@ from typing import *
 import copy
 
 # Modification here to include many more attributes
-npc_trait_keys = ["hitpoints", "att", "str", "def", "mage", "range", "attbns", "strbns", "defbns", "amagic", "mbns", 
+npc_trait_keys = ["hitpoints", "att", "str", "def", "mage", "range", "attbns", "strbns", "defbns", "amagic", "mbns",
 				  "arange", "rngbns", "dstab", "dslash", "dcrush", "dmagic", "drange", "combat", "size"]
 
 
@@ -35,6 +35,11 @@ def run():
 
 				scaling = util.has_template("Chambers of Xeric", code) or util.has_template("Theatre of Blood", code)
 				if not scaling:
+					if "attributes" in version:
+						attrs = [x.strip() for x in version["attributes"].split(",") if x.strip()]
+						for attr in attrs:
+							doc[f"is{attr[0].upper()}{attr[1:]}"] = True
+
 					for key in npc_trait_keys:
 						try:
 							util.copy(key, doc, version, lambda x: int(x))
