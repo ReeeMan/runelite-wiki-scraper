@@ -5,7 +5,7 @@ import urllib.parse
 from typing import *
 
 use_cache: bool = True
-user_agent: Dict[str, str] = {"User-Agent": "Runelite Wiki Scraper/1.0 (+abex@runelite.net)"}
+user_agent: Dict[str, str] = {"User-Agent": "dps-calculator RL plugin scraper/1.0 (gh/LlemonDuck)"}
 
 
 def get_wiki_api(args: Dict[str, str], continueKey: str) -> Iterator[Any]:
