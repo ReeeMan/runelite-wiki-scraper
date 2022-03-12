@@ -66,6 +66,7 @@ def write_json(name: str, minName: str, docs: Dict[Any, Dict[str, Any]]):
 		json.dump(item_dict, fi, separators=(",", ":"))
 
 
+known_invalid_ids: dict[str, str] = {}
 def get_doc_for_id_string(source: str, version: Dict[str, str], docs: Dict[str, Dict],
 	allow_duplicates: bool = False) -> Optional[Dict]:
 	if not "id" in version:
@@ -80,15 +81,17 @@ def get_doc_for_id_string(source: str, version: Dict[str, str], docs: Dict[str, 
 
 	doc = {}
 	doc["__source__"] = source
-	invalid = False
 	for id in ids:
-		if not allow_duplicates and id in docs:
-			print("page {} is has the same id as {}".format(source, docs[id]["__source__"]))
-			invalid = True
+		if not allow_duplicates and (id in docs or id in known_invalid_ids):
+			if id not in known_invalid_ids:
+				known_invalid_ids[id] = source
+				del docs[id]
+
+			print("page {} is has the same id as {}".format(source, known_invalid_ids[id]))
+			return None
+
 		docs[id] = doc
 
-	if invalid:
-		return None
 	return doc
 
 
