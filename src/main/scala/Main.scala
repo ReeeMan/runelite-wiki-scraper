@@ -11,7 +11,7 @@ object Main extends App {
   implicit val NewNpcStatsReader: OFormat[NewNpcStats] = Jsonx.formatCaseClassUseDefaults[NewNpcStats]
 
   // need from wiki scraper
-  val rootJs = Json.parse(Files.readString(new File("npcs-dps-calc.json").toPath))
+  val rootJs = Json.parse(Files.readString(new File("npcs-dps-calc.min.json").toPath))
   println("Original: " + rootJs.as[Map[String, NpcStats]].size)
 
   // convert field names
