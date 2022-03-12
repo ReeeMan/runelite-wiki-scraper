@@ -1,0 +1,5 @@
+**/*
+!/.gitignore
+!/npc-base-ids.min.json
+!/npcs.min.json
+!/items-dps-calc.min.json
