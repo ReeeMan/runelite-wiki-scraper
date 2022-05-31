@@ -2,7 +2,7 @@ name: Do update
 
 on:
   schedule:
-    - cron: '21 0 * * fri'
+    - cron: '21 0 * * FRI'
   workflow_dispatch:
   push:
     branches:
@@ -36,15 +36,23 @@ jobs:
       run: |
         git checkout --force filtering
         mv npcs-dps-calc.min.json.bak npcs-dps-calc.min.json
+        mv items-dps-calc.min.json.bak items-dps-calc.min.json
         sbt run
     - name: Copy to target branch
       run: |
+        mv npc-base-ids.json npc-base-ids.json.bak
         mv npc-base-ids.min.json npc-base-ids.min.json.bak
+        mv npcs.json npcs.json.bak
         mv npcs.min.json npcs.min.json.bak
+        mv items.json items.json.bak
+        mv items.min.json items.min.json.bak
         git checkout --force wiki-data
-        mv npcs.min.json.bak npcs.min.json
+        mv npc-base-ids.json.bak npc-base-ids.json
         mv npc-base-ids.min.json.bak npc-base-ids.min.json
-        mv items-dps-calc.min.json.bak items-dps-calc.min.json
+        mv npcs.json.bak npcs.json
+        mv npcs.min.json.bak npcs.min.json
+        mv items.json.bak items.json
+        mv items.min.json.bak items.min.json
     - name: Get current date
       id: date
       run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
@@ -52,8 +60,11 @@ jobs:
       with:
         token: ${{ secrets.PAT }}
         add-paths: |
-          items-dps-calc.min.json
+          items.json
+          items.min.json
+          npc-base-ids.json
           npc-base-ids.min.json
+          npcs.json
           npcs.min.json
         branch: wiki-data-${{ steps.date.outputs.date }}
         base: wiki-data

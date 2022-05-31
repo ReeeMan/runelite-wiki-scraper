@@ -126,7 +126,7 @@ def run():
 					doc['ge_limit'] = limits[itemName]
 
 				for (vid, version) in util.each_version("CombatStyles", code):
-					doc['weaponType'] = version[''].upper().replace(' ', '_').replace('2H_SWORD', 'TWO_HANDED_SWORD')
+					doc['weaponCategory'] = version[''].upper().replace(' ', '_').replace('2H_SWORD', 'TWO_HANDED_SWORD')
 
 		except (KeyboardInterrupt, SystemExit):
 			raise
