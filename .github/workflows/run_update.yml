@@ -6,8 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
-      - filtering
+      - calc-v2
 
 jobs:
   build:
@@ -34,7 +33,7 @@ jobs:
         java-version: 14
     - name: Transform results
       run: |
-        git checkout --force filtering
+        git checkout --force filtering-v2
         mv npcs-dps-calc.min.json.bak npcs-dps-calc.min.json
         mv items-dps-calc.min.json.bak items-dps-calc.min.json
         sbt run
