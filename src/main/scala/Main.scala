@@ -7,23 +7,30 @@ import java.nio.file.{Files, StandardOpenOption}
 
 object Main extends App {
 
-  implicit val NpcStatsReader: OFormat[NpcStats] = Jsonx.formatCaseClassUseDefaults[NpcStats]
-  implicit val NewNpcStatsReader: OFormat[NewNpcStats] = Jsonx.formatCaseClassUseDefaults[NewNpcStats]
+  import model._
+  implicit val NpcStatsFormat: OFormat[NpcStats] = Jsonx.formatCaseClassUseDefaults[NpcStats]
+  implicit val DefenderAttributesFormat: OFormat[DefenderAttributes] = Jsonx.formatCaseClassUseDefaults[DefenderAttributes]
+  implicit val DefensiveBonusesFormat: OFormat[DefensiveBonuses] = Jsonx.formatCaseClassUseDefaults[DefensiveBonuses]
+  implicit val SkillsFormat: OFormat[Skills] = Jsonx.formatCaseClassUseDefaults[Skills]
+  implicit val NpcDataFormat: OFormat[NpcData] = Jsonx.formatCaseClassUseDefaults[NpcData]
+  
+  implicit val ItemsV1Format: OFormat[ItemStatsV1] = Jsonx.formatCaseClassUseDefaults[ItemStatsV1]
+  implicit val ItemsV2Format: OFormat[ItemStatsV2] = Jsonx.formatCaseClassUseDefaults[ItemStatsV2]
 
   // need from wiki scraper
-  val rootJs = Json.parse(Files.readString(new File("npcs-dps-calc.min.json").toPath))
-  println("Original: " + rootJs.as[Map[String, NpcStats]].size)
+  println("==== NPCs ====")
+  val rootJs = Json.parse(Files.readString(new File("npcs-dps-calc.min.json").toPath)).as[Map[String, NpcStats]]
+  println("Original: " + rootJs.size)
 
   // convert field names
   var news =
-    rootJs.as[Map[String, NpcStats]]
-      .filter(_._2.name.isDefined)
+    rootJs.filter(_._2.name.isDefined)
       .filter(_._2.combat.isDefined)
       .map { tuple =>
         tuple._2.id = tuple._1.toIntOption
         ManualRename(tuple._2)
 
-        tuple._1 -> tuple._2.toNewNpcStats()
+        tuple._1 -> tuple._2
       }
   println("Non-null names: " + news.size)
 
@@ -31,12 +38,12 @@ object Main extends App {
   var baseIds: Map[String, Int] = Map()
   var dupes: Seq[Int] = Seq()
   news.values.foreach { stats =>
-    if (!dupes.contains(stats.id)) {
+    if (!dupes.exists(stats.id.contains)) {
       val localDupes = news.values
         .filter(s => s.name == stats.name && s.id != stats.id)
         .filter(s => s.copy(id = stats.id) == stats)
-        .map(_.id)
-      localDupes.foreach(d => baseIds += d.toString -> stats.id)
+        .map(_.id.get)
+      localDupes.foreach(d => baseIds += d.toString -> stats.id.get)
       dupes ++= localDupes
     }
   }
@@ -47,24 +54,45 @@ object Main extends App {
   news.values.foreach { stats =>
     val groups = news.values
       .filter(s => s.name == stats.name && s.id != stats.id)
-      .groupBy(_.combatLevel)
+      .groupBy(_.combat)
     
     groups.foreach { tuple =>
         val (combatLevel, statSeq) = tuple
         if (statSeq.size == 1)
-          statSeq.head.name = s"${statSeq.head.name} (Lvl ${combatLevel.get})"
+          statSeq.head.name = Some(s"${statSeq.head.name} (Lvl ${combatLevel.get})")
         else
           statSeq.zipWithIndex.foreach { tuple =>
             val (stats, ix) = tuple
             if (groups.size > 1)
-              stats.name = s"${stats.name} (Lvl ${combatLevel.get}) ($ix)"
+              stats.name = Some(s"${stats.name} (Lvl ${combatLevel.get}) ($ix)")
             else
-              stats.name = s"${stats.name} ($ix)"
+              stats.name = Some(s"${stats.name} ($ix)")
           }
       }
   }
   
-  Files.write(new File("npcs.min.json").toPath, Json.toJson(news).toString().getBytes, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
-  Files.write(new File("npc-base-ids.min.json").toPath, Json.toJson(baseIds).toString().getBytes, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
+  val converted = news.map(t => t._1 -> t._2.asNpcData)
+  Files.write(new File("npcs.json").toPath, Json.prettyPrint(Json.toJson(converted)).getBytes, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
+  Files.write(new File("npcs.min.json").toPath, Json.toBytes(Json.toJson(converted)), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
+  Files.write(new File("npc-base-ids.json").toPath, Json.prettyPrint(Json.toJson(baseIds)).getBytes, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
+  Files.write(new File("npc-base-ids.min.json").toPath, Json.toBytes(Json.toJson(baseIds)), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
+  
+  println()
+  println("==== Items ====")
+  val itemsRoot = Json.parse(Files.readString(new File("items-dps-calc.min.json").toPath)).as[Map[String, ItemStatsV1]]
+  println("Original: " + itemsRoot.size)
+
+  var itemsFiltered =
+    itemsRoot.filter(_._2.name.isDefined)
+      .map { tuple =>
+        tuple._2.id = tuple._1.toIntOption
+        tuple._1 -> tuple._2
+      }
+      .filter(_._2.id.isDefined)
+  println("Filtered: " + itemsFiltered.size)
+  
+  val convertedItems = itemsFiltered.map(t => t._1 -> t._2.asV2)
+  Files.write(new File("items.json").toPath, Json.prettyPrint(Json.toJson(convertedItems)).getBytes, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
+  Files.write(new File("items.min.json").toPath, Json.toBytes(Json.toJson(convertedItems)), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
 
 }

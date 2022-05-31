@@ -1,4 +1,4 @@
-
+package model
 
 case class NpcStats(
                      var id: Option[Int],
@@ -11,7 +11,7 @@ case class NpcStats(
                      range: Option[Int],
                      attbns: Option[Int],
                      strbns: Option[Int],
-                     amage: Option[Int],
+                     amagic: Option[Int],
                      mbns: Option[Int],
                      arange: Option[Int],
                      rngbns: Option[Int],
@@ -31,37 +31,37 @@ case class NpcStats(
                      isXerician: Option[Boolean],
                    ) {
 
-  def toNewNpcStats(): NewNpcStats = {
-    NewNpcStats(
-      id = id.get,
-      name = name.get,
-      levelHp = hitpoints,
-      levelAttack = att,
-      levelStrength = str,
-      levelDefense = `def`,
-      levelMagic = mage,
-      levelRanged = range,
-      attackBonus = attbns,
-      strengthBonus = strbns,
-      magicAccuracy = amage,
-      magicDamage = mbns,
-      rangedAccuracy = arange,
-      rangedStrength = rngbns,
-      defenseStab = dstab,
-      defenseSlash = dslash,
-      defenseCrush = dcrush,
-      defenseMagic = dmagic,
-      defenseRanged = drange,
-      combatLevel = combat,
-      size = size,
-      isDemon = isDemon,
-      isDragon = isDragon,
-      isKalphite = isKalphite,
-      isLeafy = isLeafy,
-      isUndead = isUndead,
-      isVampyre = isVampyre,
-      isXerician = isXerician,
+  def asNpcData: NpcData =
+    NpcData(
+      skills = Skills(
+        levels = Map(
+          "HITPOINTS" -> hitpoints.getOrElse(0),
+          "ATTACK" -> att.getOrElse(0),
+          "STRENGTH" -> str.getOrElse(0),
+          "DEFENCE" -> `def`.getOrElse(0),
+          "MAGIC" -> mage.getOrElse(0),
+          "RANGED" -> range.getOrElse(0)
+        )
+      ),
+      defensiveBonuses = DefensiveBonuses(
+        defenseStab = dstab,
+        defenseSlash = dslash,
+        defenseCrush = dcrush,
+        defenseMagic = dmagic,
+        defenseRanged = drange,
+      ),
+      attributes = DefenderAttributes(
+        npcId = id.get,
+        name = name.get,
+        isDemon = isDemon,
+        isDragon = isDragon,
+        isKalphite = isKalphite,
+        isLeafy = isLeafy,
+        isUndead = isUndead,
+        isVampyre = isVampyre,
+        size = size.getOrElse(1),
+        accuracyMagic = amagic,
+      ),
     )
-  }
 
 }

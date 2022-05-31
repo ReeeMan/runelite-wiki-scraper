@@ -1,3 +1,4 @@
+import model.NpcStats
 import net.runelite.api.NpcID._
 
 object ManualRename {
