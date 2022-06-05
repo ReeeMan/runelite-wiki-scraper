@@ -15,6 +15,7 @@ jobs:
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
+        ref: calc-v2
     - uses: actions/setup-python@v2
       with:
         python-version: '3.10'
@@ -65,8 +66,8 @@ jobs:
           npc-base-ids.min.json
           npcs.json
           npcs.min.json
-        branch: wiki-data-${{ steps.date.outputs.date }}
-        base: wiki-data
+        branch: wiki-data-v2-${{ steps.date.outputs.date }}
+        base: wiki-data-v2
         title: Wiki scrape data ${{ steps.date.outputs.date }}
         commit-message: Wiki scrape data ${{ steps.date.outputs.date }}
         reviewers: LlemonDuck
