@@ -84,6 +84,8 @@ object Main extends App {
 
   var itemsFiltered =
     itemsRoot.filter(_._2.name.isDefined)
+      .filter(t => t._2.slot.isDefined)
+      .filter(t => t._2.slot.get != 3 || t._2.weaponCategory.isDefined)
       .map { tuple =>
         tuple._2.id = tuple._1.toIntOption
         tuple._1 -> tuple._2
@@ -91,7 +93,20 @@ object Main extends App {
       .filter(_._2.id.isDefined)
   println("Filtered: " + itemsFiltered.size)
   
-  val convertedItems = itemsFiltered.map(t => t._1 -> t._2.asV2)
+  var dupeIds = Set[String]()
+  itemsFiltered.foreach { tuple =>
+    val (id, stats) = tuple
+    if (!dupeIds.contains(id)) {
+      dupeIds ++= 
+        itemsFiltered.filter(p => p._1 != id && p._2.name == stats.name)
+          .filter(p => p._2.copy(id = id.toIntOption) == stats)
+          .keys
+    }
+  }
+  val itemsDeduped = itemsFiltered.filterNot(t => dupeIds.contains(t._1))
+  println("Without duplicates: " + itemsDeduped.size)
+  
+  val convertedItems = itemsDeduped.map(t => t._1 -> t._2.asV2)
   Files.write(new File("items.json").toPath, Json.prettyPrint(Json.toJson(convertedItems)).getBytes, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
   Files.write(new File("items.min.json").toPath, Json.toBytes(Json.toJson(convertedItems)), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
 
