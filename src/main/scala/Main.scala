@@ -94,17 +94,18 @@ object Main extends App {
   println("Filtered: " + itemsFiltered.size)
   
   var dupeIds = Set[String]()
-  itemsFiltered.foreach { tuple =>
+  itemsFiltered.toList
+    .sortBy(t => t._1.toInt)
+    .foreach { tuple =>
     val (id, stats) = tuple
     if (!dupeIds.contains(id)) {
-      dupeIds ++= 
         itemsFiltered.filter(p => p._1 != id && p._2.name == stats.name)
           .filter(p => p._2.copy(id = id.toIntOption) == stats)
-          .keys
+          .values
+          .foreach(is => is.name = is.name.map(_ + s" (${is.id.get})"))
     }
   }
   val itemsDeduped = itemsFiltered.filterNot(t => dupeIds.contains(t._1))
-  println("Without duplicates: " + itemsDeduped.size)
   
   val convertedItems = itemsDeduped.map(t => t._1 -> t._2.asV2)
   Files.write(new File("items.json").toPath, Json.prettyPrint(Json.toJson(convertedItems)).getBytes, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
