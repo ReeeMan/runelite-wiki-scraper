@@ -59,14 +59,14 @@ object Main extends App {
     groups.foreach { tuple =>
         val (combatLevel, statSeq) = tuple
         if (statSeq.size == 1)
-          statSeq.head.name = Some(s"${statSeq.head.name} (Lvl ${combatLevel.get})")
+          statSeq.head.name = Some(s"${statSeq.head.name.get} (Lvl ${combatLevel.get})")
         else
           statSeq.zipWithIndex.foreach { tuple =>
             val (stats, ix) = tuple
             if (groups.size > 1)
-              stats.name = Some(s"${stats.name} (Lvl ${combatLevel.get}) ($ix)")
+              stats.name = Some(s"${stats.name.get} (Lvl ${combatLevel.get}) ($ix)")
             else
-              stats.name = Some(s"${stats.name} ($ix)")
+              stats.name = Some(s"${stats.name.get} ($ix)")
           }
       }
   }

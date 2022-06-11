@@ -27,7 +27,9 @@ case class NpcStats(
                      isKalphite: Option[Boolean],
                      isLeafy: Option[Boolean],
                      isUndead: Option[Boolean],
-                     isVampyre: Option[Boolean],
+                     isVampyre1: Option[Boolean],
+                     isVampyre2: Option[Boolean],
+                     isVampyre3: Option[Boolean],
                      isXerician: Option[Boolean],
                    ) {
 
@@ -58,7 +60,9 @@ case class NpcStats(
         isKalphite = isKalphite,
         isLeafy = isLeafy,
         isUndead = isUndead,
-        isVampyre = isVampyre,
+        isVampyre1 = isVampyre1,
+        isVampyre2 = isVampyre2,
+        isVampyre3 = isVampyre3,
         size = size.getOrElse(1),
         accuracyMagic = amagic,
       ),

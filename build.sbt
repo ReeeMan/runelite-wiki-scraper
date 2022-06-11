@@ -1,4 +1,4 @@
-name := "tempjson"
+name := "wiki-filtering"
 
 version := "0.1"
 

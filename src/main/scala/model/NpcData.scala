@@ -24,7 +24,9 @@ case class DefenderAttributes(
                                isKalphite: Option[Boolean],
                                isLeafy: Option[Boolean],
                                isUndead: Option[Boolean],
-                               isVampyre: Option[Boolean],
+                               isVampyre1: Option[Boolean],
+                               isVampyre2: Option[Boolean],
+                               isVampyre3: Option[Boolean],
                                size: Int,
                                accuracyMagic: Option[Int]
                              )
