@@ -433,6 +433,7 @@
     "attributes" : {
       "npcId" : 3723,
       "name" : "Vyrewatch",
+      "isVampyre3" : true,
       "size" : 1
     }
   },
@@ -580,7 +581,7 @@
     },
     "attributes" : {
       "npcId" : 8067,
-      "name" : "Some(Zombie) (Lvl 132) (0)",
+      "name" : "Zombie (Lvl 132) (0)",
       "isUndead" : true,
       "size" : 1
     }
@@ -795,7 +796,7 @@
     },
     "attributes" : {
       "npcId" : 7485,
-      "name" : "Some(Zombie) (Lvl 70) (0)",
+      "name" : "Zombie (Lvl 70) (0)",
       "isUndead" : true,
       "size" : 1
     }
@@ -914,7 +915,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 34,
-      "name" : "Some(Zombie) (Lvl 13)",
+      "name" : "Zombie (Lvl 13)",
       "isUndead" : true,
       "size" : 1
     }
@@ -958,7 +959,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3753,
-      "name" : "Some(Vyrewatch) (Lvl 110)",
+      "name" : "Vyrewatch (Lvl 110)",
+      "isVampyre3" : true,
       "size" : 1
     }
   },
@@ -1264,7 +1266,7 @@
     },
     "attributes" : {
       "npcId" : 974,
-      "name" : "Some(Dagannoth) (Lvl 92)",
+      "name" : "Dagannoth (Lvl 92)",
       "size" : 2
     }
   },
@@ -1352,7 +1354,7 @@
     },
     "attributes" : {
       "npcId" : 4524,
-      "name" : "Some(Guard) (Lvl 22) (0)",
+      "name" : "Guard (Lvl 22) (0)",
       "size" : 1
     }
   },
@@ -1370,7 +1372,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3728,
-      "name" : "Some(Vyrewatch) (Lvl 125)",
+      "name" : "Vyrewatch (Lvl 125)",
+      "isVampyre3" : true,
       "size" : 1
     }
   },
@@ -1617,7 +1620,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 8256,
-      "name" : "Some(Vyrewatch) (Lvl 87)",
+      "name" : "Vyrewatch (Lvl 87)",
+      "isVampyre3" : true,
       "size" : 1
     }
   },
@@ -1675,7 +1679,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1691,
-      "name" : "Some(Splatter) (Lvl 44)",
+      "name" : "Splatter (Lvl 44)",
       "size" : 1
     }
   },
@@ -1723,7 +1727,7 @@
     },
     "attributes" : {
       "npcId" : 5200,
-      "name" : "Some(Goblin) (Lvl 2)",
+      "name" : "Goblin (Lvl 2)",
       "size" : 1
     }
   },
@@ -1759,7 +1763,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3760,
-      "name" : "Some(Vyrewatch) (Lvl 105)",
+      "name" : "Vyrewatch (Lvl 105)",
+      "isVampyre3" : true,
       "size" : 1
     }
   },
@@ -1868,7 +1873,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 664,
-      "name" : "Some(Goblin) (Lvl 5) (0)",
+      "name" : "Goblin (Lvl 5) (0)",
       "size" : 1
     }
   },
@@ -2044,7 +2049,7 @@
     },
     "attributes" : {
       "npcId" : 11102,
-      "name" : "Some(Guard) (Lvl 21) (0)",
+      "name" : "Guard (Lvl 21) (0)",
       "size" : 1
     }
   },
@@ -2217,7 +2222,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2502,
-      "name" : "Some(Zombie) (Lvl 30)",
+      "name" : "Zombie (Lvl 30)",
       "isUndead" : true,
       "size" : 1
     }
@@ -2255,6 +2260,7 @@
     "attributes" : {
       "npcId" : 3734,
       "name" : "Vanstrom Klause",
+      "isVampyre3" : true,
       "size" : 1
     }
   },
@@ -2312,7 +2318,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5647,
-      "name" : "Some(Zombie) (Lvl 23)",
+      "name" : "Zombie (Lvl 23)",
       "isUndead" : true,
       "size" : 1
     }
@@ -2441,7 +2447,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5674,
-      "name" : "Some(Undead Lumberjack) (Lvl 45)",
+      "name" : "Undead Lumberjack (Lvl 45)",
       "isUndead" : true,
       "size" : 1
     }
@@ -2652,7 +2658,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5716,
-      "name" : "Some(Undead Lumberjack) (Lvl 70)",
+      "name" : "Undead Lumberjack (Lvl 70)",
       "isUndead" : true,
       "size" : 1
     }
@@ -2738,7 +2744,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5693,
-      "name" : "Some(Undead Lumberjack) (Lvl 55)",
+      "name" : "Undead Lumberjack (Lvl 55)",
       "isUndead" : true,
       "size" : 1
     }
@@ -2827,6 +2833,7 @@
     "attributes" : {
       "npcId" : 4438,
       "name" : "Vampyre Juvenile",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -3026,7 +3033,7 @@
     },
     "attributes" : {
       "npcId" : 1547,
-      "name" : "Some(Guard) (Lvl 21) (1)",
+      "name" : "Guard (Lvl 21) (1)",
       "size" : 1
     }
   },
@@ -3124,6 +3131,7 @@
     "attributes" : {
       "npcId" : 4486,
       "name" : "Vampyre Juvinate",
+      "isVampyre2" : true,
       "size" : 1
     }
   },
@@ -3165,7 +3173,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2097,
-      "name" : "Some(Cyclops) (Lvl 56) (0)",
+      "name" : "Cyclops (Lvl 56) (0)",
       "size" : 2
     }
   },
@@ -3190,6 +3198,7 @@
     "attributes" : {
       "npcId" : 8247,
       "name" : "Ranis Drakan",
+      "isVampyre3" : true,
       "size" : 1
     }
   },
@@ -3277,6 +3286,7 @@
     "attributes" : {
       "npcId" : 9757,
       "name" : "Vyrewatch Sentinel",
+      "isVampyre3" : true,
       "size" : 1
     }
   },
@@ -3318,7 +3328,7 @@
     },
     "attributes" : {
       "npcId" : 10721,
-      "name" : "Some(Skeleton) (Lvl 25)",
+      "name" : "Skeleton (Lvl 25)",
       "isUndead" : true,
       "size" : 1
     }
@@ -3343,7 +3353,7 @@
     },
     "attributes" : {
       "npcId" : 51,
-      "name" : "Some(Zombie) (Lvl 24)",
+      "name" : "Zombie (Lvl 24)",
       "isUndead" : true,
       "size" : 1
     }
@@ -3392,7 +3402,7 @@
     },
     "attributes" : {
       "npcId" : 6701,
-      "name" : "Some(Guard) (Lvl 1337)",
+      "name" : "Guard (Lvl 1337)",
       "size" : 1
     }
   },
@@ -3519,7 +3529,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7270,
-      "name" : "Some(Cyclops) (Lvl 76)",
+      "name" : "Cyclops (Lvl 76)",
       "size" : 2
     }
   },
@@ -3543,7 +3553,7 @@
     },
     "attributes" : {
       "npcId" : 5943,
-      "name" : "Some(Dagannoth) (Lvl 90)",
+      "name" : "Dagannoth (Lvl 90)",
       "size" : 1
     }
   },
@@ -3613,7 +3623,7 @@
     },
     "attributes" : {
       "npcId" : 6444,
-      "name" : "Some(Skeleton) (Lvl 42) (0)",
+      "name" : "Skeleton (Lvl 42) (0)",
       "isUndead" : true,
       "size" : 1
     }
@@ -3765,7 +3775,7 @@
     },
     "attributes" : {
       "npcId" : 400,
-      "name" : "Some(Guard) (Lvl 19) (0)",
+      "name" : "Guard (Lvl 19) (0)",
       "size" : 1
     }
   },
@@ -3783,7 +3793,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3171,
-      "name" : "Some(Aviansie) (Lvl 84)",
+      "name" : "Aviansie (Lvl 84)",
       "size" : 2
     }
   },
@@ -3903,7 +3913,7 @@
     },
     "attributes" : {
       "npcId" : 9191,
-      "name" : "Some(Guard) (Lvl 108)",
+      "name" : "Guard (Lvl 108)",
       "size" : 1
     }
   },
@@ -4054,7 +4064,7 @@
     },
     "attributes" : {
       "npcId" : 73,
-      "name" : "Some(Skeleton) (Lvl 22) (0)",
+      "name" : "Skeleton (Lvl 22) (0)",
       "isUndead" : true,
       "size" : 1
     }
@@ -4095,7 +4105,7 @@
     },
     "attributes" : {
       "npcId" : 941,
-      "name" : "Some(Mountain troll) (Lvl 69)",
+      "name" : "Mountain troll (Lvl 69)",
       "size" : 1
     }
   },
@@ -4209,7 +4219,7 @@
     },
     "attributes" : {
       "npcId" : 3010,
-      "name" : "Some(Guard) (Lvl 21) (2)",
+      "name" : "Guard (Lvl 21) (2)",
       "size" : 1
     }
   },
@@ -4279,7 +4289,7 @@
     },
     "attributes" : {
       "npcId" : 1412,
-      "name" : "Some(Black Guard) (Lvl 25)",
+      "name" : "Black Guard (Lvl 25)",
       "size" : 1
     }
   },
@@ -4482,7 +4492,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3159,
-      "name" : "Some(Spiritual warrior) (Lvl 115)",
+      "name" : "Spiritual warrior (Lvl 115)",
       "size" : 1
     }
   },
@@ -4667,7 +4677,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5651,
-      "name" : "Some(Undead Lumberjack) (Lvl 30)",
+      "name" : "Undead Lumberjack (Lvl 30)",
       "isUndead" : true,
       "size" : 1
     }
@@ -4895,7 +4905,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5350,
-      "name" : "Some(Undead one) (Lvl 73)",
+      "name" : "Undead one (Lvl 73)",
       "isUndead" : true,
       "size" : 1
     }
@@ -4938,7 +4948,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3172,
-      "name" : "Some(Aviansie) (Lvl 83)",
+      "name" : "Aviansie (Lvl 83)",
       "size" : 2
     }
   },
@@ -5065,7 +5075,7 @@
     },
     "attributes" : {
       "npcId" : 7244,
-      "name" : "Some(Greater demon) (Lvl 101)",
+      "name" : "Greater demon (Lvl 101)",
       "isDemon" : true,
       "size" : 3
     }
@@ -5122,7 +5132,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5663,
-      "name" : "Some(Undead Lumberjack) (Lvl 35)",
+      "name" : "Undead Lumberjack (Lvl 35)",
       "isUndead" : true,
       "size" : 1
     }
@@ -5232,7 +5242,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5636,
-      "name" : "Some(Vampyre Juvinate) (Lvl 119)",
+      "name" : "Vampyre Juvinate (Lvl 119)",
+      "isVampyre2" : true,
       "size" : 1
     }
   },
@@ -5358,7 +5369,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 993,
-      "name" : "Some(Sigmund) (Lvl 50)",
+      "name" : "Sigmund (Lvl 50)",
       "size" : 1,
       "accuracyMagic" : 8
     }
@@ -5508,7 +5519,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3183,
-      "name" : "Some(Aviansie) (Lvl 131)",
+      "name" : "Aviansie (Lvl 131)",
       "size" : 2
     }
   },
@@ -5551,7 +5562,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5670,
-      "name" : "Some(Undead Lumberjack) (Lvl 40)",
+      "name" : "Undead Lumberjack (Lvl 40)",
       "isUndead" : true,
       "size" : 1
     }
@@ -5590,7 +5601,7 @@
     },
     "attributes" : {
       "npcId" : 5087,
-      "name" : "Some(Dark wizard) (Lvl 7)",
+      "name" : "Dark wizard (Lvl 7)",
       "size" : 1
     }
   },
@@ -5686,7 +5697,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5685,
-      "name" : "Some(Undead Lumberjack) (Lvl 50)",
+      "name" : "Undead Lumberjack (Lvl 50)",
       "isUndead" : true,
       "size" : 1
     }
@@ -5807,7 +5818,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3315,
-      "name" : "Some(Giant rat) (Lvl 3) (0)",
+      "name" : "Giant rat (Lvl 3) (0)",
       "size" : 2
     }
   },
@@ -5853,7 +5864,7 @@
     },
     "attributes" : {
       "npcId" : 724,
-      "name" : "Some(Mummy) (Lvl 98)",
+      "name" : "Mummy (Lvl 98)",
       "isUndead" : true,
       "size" : 1
     }
@@ -5875,7 +5886,7 @@
     },
     "attributes" : {
       "npcId" : 2082,
-      "name" : "Some(Fire giant) (Lvl 86)",
+      "name" : "Fire giant (Lvl 86)",
       "size" : 2
     }
   },
@@ -6008,7 +6019,8 @@
     },
     "attributes" : {
       "npcId" : 9569,
-      "name" : "Some(Vanstrom Klause) (Lvl 459)",
+      "name" : "Vanstrom Klause (Lvl 459)",
+      "isVampyre3" : true,
       "size" : 1,
       "accuracyMagic" : 16
     }
@@ -6032,7 +6044,7 @@
     },
     "attributes" : {
       "npcId" : 10666,
-      "name" : "Some(Rubble) (Lvl 25)",
+      "name" : "Rubble (Lvl 25)",
       "size" : 2
     }
   },
@@ -6159,7 +6171,7 @@
     },
     "attributes" : {
       "npcId" : 5188,
-      "name" : "Some(Guard) (Lvl 10)",
+      "name" : "Guard (Lvl 10)",
       "size" : 1
     }
   },
@@ -6183,7 +6195,7 @@
     },
     "attributes" : {
       "npcId" : 11175,
-      "name" : "Some(Spider) (Lvl 87)",
+      "name" : "Spider (Lvl 87)",
       "size" : 1
     }
   },
@@ -6249,7 +6261,7 @@
     },
     "attributes" : {
       "npcId" : 2534,
-      "name" : "Some(Ghost) (Lvl 76)",
+      "name" : "Ghost (Lvl 76)",
       "isUndead" : true,
       "size" : 1
     }
@@ -6297,7 +6309,7 @@
     },
     "attributes" : {
       "npcId" : 11110,
-      "name" : "Some(Dark warrior) (Lvl 51)",
+      "name" : "Dark warrior (Lvl 51)",
       "size" : 1
     }
   },
@@ -6321,7 +6333,7 @@
     },
     "attributes" : {
       "npcId" : 2210,
-      "name" : "Some(Spiritual warrior) (Lvl 125)",
+      "name" : "Spiritual warrior (Lvl 125)",
       "size" : 1
     }
   },
@@ -6389,7 +6401,7 @@
     },
     "attributes" : {
       "npcId" : 2030,
-      "name" : "Some(Greater demon) (Lvl 92)",
+      "name" : "Greater demon (Lvl 92)",
       "isDemon" : true,
       "size" : 3
     }
@@ -6678,7 +6690,7 @@
     },
     "attributes" : {
       "npcId" : 3973,
-      "name" : "Some(Skeleton) (Lvl 22) (1)",
+      "name" : "Skeleton (Lvl 22) (1)",
       "isUndead" : true,
       "size" : 1
     }
@@ -6700,7 +6712,7 @@
     },
     "attributes" : {
       "npcId" : 3262,
-      "name" : "Some(Barbarian) (Lvl 8)",
+      "name" : "Barbarian (Lvl 8)",
       "size" : 1
     }
   },
@@ -6782,7 +6794,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2511,
-      "name" : "Some(Giant rat) (Lvl 26)",
+      "name" : "Giant rat (Lvl 26)",
       "size" : 2
     }
   },
@@ -6885,7 +6897,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1718,
-      "name" : "Some(Torcher) (Lvl 66)",
+      "name" : "Torcher (Lvl 66)",
       "size" : 1
     }
   },
@@ -7040,7 +7052,7 @@
     },
     "attributes" : {
       "npcId" : 5239,
-      "name" : "Some(Spider) (Lvl 1)",
+      "name" : "Spider (Lvl 1)",
       "size" : 1
     }
   },
@@ -7061,7 +7073,7 @@
     },
     "attributes" : {
       "npcId" : 523,
-      "name" : "Some(Pirate) (Lvl 26)",
+      "name" : "Pirate (Lvl 26)",
       "size" : 1
     }
   },
@@ -7159,7 +7171,7 @@
     },
     "attributes" : {
       "npcId" : 702,
-      "name" : "Some(Ice troll) (Lvl 121)",
+      "name" : "Ice troll (Lvl 121)",
       "size" : 1
     }
   },
@@ -7177,7 +7189,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 450,
-      "name" : "Some(Crawling Hand) (Lvl 7)",
+      "name" : "Crawling Hand (Lvl 7)",
       "isUndead" : true,
       "size" : 1
     }
@@ -7249,7 +7261,7 @@
     },
     "attributes" : {
       "npcId" : 2652,
-      "name" : "Some(Bruise Blamish Snail) (Lvl 20)",
+      "name" : "Bruise Blamish Snail (Lvl 20)",
       "size" : 1
     }
   },
@@ -7452,7 +7464,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1700,
-      "name" : "Some(Shifter) (Lvl 90)",
+      "name" : "Shifter (Lvl 90)",
       "size" : 1
     }
   },
@@ -7492,7 +7504,7 @@
     },
     "attributes" : {
       "npcId" : 6466,
-      "name" : "Some(Zombie) (Lvl 81)",
+      "name" : "Zombie (Lvl 81)",
       "isUndead" : true,
       "size" : 1
     }
@@ -7516,7 +7528,7 @@
     },
     "attributes" : {
       "npcId" : 2507,
-      "name" : "Some(Zombie) (Lvl 53)",
+      "name" : "Zombie (Lvl 53)",
       "isUndead" : true,
       "size" : 1
     }
@@ -7639,7 +7651,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 9727,
-      "name" : "Some(Vampyre Juvinate) (Lvl 54)",
+      "name" : "Vampyre Juvinate (Lvl 54)",
+      "isVampyre2" : true,
       "size" : 1
     }
   },
@@ -7849,7 +7862,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5701,
-      "name" : "Some(Undead Lumberjack) (Lvl 60)",
+      "name" : "Undead Lumberjack (Lvl 60)",
       "isUndead" : true,
       "size" : 1
     }
@@ -7868,7 +7881,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3182,
-      "name" : "Some(Aviansie) (Lvl 97) (0)",
+      "name" : "Aviansie (Lvl 97) (0)",
       "size" : 2
     }
   },
@@ -7958,7 +7971,7 @@
     },
     "attributes" : {
       "npcId" : 10524,
-      "name" : "Some(Forgotten Soul) (Lvl 46)",
+      "name" : "Forgotten Soul (Lvl 46)",
       "size" : 1
     }
   },
@@ -8110,7 +8123,7 @@
     },
     "attributes" : {
       "npcId" : 2527,
-      "name" : "Some(Ghost) (Lvl 77)",
+      "name" : "Ghost (Lvl 77)",
       "isUndead" : true,
       "size" : 1
     }
@@ -8148,6 +8161,7 @@
     "attributes" : {
       "npcId" : 5640,
       "name" : "Feral Vampyre",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -8165,7 +8179,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1711,
-      "name" : "Some(Spinner) (Lvl 74)",
+      "name" : "Spinner (Lvl 74)",
       "size" : 1
     }
   },
@@ -8207,7 +8221,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3234,
-      "name" : "Some(Feral Vampyre) (Lvl 72)",
+      "name" : "Feral Vampyre (Lvl 72)",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -8231,7 +8246,7 @@
     },
     "attributes" : {
       "npcId" : 3273,
-      "name" : "Some(Guard) (Lvl 22) (1)",
+      "name" : "Guard (Lvl 22) (1)",
       "size" : 1
     }
   },
@@ -8255,7 +8270,7 @@
     },
     "attributes" : {
       "npcId" : 3664,
-      "name" : "Some(Rabbit) (0)",
+      "name" : "Rabbit (0)",
       "size" : 1
     }
   },
@@ -8278,7 +8293,7 @@
     },
     "attributes" : {
       "npcId" : 3065,
-      "name" : "Some(Barbarian) (Lvl 10) (0)",
+      "name" : "Barbarian (Lvl 10) (0)",
       "size" : 1
     }
   },
@@ -8296,7 +8311,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 4431,
-      "name" : "Some(Feral Vampyre) (Lvl 64)",
+      "name" : "Feral Vampyre (Lvl 64)",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -8318,7 +8334,7 @@
     },
     "attributes" : {
       "npcId" : 721,
-      "name" : "Some(Mummy) (Lvl 103)",
+      "name" : "Mummy (Lvl 103)",
       "isUndead" : true,
       "size" : 1
     }
@@ -8591,7 +8607,7 @@
     },
     "attributes" : {
       "npcId" : 7664,
-      "name" : "Some(Lesser demon) (Lvl 82)",
+      "name" : "Lesser demon (Lvl 82)",
       "isDemon" : true,
       "size" : 2
     }
@@ -8863,7 +8879,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2486,
-      "name" : "Some(Goblin) (Lvl 11)",
+      "name" : "Goblin (Lvl 11)",
       "size" : 1
     }
   },
@@ -8911,7 +8927,7 @@
     },
     "attributes" : {
       "npcId" : 3299,
-      "name" : "Some(Woman) (Lvl 2)",
+      "name" : "Woman (Lvl 2)",
       "size" : 1
     }
   },
@@ -8953,7 +8969,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3137,
-      "name" : "Some(Feral Vampyre) (Lvl 77)",
+      "name" : "Feral Vampyre (Lvl 77)",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -9014,7 +9031,7 @@
     },
     "attributes" : {
       "npcId" : 3270,
-      "name" : "Some(Guard) (Lvl 22) (2)",
+      "name" : "Guard (Lvl 22) (2)",
       "size" : 1
     }
   },
@@ -9036,7 +9053,7 @@
     },
     "attributes" : {
       "npcId" : 717,
-      "name" : "Some(Mummy) (Lvl 96)",
+      "name" : "Mummy (Lvl 96)",
       "isUndead" : true,
       "size" : 1
     }
@@ -9115,7 +9132,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3486,
-      "name" : "Some(Monk of Zamorak) (Lvl 30)",
+      "name" : "Monk of Zamorak (Lvl 30)",
       "size" : 1
     }
   },
@@ -9163,7 +9180,7 @@
     },
     "attributes" : {
       "npcId" : 2646,
-      "name" : "Some(Ochre Blamish Snail) (Lvl 10)",
+      "name" : "Ochre Blamish Snail (Lvl 10)",
       "size" : 1
     }
   },
@@ -9307,7 +9324,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 104,
-      "name" : "Some(Hellhound) (Lvl 122)",
+      "name" : "Hellhound (Lvl 122)",
       "isDemon" : true,
       "size" : 2
     }
@@ -9504,7 +9521,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3509,
-      "name" : "Some(Bouncer) (Lvl 160)",
+      "name" : "Bouncer (Lvl 160)",
       "size" : 2
     }
   },
@@ -9528,7 +9545,7 @@
     },
     "attributes" : {
       "npcId" : 4799,
-      "name" : "Some(Giant lobster) (Lvl 45)",
+      "name" : "Giant lobster (Lvl 45)",
       "size" : 2
     }
   },
@@ -9576,7 +9593,7 @@
     },
     "attributes" : {
       "npcId" : 139,
-      "name" : "Some(Steel dragon) (0)",
+      "name" : "Steel dragon (0)",
       "size" : 3
     }
   },
@@ -9594,7 +9611,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1071,
-      "name" : "Some(Confusion beast) (Lvl 43)",
+      "name" : "Confusion beast (Lvl 43)",
       "size" : 2
     }
   },
@@ -9677,7 +9694,7 @@
     },
     "attributes" : {
       "npcId" : 1688,
-      "name" : "Some(Skeleton) (Lvl 77) (0)",
+      "name" : "Skeleton (Lvl 77) (0)",
       "isUndead" : true,
       "size" : 1
     }
@@ -9864,7 +9881,7 @@
     },
     "attributes" : {
       "npcId" : 1118,
-      "name" : "Some(Man) (Lvl 4)",
+      "name" : "Man (Lvl 4)",
       "size" : 1
     }
   },
@@ -9912,7 +9929,7 @@
     },
     "attributes" : {
       "npcId" : 7862,
-      "name" : "Some(Black dragon) (Lvl 247)",
+      "name" : "Black dragon (Lvl 247)",
       "isDragon" : true,
       "size" : 4
     }
@@ -9995,6 +10012,7 @@
     "attributes" : {
       "npcId" : 6332,
       "name" : "Count Draynor (hard)",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -10077,7 +10095,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1694,
-      "name" : "Some(Shifter) (Lvl 38)",
+      "name" : "Shifter (Lvl 38)",
       "size" : 1
     }
   },
@@ -10095,7 +10113,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5764,
-      "name" : "Some(Penance Ranger) (Lvl 64)",
+      "name" : "Penance Ranger (Lvl 64)",
       "size" : 1
     }
   },
@@ -10113,7 +10131,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3121,
-      "name" : "Some(Tok-Xil) (Lvl 90)",
+      "name" : "Tok-Xil (Lvl 90)",
       "size" : 3
     }
   },
@@ -10180,7 +10198,7 @@
     },
     "attributes" : {
       "npcId" : 9118,
-      "name" : "Some(Rabbit) (1)",
+      "name" : "Rabbit (1)",
       "size" : 1
     }
   },
@@ -10297,7 +10315,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1729,
-      "name" : "Some(Defiler) (Lvl 67)",
+      "name" : "Defiler (Lvl 67)",
       "size" : 1
     }
   },
@@ -10339,7 +10357,7 @@
     },
     "attributes" : {
       "npcId" : 8073,
-      "name" : "Some(Green dragon) (Lvl 79)",
+      "name" : "Green dragon (Lvl 79)",
       "isDragon" : true,
       "size" : 4
     }
@@ -10419,7 +10437,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7259,
-      "name" : "Some(Dagannoth) (Lvl 74)",
+      "name" : "Dagannoth (Lvl 74)",
       "size" : 1
     }
   },
@@ -10459,7 +10477,7 @@
     },
     "attributes" : {
       "npcId" : 650,
-      "name" : "Some(Ice troll) (Lvl 120)",
+      "name" : "Ice troll (Lvl 120)",
       "size" : 1
     }
   },
@@ -10477,7 +10495,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6075,
-      "name" : "Some(Tortoise) (Lvl 79)",
+      "name" : "Tortoise (Lvl 79)",
       "size" : 3
     }
   },
@@ -10525,7 +10543,7 @@
     },
     "attributes" : {
       "npcId" : 5973,
-      "name" : "Some(Mounted terrorbird gnome) (Lvl 49)",
+      "name" : "Mounted terrorbird gnome (Lvl 49)",
       "size" : 2
     }
   },
@@ -10836,7 +10854,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 454,
-      "name" : "Some(Crawling Hand) (Lvl 12) (0)",
+      "name" : "Crawling Hand (Lvl 12) (0)",
       "isUndead" : true,
       "size" : 2
     }
@@ -10855,7 +10873,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3176,
-      "name" : "Some(Aviansie) (Lvl 148)",
+      "name" : "Aviansie (Lvl 148)",
       "size" : 2
     }
   },
@@ -10925,7 +10943,7 @@
     },
     "attributes" : {
       "npcId" : 6455,
-      "name" : "Some(Zombie) (Lvl 67)",
+      "name" : "Zombie (Lvl 67)",
       "isUndead" : true,
       "size" : 1
     }
@@ -10950,7 +10968,7 @@
     },
     "attributes" : {
       "npcId" : 5947,
-      "name" : "Some(Spinolyp) (Lvl 76)",
+      "name" : "Spinolyp (Lvl 76)",
       "size" : 1
     }
   },
@@ -11017,7 +11035,7 @@
     },
     "attributes" : {
       "npcId" : 8565,
-      "name" : "Some(Lizardman shaman) (Lvl 150)",
+      "name" : "Lizardman shaman (Lvl 150)",
       "size" : 2
     }
   },
@@ -11037,7 +11055,7 @@
     },
     "attributes" : {
       "npcId" : 5916,
-      "name" : "Some(Spawn) (Lvl 60)",
+      "name" : "Spawn (Lvl 60)",
       "size" : 1
     }
   },
@@ -11230,7 +11248,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 4442,
-      "name" : "Some(Vampyre Juvinate) (Lvl 75)",
+      "name" : "Vampyre Juvinate (Lvl 75)",
+      "isVampyre2" : true,
       "size" : 1
     }
   },
@@ -11385,7 +11404,7 @@
     },
     "attributes" : {
       "npcId" : 2500,
-      "name" : "Some(Flesh crawler) (Lvl 41)",
+      "name" : "Flesh crawler (Lvl 41)",
       "size" : 2
     }
   },
@@ -11660,7 +11679,7 @@
     },
     "attributes" : {
       "npcId" : 4198,
-      "name" : "Some(Apparition) (0)",
+      "name" : "Apparition (0)",
       "size" : 1
     }
   },
@@ -11896,7 +11915,7 @@
     },
     "attributes" : {
       "npcId" : 8063,
-      "name" : "Some(Zombified Spawn) (Lvl 64)",
+      "name" : "Zombified Spawn (Lvl 64)",
       "isUndead" : true,
       "size" : 1
     }
@@ -11961,7 +11980,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1722,
-      "name" : "Some(Torcher) (Lvl 91)",
+      "name" : "Torcher (Lvl 91)",
       "size" : 1
     }
   },
@@ -11979,7 +11998,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 11066,
-      "name" : "Some(Boar) (Lvl 5)",
+      "name" : "Boar (Lvl 5)",
       "size" : 1
     }
   },
@@ -12079,7 +12098,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1298,
-      "name" : "Some(Afflicted) (Lvl 30)",
+      "name" : "Afflicted (Lvl 30)",
       "size" : 1
     }
   },
@@ -12097,7 +12116,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5638,
-      "name" : "Some(Vampyre Juvinate) (Lvl 90)",
+      "name" : "Vampyre Juvinate (Lvl 90)",
+      "isVampyre2" : true,
       "size" : 1
     }
   },
@@ -12184,7 +12204,7 @@
     },
     "attributes" : {
       "npcId" : 2241,
-      "name" : "Some(Hobgoblin) (Lvl 47)",
+      "name" : "Hobgoblin (Lvl 47)",
       "size" : 1
     }
   },
@@ -12322,7 +12342,7 @@
     },
     "attributes" : {
       "npcId" : 5970,
-      "name" : "Some(Gnome) (Lvl 3)",
+      "name" : "Gnome (Lvl 3)",
       "size" : 1
     }
   },
@@ -12464,7 +12484,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3175,
-      "name" : "Some(Aviansie) (Lvl 137)",
+      "name" : "Aviansie (Lvl 137)",
       "size" : 2
     }
   },
@@ -12531,7 +12551,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3909,
-      "name" : "Some(Bear Cub) (Lvl 15)",
+      "name" : "Bear Cub (Lvl 15)",
       "size" : 1
     }
   },
@@ -12575,7 +12595,7 @@
     },
     "attributes" : {
       "npcId" : 7245,
-      "name" : "Some(Greater demon) (Lvl 100)",
+      "name" : "Greater demon (Lvl 100)",
       "isDemon" : true,
       "size" : 3
     }
@@ -12594,7 +12614,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3261,
-      "name" : "Some(Man) (Lvl 2)",
+      "name" : "Man (Lvl 2)",
       "size" : 1
     }
   },
@@ -12618,7 +12638,7 @@
     },
     "attributes" : {
       "npcId" : 5334,
-      "name" : "Some(Cave goblin guard) (Lvl 26)",
+      "name" : "Cave goblin guard (Lvl 26)",
       "size" : 1
     }
   },
@@ -12640,7 +12660,7 @@
     },
     "attributes" : {
       "npcId" : 6443,
-      "name" : "Some(Skeleton) (Lvl 81)",
+      "name" : "Skeleton (Lvl 81)",
       "isUndead" : true,
       "size" : 1
     }
@@ -12665,7 +12685,7 @@
     },
     "attributes" : {
       "npcId" : 3135,
-      "name" : "Some(Werewolf) (Lvl 93)",
+      "name" : "Werewolf (Lvl 93)",
       "size" : 1
     }
   },
@@ -12688,6 +12708,7 @@
     "attributes" : {
       "npcId" : 3459,
       "name" : "Dessous",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -12725,7 +12746,7 @@
     },
     "attributes" : {
       "npcId" : 7874,
-      "name" : "Some(Black demon) (Lvl 188)",
+      "name" : "Black demon (Lvl 188)",
       "isDemon" : true,
       "size" : 3
     }
@@ -12744,7 +12765,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3049,
-      "name" : "Some(Hobgoblin) (Lvl 28)",
+      "name" : "Hobgoblin (Lvl 28)",
       "size" : 1
     }
   },
@@ -12780,7 +12801,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7096,
-      "name" : "Some(Tortured gorilla) (Lvl 142)",
+      "name" : "Tortured gorilla (Lvl 142)",
       "size" : 2
     }
   },
@@ -12804,7 +12825,7 @@
     },
     "attributes" : {
       "npcId" : 3046,
-      "name" : "Some(Goblin) (Lvl 13) (0)",
+      "name" : "Goblin (Lvl 13) (0)",
       "size" : 1
     }
   },
@@ -12822,7 +12843,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1142,
-      "name" : "Some(Woman) (Lvl 14)",
+      "name" : "Woman (Lvl 14)",
       "size" : 1
     }
   },
@@ -12840,7 +12861,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2514,
-      "name" : "Some(Ankou) (Lvl 75)",
+      "name" : "Ankou (Lvl 75)",
       "isUndead" : true,
       "size" : 1
     }
@@ -12908,7 +12929,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3120,
-      "name" : "Some(Tz-Kek) (Lvl 22)",
+      "name" : "Tz-Kek (Lvl 22)",
       "size" : 1
     }
   },
@@ -12979,7 +13000,7 @@
     },
     "attributes" : {
       "npcId" : 10986,
-      "name" : "Some(Barbarian) (Lvl 15)",
+      "name" : "Barbarian (Lvl 15)",
       "size" : 1
     }
   },
@@ -13090,7 +13111,7 @@
     },
     "attributes" : {
       "npcId" : 4331,
-      "name" : "Some(Black Knight) (Lvl 33)",
+      "name" : "Black Knight (Lvl 33)",
       "size" : 1
     }
   },
@@ -13182,7 +13203,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 646,
-      "name" : "Some(Ice wolf) (Lvl 96)",
+      "name" : "Ice wolf (Lvl 96)",
       "size" : 2
     }
   },
@@ -13228,7 +13249,7 @@
     },
     "attributes" : {
       "npcId" : 736,
-      "name" : "Some(Bandit) (Lvl 41)",
+      "name" : "Bandit (Lvl 41)",
       "size" : 1
     }
   },
@@ -13252,7 +13273,7 @@
     },
     "attributes" : {
       "npcId" : 8031,
-      "name" : "Some(Rune dragon) (Lvl 380)",
+      "name" : "Rune dragon (Lvl 380)",
       "isDragon" : true,
       "size" : 5
     }
@@ -13361,7 +13382,7 @@
     },
     "attributes" : {
       "npcId" : 6346,
-      "name" : "Some(Damis) (Lvl 103)",
+      "name" : "Damis (Lvl 103)",
       "size" : 1
     }
   },
@@ -13434,7 +13455,7 @@
     },
     "attributes" : {
       "npcId" : 8852,
-      "name" : "Some(Knight of Ardougne) (Lvl 53)",
+      "name" : "Knight of Ardougne (Lvl 53)",
       "size" : 1
     }
   },
@@ -13476,7 +13497,7 @@
     },
     "attributes" : {
       "npcId" : 4973,
-      "name" : "Some(Gnome troop) (Lvl 1)",
+      "name" : "Gnome troop (Lvl 1)",
       "size" : 1
     }
   },
@@ -13512,7 +13533,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1667,
-      "name" : "Some(Penance Fighter) (Lvl 30)",
+      "name" : "Penance Fighter (Lvl 30)",
       "size" : 1
     }
   },
@@ -13577,7 +13598,7 @@
     },
     "attributes" : {
       "npcId" : 10696,
-      "name" : "Some(Rubble) (Lvl 13)",
+      "name" : "Rubble (Lvl 13)",
       "size" : 2
     }
   },
@@ -13600,7 +13621,7 @@
     },
     "attributes" : {
       "npcId" : 3024,
-      "name" : "Some(Scorpion) (Lvl 14)",
+      "name" : "Scorpion (Lvl 14)",
       "size" : 2
     }
   },
@@ -13624,7 +13645,7 @@
     },
     "attributes" : {
       "npcId" : 11294,
-      "name" : "Some(Blood Reaver) (Lvl 161)",
+      "name" : "Blood Reaver (Lvl 161)",
       "isDemon" : true,
       "size" : 2
     }
@@ -13715,7 +13736,7 @@
     },
     "attributes" : {
       "npcId" : 4496,
-      "name" : "Some(Skeleton fremennik) (Lvl 50)",
+      "name" : "Skeleton fremennik (Lvl 50)",
       "isUndead" : true,
       "size" : 1
     }
@@ -13799,7 +13820,7 @@
     },
     "attributes" : {
       "npcId" : 1447,
-      "name" : "Some(Pirate) (Lvl 23) (0)",
+      "name" : "Pirate (Lvl 23) (0)",
       "size" : 1
     }
   },
@@ -13820,7 +13841,7 @@
     },
     "attributes" : {
       "npcId" : 7879,
-      "name" : "Some(Ice giant) (Lvl 67)",
+      "name" : "Ice giant (Lvl 67)",
       "size" : 2
     }
   },
@@ -13842,7 +13863,7 @@
     },
     "attributes" : {
       "npcId" : 6451,
-      "name" : "Some(Zombie) (Lvl 47)",
+      "name" : "Zombie (Lvl 47)",
       "isUndead" : true,
       "size" : 1
     }
@@ -13928,7 +13949,7 @@
     },
     "attributes" : {
       "npcId" : 296,
-      "name" : "Some(Dwarf) (Lvl 10)",
+      "name" : "Dwarf (Lvl 10)",
       "size" : 1
     }
   },
@@ -13975,7 +13996,7 @@
     },
     "attributes" : {
       "npcId" : 6338,
-      "name" : "Some(Nazastarool (hard)) (Lvl 153)",
+      "name" : "Nazastarool (hard) (Lvl 153)",
       "size" : 2
     }
   },
@@ -14103,7 +14124,7 @@
     },
     "attributes" : {
       "npcId" : 1153,
-      "name" : "Some(Ogre) (Lvl 63)",
+      "name" : "Ogre (Lvl 63)",
       "size" : 2
     }
   },
@@ -14121,7 +14142,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1726,
-      "name" : "Some(Defiler) (Lvl 50)",
+      "name" : "Defiler (Lvl 50)",
       "size" : 1
     }
   },
@@ -14157,7 +14178,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 448,
-      "name" : "Some(Crawling Hand) (Lvl 8)",
+      "name" : "Crawling Hand (Lvl 8)",
       "isUndead" : true,
       "size" : 1
     }
@@ -14200,7 +14221,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6732,
-      "name" : "Some(River Troll) (Lvl 14)",
+      "name" : "River Troll (Lvl 14)",
       "size" : 1
     }
   },
@@ -14222,7 +14243,7 @@
     },
     "attributes" : {
       "npcId" : 6606,
-      "name" : "Some(Dark warrior) (Lvl 145)",
+      "name" : "Dark warrior (Lvl 145)",
       "size" : 1
     }
   },
@@ -14331,7 +14352,7 @@
     },
     "attributes" : {
       "npcId" : 11176,
-      "name" : "Some(Spider) (Lvl 123)",
+      "name" : "Spider (Lvl 123)",
       "size" : 2
     }
   },
@@ -14476,7 +14497,7 @@
     },
     "attributes" : {
       "npcId" : 4504,
-      "name" : "Some(Giant bat) (Lvl 27)",
+      "name" : "Giant bat (Lvl 27)",
       "size" : 1
     }
   },
@@ -14494,7 +14515,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5244,
-      "name" : "Some(Snake) (Lvl 24)",
+      "name" : "Snake (Lvl 24)",
       "size" : 1
     }
   },
@@ -14532,7 +14553,7 @@
     },
     "attributes" : {
       "npcId" : 6896,
-      "name" : "Some(Gangster) (Lvl 45)",
+      "name" : "Gangster (Lvl 45)",
       "size" : 1
     }
   },
@@ -14550,7 +14571,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 527,
-      "name" : "Some(Monk of Zamorak) (Lvl 22)",
+      "name" : "Monk of Zamorak (Lvl 22)",
       "size" : 1
     }
   },
@@ -14592,7 +14613,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6603,
-      "name" : "Some(Rogue) (Lvl 135)",
+      "name" : "Rogue (Lvl 135)",
       "size" : 1
     }
   },
@@ -14610,7 +14631,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1715,
-      "name" : "Some(Torcher) (Lvl 33)",
+      "name" : "Torcher (Lvl 33)",
       "size" : 1
     }
   },
@@ -14757,7 +14778,7 @@
     },
     "attributes" : {
       "npcId" : 1175,
-      "name" : "Some(Rooster) (Lvl 3)",
+      "name" : "Rooster (Lvl 3)",
       "size" : 1
     }
   },
@@ -14779,7 +14800,7 @@
     },
     "attributes" : {
       "npcId" : 6462,
-      "name" : "Some(Zombie) (Lvl 90)",
+      "name" : "Zombie (Lvl 90)",
       "isUndead" : true,
       "size" : 1
     }
@@ -14889,7 +14910,7 @@
     },
     "attributes" : {
       "npcId" : 83,
-      "name" : "Some(Skeleton) (Lvl 45)",
+      "name" : "Skeleton (Lvl 45)",
       "isUndead" : true,
       "size" : 1
     }
@@ -15032,7 +15053,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5744,
-      "name" : "Some(Penance Fighter) (Lvl 56)",
+      "name" : "Penance Fighter (Lvl 56)",
       "size" : 1
     }
   },
@@ -15103,7 +15124,7 @@
     },
     "attributes" : {
       "npcId" : 3072,
-      "name" : "Some(Barbarian) (Lvl 9) (0)",
+      "name" : "Barbarian (Lvl 9) (0)",
       "size" : 1
     }
   },
@@ -15151,7 +15172,7 @@
     },
     "attributes" : {
       "npcId" : 4493,
-      "name" : "Some(Skeleton fremennik) (Lvl 40)",
+      "name" : "Skeleton fremennik (Lvl 40)",
       "isUndead" : true,
       "size" : 1
     }
@@ -15172,7 +15193,7 @@
     },
     "attributes" : {
       "npcId" : 2506,
-      "name" : "Some(Zombie) (Lvl 44)",
+      "name" : "Zombie (Lvl 44)",
       "isUndead" : true,
       "size" : 1
     }
@@ -15282,7 +15303,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1380,
-      "name" : "Some(Camp dweller) (Lvl 31)",
+      "name" : "Camp dweller (Lvl 31)",
       "size" : 1
     }
   },
@@ -15407,7 +15428,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5630,
-      "name" : "Some(Giant snail) (Lvl 139)",
+      "name" : "Giant snail (Lvl 139)",
       "size" : 3
     }
   },
@@ -15425,7 +15446,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3851,
-      "name" : "Some(Moss giant) (Lvl 48)",
+      "name" : "Moss giant (Lvl 48)",
       "size" : 2
     }
   },
@@ -15479,7 +15500,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5512,
-      "name" : "Some(Gardener) (Lvl 4)",
+      "name" : "Gardener (Lvl 4)",
       "size" : 1
     }
   },
@@ -15497,7 +15518,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1866,
-      "name" : "Some(Tree spirit) (Lvl 159)",
+      "name" : "Tree spirit (Lvl 159)",
       "size" : 1
     }
   },
@@ -15519,7 +15540,7 @@
     },
     "attributes" : {
       "npcId" : 6440,
-      "name" : "Some(Giant skeleton) (Lvl 100)",
+      "name" : "Giant skeleton (Lvl 100)",
       "isUndead" : true,
       "size" : 1
     }
@@ -15565,7 +15586,7 @@
     },
     "attributes" : {
       "npcId" : 1209,
-      "name" : "Some(Khazard Guard) (Lvl 23)",
+      "name" : "Khazard Guard (Lvl 23)",
       "size" : 1
     }
   },
@@ -15656,7 +15677,7 @@
     },
     "attributes" : {
       "npcId" : 426,
-      "name" : "Some(Turoth) (Lvl 86)",
+      "name" : "Turoth (Lvl 86)",
       "isLeafy" : true,
       "size" : 1
     }
@@ -15681,7 +15702,7 @@
     },
     "attributes" : {
       "npcId" : 5908,
-      "name" : "Some(Abyssal Sire) (Lvl 350)",
+      "name" : "Abyssal Sire (Lvl 350)",
       "isDemon" : true,
       "size" : 6
     }
@@ -15815,7 +15836,8 @@
     },
     "attributes" : {
       "npcId" : 8248,
-      "name" : "Some(Ranis Drakan) (Lvl 233)",
+      "name" : "Ranis Drakan (Lvl 233)",
+      "isVampyre3" : true,
       "size" : 1
     }
   },
@@ -15857,7 +15879,7 @@
     },
     "attributes" : {
       "npcId" : 2211,
-      "name" : "Some(Spiritual ranger) (Lvl 122)",
+      "name" : "Spiritual ranger (Lvl 122)",
       "size" : 1
     }
   },
@@ -15989,7 +16011,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1704,
-      "name" : "Some(Ravager) (Lvl 36)",
+      "name" : "Ravager (Lvl 36)",
       "size" : 1
     }
   },
@@ -16007,7 +16029,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5627,
-      "name" : "Some(Ghast) (Lvl 139)",
+      "name" : "Ghast (Lvl 139)",
       "size" : 2
     }
   },
@@ -16096,7 +16118,7 @@
     },
     "attributes" : {
       "npcId" : 6574,
-      "name" : "Some(Gnome guard) (Lvl 1337)",
+      "name" : "Gnome guard (Lvl 1337)",
       "size" : 1
     }
   },
@@ -16116,7 +16138,7 @@
     },
     "attributes" : {
       "npcId" : 5088,
-      "name" : "Some(Dark wizard) (Lvl 20)",
+      "name" : "Dark wizard (Lvl 20)",
       "size" : 1
     }
   },
@@ -16158,7 +16180,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5761,
-      "name" : "Some(Penance Ranger) (Lvl 43)",
+      "name" : "Penance Ranger (Lvl 43)",
       "size" : 1
     }
   },
@@ -16181,7 +16203,7 @@
     },
     "attributes" : {
       "npcId" : 2479,
-      "name" : "Some(Scorpion) (Lvl 59)",
+      "name" : "Scorpion (Lvl 59)",
       "size" : 2
     }
   },
@@ -16217,7 +16239,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2249,
-      "name" : "Some(Goblin) (Lvl 13) (1)",
+      "name" : "Goblin (Lvl 13) (1)",
       "size" : 1
     }
   },
@@ -16257,7 +16279,7 @@
     },
     "attributes" : {
       "npcId" : 7486,
-      "name" : "Some(Zombie) (Lvl 56) (0)",
+      "name" : "Zombie (Lvl 56) (0)",
       "isUndead" : true,
       "size" : 1
     }
@@ -16295,7 +16317,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6400,
-      "name" : "Some(Nazastarool) (Lvl 93)",
+      "name" : "Nazastarool (Lvl 93)",
       "size" : 2
     }
   },
@@ -16406,7 +16428,7 @@
     },
     "attributes" : {
       "npcId" : 6399,
-      "name" : "Some(Nazastarool) (Lvl 68)",
+      "name" : "Nazastarool (Lvl 68)",
       "size" : 2
     }
   },
@@ -16442,7 +16464,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6726,
-      "name" : "Some(Rock Golem) (Lvl 29)",
+      "name" : "Rock Golem (Lvl 29)",
       "size" : 1
     }
   },
@@ -16491,7 +16513,7 @@
     },
     "attributes" : {
       "npcId" : 6916,
-      "name" : "Some(Lizardman) (Lvl 62)",
+      "name" : "Lizardman (Lvl 62)",
       "size" : 1
     }
   },
@@ -16533,7 +16555,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 4309,
-      "name" : "Some(Sea troll) (Lvl 65)",
+      "name" : "Sea troll (Lvl 65)",
       "size" : 1
     }
   },
@@ -16554,7 +16576,7 @@
     },
     "attributes" : {
       "npcId" : 522,
-      "name" : "Some(Pirate) (Lvl 23) (1)",
+      "name" : "Pirate (Lvl 23) (1)",
       "size" : 1
     }
   },
@@ -16649,7 +16671,7 @@
     },
     "attributes" : {
       "npcId" : 274,
-      "name" : "Some(Steel dragon) (1)",
+      "name" : "Steel dragon (1)",
       "isDragon" : true,
       "size" : 4
     }
@@ -16697,7 +16719,7 @@
     },
     "attributes" : {
       "npcId" : 2488,
-      "name" : "Some(Goblin) (Lvl 25)",
+      "name" : "Goblin (Lvl 25)",
       "size" : 1
     }
   },
@@ -16715,7 +16737,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5240,
-      "name" : "Some(Bird) (Lvl 11)",
+      "name" : "Bird (Lvl 11)",
       "size" : 1
     }
   },
@@ -16914,7 +16936,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1293,
-      "name" : "Some(Afflicted) (Lvl 37)",
+      "name" : "Afflicted (Lvl 37)",
       "size" : 1
     }
   },
@@ -16932,7 +16954,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1689,
-      "name" : "Some(Splatter) (Lvl 22)",
+      "name" : "Splatter (Lvl 22)",
       "size" : 1
     }
   },
@@ -16976,7 +16998,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1074,
-      "name" : "Some(Hopeless creature) (Lvl 40)",
+      "name" : "Hopeless creature (Lvl 40)",
       "size" : 2
     }
   },
@@ -17087,7 +17109,7 @@
     },
     "attributes" : {
       "npcId" : 3168,
-      "name" : "Some(Spiritual mage) (Lvl 123)",
+      "name" : "Spiritual mage (Lvl 123)",
       "size" : 2
     }
   },
@@ -17188,7 +17210,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7420,
-      "name" : "Some(Zamorak ranger) (Lvl 81)",
+      "name" : "Zamorak ranger (Lvl 81)",
       "size" : 1
     }
   },
@@ -17272,7 +17294,7 @@
     },
     "attributes" : {
       "npcId" : 2650,
-      "name" : "Some(Blood Blamish Snail) (Lvl 20)",
+      "name" : "Blood Blamish Snail (Lvl 20)",
       "size" : 1
     }
   },
@@ -17290,7 +17312,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 11069,
-      "name" : "Some(Lynx) (Lvl 24)",
+      "name" : "Lynx (Lvl 24)",
       "size" : 2
     }
   },
@@ -17308,7 +17330,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2947,
-      "name" : "Some(Nail beast) (Lvl 98)",
+      "name" : "Nail beast (Lvl 98)",
       "size" : 2
     }
   },
@@ -17354,7 +17376,7 @@
     },
     "attributes" : {
       "npcId" : 6449,
-      "name" : "Some(Zombie) (Lvl 40)",
+      "name" : "Zombie (Lvl 40)",
       "isUndead" : true,
       "size" : 1
     }
@@ -17417,7 +17439,7 @@
     },
     "attributes" : {
       "npcId" : 76,
-      "name" : "Some(Skeleton) (Lvl 21)",
+      "name" : "Skeleton (Lvl 21)",
       "isUndead" : true,
       "size" : 1
     }
@@ -17490,7 +17512,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5641,
-      "name" : "Some(Feral Vampyre) (Lvl 100)",
+      "name" : "Feral Vampyre (Lvl 100)",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -17508,7 +17531,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2245,
-      "name" : "Some(Goblin) (Lvl 17)",
+      "name" : "Goblin (Lvl 17)",
       "size" : 1
     }
   },
@@ -17574,7 +17597,7 @@
     },
     "attributes" : {
       "npcId" : 2212,
-      "name" : "Some(Spiritual mage) (Lvl 120)",
+      "name" : "Spiritual mage (Lvl 120)",
       "size" : 1
     }
   },
@@ -17597,7 +17620,7 @@
     },
     "attributes" : {
       "npcId" : 2317,
-      "name" : "Some(Guard) (Lvl 24)",
+      "name" : "Guard (Lvl 24)",
       "size" : 1,
       "accuracyMagic" : -4
     }
@@ -17664,7 +17687,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6737,
-      "name" : "Some(River Troll) (Lvl 159)",
+      "name" : "River Troll (Lvl 159)",
       "size" : 1
     }
   },
@@ -17731,7 +17754,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 4692,
-      "name" : "Some(Angry bear) (Lvl 47)",
+      "name" : "Angry bear (Lvl 47)",
       "size" : 2
     }
   },
@@ -17773,7 +17796,7 @@
     },
     "attributes" : {
       "npcId" : 5345,
-      "name" : "Some(Undead one) (Lvl 61)",
+      "name" : "Undead one (Lvl 61)",
       "isUndead" : true,
       "size" : 1
     }
@@ -17855,7 +17878,7 @@
     },
     "attributes" : {
       "npcId" : 6465,
-      "name" : "Some(Zombie) (Lvl 100)",
+      "name" : "Zombie (Lvl 100)",
       "isUndead" : true,
       "size" : 1
     }
@@ -17874,7 +17897,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6725,
-      "name" : "Some(Rock Golem) (Lvl 14)",
+      "name" : "Rock Golem (Lvl 14)",
       "size" : 1
     }
   },
@@ -17977,7 +18000,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1696,
-      "name" : "Some(Shifter) (Lvl 57)",
+      "name" : "Shifter (Lvl 57)",
       "size" : 1
     }
   },
@@ -17995,7 +18018,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5759,
-      "name" : "Some(Penance Ranger) (Lvl 32)",
+      "name" : "Penance Ranger (Lvl 32)",
       "size" : 1
     }
   },
@@ -18105,7 +18128,7 @@
     },
     "attributes" : {
       "npcId" : 8064,
-      "name" : "Some(Stone Guardian) (0)",
+      "name" : "Stone Guardian (0)",
       "size" : 1
     }
   },
@@ -18171,7 +18194,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7271,
-      "name" : "Some(Cyclops) (Lvl 56) (1)",
+      "name" : "Cyclops (Lvl 56) (1)",
       "size" : 2
     }
   },
@@ -18404,7 +18427,7 @@
     },
     "attributes" : {
       "npcId" : 6613,
-      "name" : "Some(Skeleton Hellhound) (Lvl 214)",
+      "name" : "Skeleton Hellhound (Lvl 214)",
       "isUndead" : true,
       "size" : 2
     }
@@ -18423,7 +18446,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2867,
-      "name" : "Some(Dungeon rat) (Lvl 12)",
+      "name" : "Dungeon rat (Lvl 12)",
       "size" : 2
     }
   },
@@ -18465,7 +18488,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3179,
-      "name" : "Some(Aviansie) (Lvl 79) (0)",
+      "name" : "Aviansie (Lvl 79) (0)",
       "size" : 2
     }
   },
@@ -18599,7 +18622,7 @@
     },
     "attributes" : {
       "npcId" : 7916,
-      "name" : "Some(Thief) (Lvl 21)",
+      "name" : "Thief (Lvl 21)",
       "size" : 1
     }
   },
@@ -18623,7 +18646,7 @@
     },
     "attributes" : {
       "npcId" : 3283,
-      "name" : "Some(Guard) (Lvl 19) (1)",
+      "name" : "Guard (Lvl 19) (1)",
       "size" : 1
     }
   },
@@ -18659,7 +18682,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1737,
-      "name" : "Some(Brawler) (Lvl 129)",
+      "name" : "Brawler (Lvl 129)",
       "size" : 2
     }
   },
@@ -18718,7 +18741,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7307,
-      "name" : "Some(Ancient Wizard) (Lvl 98)",
+      "name" : "Ancient Wizard (Lvl 98)",
       "size" : 1
     }
   },
@@ -18742,7 +18765,7 @@
     },
     "attributes" : {
       "npcId" : 8070,
-      "name" : "Some(Skeleton) (Lvl 132) (0)",
+      "name" : "Skeleton (Lvl 132) (0)",
       "isUndead" : true,
       "size" : 1
     }
@@ -18785,7 +18808,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3138,
-      "name" : "Some(Bloodveld) (Lvl 81)",
+      "name" : "Bloodveld (Lvl 81)",
       "isDemon" : true,
       "size" : 2
     }
@@ -18809,6 +18832,7 @@
     "attributes" : {
       "npcId" : 6393,
       "name" : "Count Draynor",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -18832,7 +18856,7 @@
     },
     "attributes" : {
       "npcId" : 1024,
-      "name" : "Some(Zygomite) (Lvl 86)",
+      "name" : "Zygomite (Lvl 86)",
       "size" : 2
     }
   },
@@ -18939,7 +18963,7 @@
     },
     "attributes" : {
       "npcId" : 2537,
-      "name" : "Some(H.A.M. Guard) (Lvl 18)",
+      "name" : "H.A.M. Guard (Lvl 18)",
       "size" : 1
     }
   },
@@ -19000,7 +19024,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5628,
-      "name" : "Some(Giant snail) (Lvl 80)",
+      "name" : "Giant snail (Lvl 80)",
       "size" : 3
     }
   },
@@ -19018,7 +19042,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3969,
-      "name" : "Some(Zombie rat) (Lvl 3)",
+      "name" : "Zombie rat (Lvl 3)",
       "size" : 2
     }
   },
@@ -19203,7 +19227,7 @@
     },
     "attributes" : {
       "npcId" : 8138,
-      "name" : "Some(Spider) (Lvl 35)",
+      "name" : "Spider (Lvl 35)",
       "size" : 1
     }
   },
@@ -19340,7 +19364,7 @@
     },
     "attributes" : {
       "npcId" : 924,
-      "name" : "Some(Skeleton) (Lvl 13)",
+      "name" : "Skeleton (Lvl 13)",
       "isUndead" : true,
       "size" : 1
     }
@@ -19365,7 +19389,7 @@
     },
     "attributes" : {
       "npcId" : 11065,
-      "name" : "Some(Bandit) (Lvl 22) (0)",
+      "name" : "Bandit (Lvl 22) (0)",
       "size" : 1
     }
   },
@@ -19446,7 +19470,7 @@
     },
     "attributes" : {
       "npcId" : 292,
-      "name" : "Some(Dwarf) (Lvl 20)",
+      "name" : "Dwarf (Lvl 20)",
       "size" : 1
     }
   },
@@ -19464,7 +19488,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 108,
-      "name" : "Some(White wolf) (Lvl 38)",
+      "name" : "White wolf (Lvl 38)",
       "size" : 2
     }
   },
@@ -19500,7 +19524,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6736,
-      "name" : "Some(River Troll) (Lvl 120)",
+      "name" : "River Troll (Lvl 120)",
       "size" : 1
     }
   },
@@ -19524,7 +19548,7 @@
     },
     "attributes" : {
       "npcId" : 1234,
-      "name" : "Some(Arzinian Avatar of Magic) (Lvl 125)",
+      "name" : "Arzinian Avatar of Magic (Lvl 125)",
       "size" : 1
     }
   },
@@ -19634,7 +19658,7 @@
     },
     "attributes" : {
       "npcId" : 2058,
-      "name" : "Some(Dark wizard) (Lvl 11)",
+      "name" : "Dark wizard (Lvl 11)",
       "size" : 1
     }
   },
@@ -19704,7 +19728,7 @@
     },
     "attributes" : {
       "npcId" : 2526,
-      "name" : "Some(Skeleton) (Lvl 85)",
+      "name" : "Skeleton (Lvl 85)",
       "isUndead" : true,
       "size" : 1
     }
@@ -19727,7 +19751,7 @@
     },
     "attributes" : {
       "npcId" : 6454,
-      "name" : "Some(Zombie) (Lvl 61)",
+      "name" : "Zombie (Lvl 61)",
       "isUndead" : true,
       "size" : 1
     }
@@ -19752,7 +19776,7 @@
     },
     "attributes" : {
       "npcId" : 5421,
-      "name" : "Some(Soldier) (Lvl 28)",
+      "name" : "Soldier (Lvl 28)",
       "size" : 1
     }
   },
@@ -19827,7 +19851,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5765,
-      "name" : "Some(Penance Ranger) (Lvl 72)",
+      "name" : "Penance Ranger (Lvl 72)",
       "size" : 1
     }
   },
@@ -19849,7 +19873,7 @@
     },
     "attributes" : {
       "npcId" : 6457,
-      "name" : "Some(Zombie) (Lvl 72) (0)",
+      "name" : "Zombie (Lvl 72) (0)",
       "isUndead" : true,
       "size" : 1
     }
@@ -19914,7 +19938,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1037,
-      "name" : "Some(Snake) (Lvl 35)",
+      "name" : "Snake (Lvl 35)",
       "size" : 1
     }
   },
@@ -19974,7 +19998,7 @@
     },
     "attributes" : {
       "npcId" : 8854,
-      "name" : "Some(Knight of Ardougne) (Lvl 46)",
+      "name" : "Knight of Ardougne (Lvl 46)",
       "size" : 1
     }
   },
@@ -20041,7 +20065,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 946,
-      "name" : "Some(Ghast) (Lvl 30)",
+      "name" : "Ghast (Lvl 30)",
       "size" : 2
     }
   },
@@ -20077,7 +20101,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2484,
-      "name" : "Some(Goblin) (Lvl 5) (1)",
+      "name" : "Goblin (Lvl 5) (1)",
       "size" : 1
     }
   },
@@ -20095,7 +20119,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1141,
-      "name" : "Some(Woman) (Lvl 3)",
+      "name" : "Woman (Lvl 3)",
       "size" : 1
     }
   },
@@ -20173,7 +20197,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1731,
-      "name" : "Some(Defiler) (Lvl 80)",
+      "name" : "Defiler (Lvl 80)",
       "size" : 1
     }
   },
@@ -20238,7 +20262,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5743,
-      "name" : "Some(Penance Fighter) (Lvl 47)",
+      "name" : "Penance Fighter (Lvl 47)",
       "size" : 1
     }
   },
@@ -20258,7 +20282,7 @@
     },
     "attributes" : {
       "npcId" : 7867,
-      "name" : "Some(Lesser demon) (Lvl 94)",
+      "name" : "Lesser demon (Lvl 94)",
       "isDemon" : true,
       "size" : 2
     }
@@ -20280,7 +20304,7 @@
     },
     "attributes" : {
       "npcId" : 428,
-      "name" : "Some(Turoth) (Lvl 87)",
+      "name" : "Turoth (Lvl 87)",
       "isLeafy" : true,
       "size" : 2
     }
@@ -20299,7 +20323,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1865,
-      "name" : "Some(Tree spirit) (Lvl 120)",
+      "name" : "Tree spirit (Lvl 120)",
       "size" : 1
     }
   },
@@ -20409,7 +20433,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5281,
-      "name" : "Some(Monkey Zombie) (Lvl 98)",
+      "name" : "Monkey Zombie (Lvl 98)",
       "isUndead" : true,
       "size" : 1
     }
@@ -20449,7 +20473,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 106,
-      "name" : "Some(Wolf) (Lvl 64)",
+      "name" : "Wolf (Lvl 64)",
       "size" : 2
     }
   },
@@ -20577,7 +20601,7 @@
     },
     "attributes" : {
       "npcId" : 137,
-      "name" : "Some(Baby red dragon) (Lvl 65)",
+      "name" : "Baby red dragon (Lvl 65)",
       "size" : 2
     }
   },
@@ -20599,7 +20623,8 @@
     },
     "attributes" : {
       "npcId" : 1128,
-      "name" : "Some(Dessous) (Lvl 217)",
+      "name" : "Dessous (Lvl 217)",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -20617,7 +20642,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1705,
-      "name" : "Some(Ravager) (Lvl 53)",
+      "name" : "Ravager (Lvl 53)",
       "size" : 1
     }
   },
@@ -20675,7 +20700,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1710,
-      "name" : "Some(Spinner) (Lvl 55)",
+      "name" : "Spinner (Lvl 55)",
       "size" : 1
     }
   },
@@ -20736,7 +20761,7 @@
     },
     "attributes" : {
       "npcId" : 431,
-      "name" : "Some(Turoth) (Lvl 88)",
+      "name" : "Turoth (Lvl 88)",
       "isLeafy" : true,
       "size" : 2
     }
@@ -20780,7 +20805,7 @@
     },
     "attributes" : {
       "npcId" : 2649,
-      "name" : "Some(Myre Blamish Snail) (Lvl 10)",
+      "name" : "Myre Blamish Snail (Lvl 10)",
       "size" : 1
     }
   },
@@ -20802,7 +20827,7 @@
     },
     "attributes" : {
       "npcId" : 6446,
-      "name" : "Some(Skeleton) (Lvl 42) (1)",
+      "name" : "Skeleton (Lvl 42) (1)",
       "isUndead" : true,
       "size" : 1
     }
@@ -20821,7 +20846,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5740,
-      "name" : "Some(Penance Fighter) (Lvl 32)",
+      "name" : "Penance Fighter (Lvl 32)",
       "size" : 1
     }
   },
@@ -20839,7 +20864,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5637,
-      "name" : "Some(Vampyre Juvinate) (Lvl 59)",
+      "name" : "Vampyre Juvinate (Lvl 59)",
+      "isVampyre2" : true,
       "size" : 1
     }
   },
@@ -20903,7 +20929,7 @@
     },
     "attributes" : {
       "npcId" : 1354,
-      "name" : "Some(Dwarf gang member) (Lvl 44)",
+      "name" : "Dwarf gang member (Lvl 44)",
       "size" : 1
     }
   },
@@ -20926,7 +20952,7 @@
     },
     "attributes" : {
       "npcId" : 10690,
-      "name" : "Some(Rubble) (Lvl 70)",
+      "name" : "Rubble (Lvl 70)",
       "size" : 2
     }
   },
@@ -20968,7 +20994,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5237,
-      "name" : "Some(Skeleton) (Lvl 142)",
+      "name" : "Skeleton (Lvl 142)",
       "isUndead" : true,
       "size" : 1
     }
@@ -20993,7 +21019,7 @@
     },
     "attributes" : {
       "npcId" : 4099,
-      "name" : "Some(Guard) (Lvl 37) (0)",
+      "name" : "Guard (Lvl 37) (0)",
       "size" : 1
     }
   },
@@ -21035,7 +21061,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6728,
-      "name" : "Some(Rock Golem) (Lvl 79)",
+      "name" : "Rock Golem (Lvl 79)",
       "size" : 1
     }
   },
@@ -21122,7 +21148,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5642,
-      "name" : "Some(Feral Vampyre) (Lvl 130)",
+      "name" : "Feral Vampyre (Lvl 130)",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -21146,7 +21173,7 @@
     },
     "attributes" : {
       "npcId" : 6056,
-      "name" : "Some(Guard) (Lvl 37) (1)",
+      "name" : "Guard (Lvl 37) (1)",
       "size" : 1
     }
   },
@@ -21164,7 +21191,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1862,
-      "name" : "Some(Tree spirit) (Lvl 29)",
+      "name" : "Tree spirit (Lvl 29)",
       "size" : 1
     }
   },
@@ -21182,7 +21209,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3174,
-      "name" : "Some(Aviansie) (Lvl 97) (1)",
+      "name" : "Aviansie (Lvl 97) (1)",
       "size" : 2
     }
   },
@@ -21228,7 +21255,7 @@
     },
     "attributes" : {
       "npcId" : 6450,
-      "name" : "Some(Zombie) (Lvl 42)",
+      "name" : "Zombie (Lvl 42)",
       "isUndead" : true,
       "size" : 1
     }
@@ -21296,7 +21323,7 @@
     },
     "attributes" : {
       "npcId" : 957,
-      "name" : "Some(Kalphite Soldier) (Lvl 85)",
+      "name" : "Kalphite Soldier (Lvl 85)",
       "isKalphite" : true,
       "size" : 3
     }
@@ -21321,7 +21348,7 @@
     },
     "attributes" : {
       "npcId" : 2242,
-      "name" : "Some(Spiritual ranger) (Lvl 115)",
+      "name" : "Spiritual ranger (Lvl 115)",
       "size" : 1
     }
   },
@@ -21446,7 +21473,7 @@
     },
     "attributes" : {
       "npcId" : 11508,
-      "name" : "Some(Scarab mage) (Lvl 119)",
+      "name" : "Scarab mage (Lvl 119)",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 30
@@ -21667,7 +21694,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2247,
-      "name" : "Some(Goblin) (Lvl 12) (0)",
+      "name" : "Goblin (Lvl 12) (0)",
       "size" : 1
     }
   },
@@ -21742,7 +21769,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 695,
-      "name" : "Some(Bandit) (Lvl 57)",
+      "name" : "Bandit (Lvl 57)",
       "size" : 1
     }
   },
@@ -21760,7 +21787,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 10545,
-      "name" : "Some(Forgotten Soul) (Lvl 20)",
+      "name" : "Forgotten Soul (Lvl 20)",
       "isUndead" : true,
       "size" : 1
     }
@@ -21785,7 +21812,7 @@
     },
     "attributes" : {
       "npcId" : 5418,
-      "name" : "Some(Guard) (Lvl 20)",
+      "name" : "Guard (Lvl 20)",
       "size" : 1
     }
   },
@@ -21831,7 +21858,7 @@
     },
     "attributes" : {
       "npcId" : 140,
-      "name" : "Some(Dagannoth) (Lvl 135)",
+      "name" : "Dagannoth (Lvl 135)",
       "size" : 3
     }
   },
@@ -21849,7 +21876,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7889,
-      "name" : "Some(Dusk) (Lvl 328)",
+      "name" : "Dusk (Lvl 328)",
       "size" : 6
     }
   },
@@ -21867,7 +21894,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5626,
-      "name" : "Some(Ghast) (Lvl 109)",
+      "name" : "Ghast (Lvl 109)",
       "size" : 2
     }
   },
@@ -22009,7 +22036,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2236,
-      "name" : "Some(Cyclops) (Lvl 81)",
+      "name" : "Cyclops (Lvl 81)",
       "size" : 2
     }
   },
@@ -22033,7 +22060,7 @@
     },
     "attributes" : {
       "npcId" : 6501,
-      "name" : "Some(Kalphite Queen) (Lvl 333)",
+      "name" : "Kalphite Queen (Lvl 333)",
       "isKalphite" : true,
       "size" : 5
     }
@@ -22052,7 +22079,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1721,
-      "name" : "Some(Torcher) (Lvl 79)",
+      "name" : "Torcher (Lvl 79)",
       "size" : 1
     }
   },
@@ -22171,7 +22198,7 @@
     },
     "attributes" : {
       "npcId" : 799,
-      "name" : "Some(Scarab mage) (Lvl 66)",
+      "name" : "Scarab mage (Lvl 66)",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 70
@@ -22290,7 +22317,7 @@
     },
     "attributes" : {
       "npcId" : 1829,
-      "name" : "Some(White Knight) (Lvl 42)",
+      "name" : "White Knight (Lvl 42)",
       "size" : 1
     }
   },
@@ -22308,7 +22335,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6328,
-      "name" : "Some(King Roald) (Lvl 188)",
+      "name" : "King Roald (Lvl 188)",
       "size" : 1
     }
   },
@@ -22332,7 +22359,7 @@
     },
     "attributes" : {
       "npcId" : 8058,
-      "name" : "Some(Vorkath) (Lvl 392)",
+      "name" : "Vorkath (Lvl 392)",
       "isDragon" : true,
       "isUndead" : true,
       "size" : 7,
@@ -22506,7 +22533,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1716,
-      "name" : "Some(Torcher) (Lvl 49)",
+      "name" : "Torcher (Lvl 49)",
       "size" : 1
     }
   },
@@ -22595,7 +22622,7 @@
     },
     "attributes" : {
       "npcId" : 6067,
-      "name" : "Some(Tower Archer) (Lvl 49)",
+      "name" : "Tower Archer (Lvl 49)",
       "size" : 1
     }
   },
@@ -22613,7 +22640,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3141,
-      "name" : "Some(Gorak) (Lvl 149)",
+      "name" : "Gorak (Lvl 149)",
       "size" : 2
     }
   },
@@ -22700,7 +22727,7 @@
     },
     "attributes" : {
       "npcId" : 6605,
-      "name" : "Some(Bandit) (Lvl 130)",
+      "name" : "Bandit (Lvl 130)",
       "size" : 1
     }
   },
@@ -22722,7 +22749,7 @@
     },
     "attributes" : {
       "npcId" : 6468,
-      "name" : "Some(Skeleton) (Lvl 87)",
+      "name" : "Skeleton (Lvl 87)",
       "isUndead" : true,
       "size" : 1
     }
@@ -22741,7 +22768,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1693,
-      "name" : "Some(Splatter) (Lvl 65)",
+      "name" : "Splatter (Lvl 65)",
       "size" : 1
     }
   },
@@ -22804,7 +22831,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 456,
-      "name" : "Some(Crawling Hand) (Lvl 12) (1)",
+      "name" : "Crawling Hand (Lvl 12) (1)",
       "isUndead" : true,
       "size" : 2
     }
@@ -22944,7 +22971,7 @@
     },
     "attributes" : {
       "npcId" : 8069,
-      "name" : "Some(Zombie) (Lvl 132) (1)",
+      "name" : "Zombie (Lvl 132) (1)",
       "isUndead" : true,
       "size" : 1,
       "accuracyMagic" : 20
@@ -22982,7 +23009,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5762,
-      "name" : "Some(Penance Ranger) (Lvl 51)",
+      "name" : "Penance Ranger (Lvl 51)",
       "size" : 1
     }
   },
@@ -23024,7 +23051,7 @@
     },
     "attributes" : {
       "npcId" : 2478,
-      "name" : "Some(Spider) (Lvl 24)",
+      "name" : "Spider (Lvl 24)",
       "size" : 1
     }
   },
@@ -23046,7 +23073,7 @@
     },
     "attributes" : {
       "npcId" : 7487,
-      "name" : "Some(Zombie) (Lvl 76) (0)",
+      "name" : "Zombie (Lvl 76) (0)",
       "isUndead" : true,
       "size" : 1
     }
@@ -23089,7 +23116,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5615,
-      "name" : "Some(Swamp Snake) (Lvl 80)",
+      "name" : "Swamp Snake (Lvl 80)",
       "size" : 3
     }
   },
@@ -23107,7 +23134,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1275,
-      "name" : "Some(Experiment) (0)",
+      "name" : "Experiment (0)",
       "size" : 1
     }
   },
@@ -23269,7 +23296,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 9050,
-      "name" : "Some(Zalcano) (Lvl 336)",
+      "name" : "Zalcano (Lvl 336)",
       "size" : 5
     }
   },
@@ -23313,7 +23340,7 @@
     },
     "attributes" : {
       "npcId" : 6461,
-      "name" : "Some(Zombie) (Lvl 86)",
+      "name" : "Zombie (Lvl 86)",
       "isUndead" : true,
       "size" : 1
     }
@@ -23353,7 +23380,7 @@
     },
     "attributes" : {
       "npcId" : 1408,
-      "name" : "Some(Dwarf) (Lvl 7)",
+      "name" : "Dwarf (Lvl 7)",
       "size" : 1
     }
   },
@@ -23371,7 +23398,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3253,
-      "name" : "Some(Thief) (Lvl 16)",
+      "name" : "Thief (Lvl 16)",
       "size" : 1
     }
   },
@@ -23389,7 +23416,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1062,
-      "name" : "Some(Angry giant rat) (Lvl 45)",
+      "name" : "Angry giant rat (Lvl 45)",
       "size" : 1
     }
   },
@@ -23473,7 +23500,7 @@
     },
     "attributes" : {
       "npcId" : 483,
-      "name" : "Some(Cave bug) (Lvl 96)",
+      "name" : "Cave bug (Lvl 96)",
       "size" : 2
     }
   },
@@ -23531,7 +23558,7 @@
     },
     "attributes" : {
       "npcId" : 2536,
-      "name" : "Some(H.A.M. Guard) (Lvl 12)",
+      "name" : "H.A.M. Guard (Lvl 12)",
       "size" : 1
     }
   },
@@ -23554,7 +23581,7 @@
     },
     "attributes" : {
       "npcId" : 8065,
-      "name" : "Some(Stone Guardian) (1)",
+      "name" : "Stone Guardian (1)",
       "size" : 1
     }
   },
@@ -23696,7 +23723,7 @@
     },
     "attributes" : {
       "npcId" : 3301,
-      "name" : "Some(Archer) (Lvl 37)",
+      "name" : "Archer (Lvl 37)",
       "size" : 1
     }
   },
@@ -23787,7 +23814,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 4308,
-      "name" : "Some(Sea troll) (Lvl 79)",
+      "name" : "Sea troll (Lvl 79)",
       "size" : 1
     }
   },
@@ -23856,7 +23883,7 @@
     },
     "attributes" : {
       "npcId" : 10984,
-      "name" : "Some(Barbarian) (Lvl 10) (1)",
+      "name" : "Barbarian (Lvl 10) (1)",
       "size" : 1
     }
   },
@@ -23896,7 +23923,7 @@
     },
     "attributes" : {
       "npcId" : 6458,
-      "name" : "Some(Zombie) (Lvl 76) (1)",
+      "name" : "Zombie (Lvl 76) (1)",
       "isUndead" : true,
       "size" : 1
     }
@@ -23919,7 +23946,7 @@
     },
     "attributes" : {
       "npcId" : 795,
-      "name" : "Some(Locust rider) (Lvl 106)",
+      "name" : "Locust rider (Lvl 106)",
       "size" : 2
     }
   },
@@ -23937,7 +23964,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2246,
-      "name" : "Some(Goblin) (Lvl 12) (1)",
+      "name" : "Goblin (Lvl 12) (1)",
       "size" : 1
     }
   },
@@ -23959,7 +23986,7 @@
     },
     "attributes" : {
       "npcId" : 6447,
-      "name" : "Some(Skeleton) (Lvl 63)",
+      "name" : "Skeleton (Lvl 63)",
       "isUndead" : true,
       "size" : 1
     }
@@ -24039,7 +24066,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1738,
-      "name" : "Some(Brawler) (Lvl 158)",
+      "name" : "Brawler (Lvl 158)",
       "size" : 2
     }
   },
@@ -24219,7 +24246,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5747,
-      "name" : "Some(Penance Fighter) (Lvl 77)",
+      "name" : "Penance Fighter (Lvl 77)",
       "size" : 1
     }
   },
@@ -24237,7 +24264,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1668,
-      "name" : "Some(Penance Ranger) (Lvl 21)",
+      "name" : "Penance Ranger (Lvl 21)",
       "size" : 1
     }
   },
@@ -24281,7 +24308,7 @@
     },
     "attributes" : {
       "npcId" : 11111,
-      "name" : "Some(Dark warrior) (Lvl 37)",
+      "name" : "Dark warrior (Lvl 37)",
       "size" : 1
     }
   },
@@ -24329,7 +24356,7 @@
     },
     "attributes" : {
       "npcId" : 2476,
-      "name" : "Some(Catablepon) (Lvl 68)",
+      "name" : "Catablepon (Lvl 68)",
       "size" : 2
     }
   },
@@ -24377,7 +24404,7 @@
     },
     "attributes" : {
       "npcId" : 8071,
-      "name" : "Some(Skeleton) (Lvl 132) (1)",
+      "name" : "Skeleton (Lvl 132) (1)",
       "isUndead" : true,
       "size" : 1
     }
@@ -24424,7 +24451,7 @@
     },
     "attributes" : {
       "npcId" : 6464,
-      "name" : "Some(Zombie) (Lvl 98)",
+      "name" : "Zombie (Lvl 98)",
       "isUndead" : true,
       "size" : 1
     }
@@ -24490,7 +24517,7 @@
     },
     "attributes" : {
       "npcId" : 3128,
-      "name" : "Some(Yt-HurKot) (Lvl 108)",
+      "name" : "Yt-HurKot (Lvl 108)",
       "size" : 1
     }
   },
@@ -24551,7 +24578,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 4693,
-      "name" : "Some(Fear reaper) (Lvl 55)",
+      "name" : "Fear reaper (Lvl 55)",
       "size" : 2
     }
   },
@@ -24616,7 +24643,7 @@
     },
     "attributes" : {
       "npcId" : 3167,
-      "name" : "Some(Spiritual ranger) (Lvl 127)",
+      "name" : "Spiritual ranger (Lvl 127)",
       "size" : 2
     }
   },
@@ -24640,7 +24667,7 @@
     },
     "attributes" : {
       "npcId" : 10522,
-      "name" : "Some(Wolf) (Lvl 79)",
+      "name" : "Wolf (Lvl 79)",
       "size" : 2
     }
   },
@@ -24658,7 +24685,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2487,
-      "name" : "Some(Goblin) (Lvl 16)",
+      "name" : "Goblin (Lvl 16)",
       "size" : 1
     }
   },
@@ -24680,7 +24707,7 @@
     },
     "attributes" : {
       "npcId" : 5826,
-      "name" : "Some(Ice troll grunt) (Lvl 102)",
+      "name" : "Ice troll grunt (Lvl 102)",
       "size" : 1
     }
   },
@@ -24716,7 +24743,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1163,
-      "name" : "Some(Tree spirit) (Lvl 101)",
+      "name" : "Tree spirit (Lvl 101)",
       "isUndead" : true,
       "size" : 1
     }
@@ -24909,7 +24936,7 @@
     },
     "attributes" : {
       "npcId" : 4319,
-      "name" : "Some(Skeleton Mage) (Lvl 83)",
+      "name" : "Skeleton Mage (Lvl 83)",
       "isUndead" : true,
       "size" : 1
     }
@@ -24928,7 +24955,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5746,
-      "name" : "Some(Penance Fighter) (Lvl 68)",
+      "name" : "Penance Fighter (Lvl 68)",
       "size" : 1
     }
   },
@@ -24946,7 +24973,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5616,
-      "name" : "Some(Swamp Snake) (Lvl 109)",
+      "name" : "Swamp Snake (Lvl 109)",
       "size" : 4
     }
   },
@@ -24970,7 +24997,7 @@
     },
     "attributes" : {
       "npcId" : 4088,
-      "name" : "Some(Soldier) (Lvl 48)",
+      "name" : "Soldier (Lvl 48)",
       "size" : 1
     }
   },
@@ -25007,7 +25034,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3178,
-      "name" : "Some(Aviansie) (Lvl 73)",
+      "name" : "Aviansie (Lvl 73)",
       "size" : 2
     }
   },
@@ -25025,7 +25052,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7418,
-      "name" : "Some(Zamorak warrior) (Lvl 84)",
+      "name" : "Zamorak warrior (Lvl 84)",
       "size" : 1
     }
   },
@@ -25090,7 +25117,7 @@
     },
     "attributes" : {
       "npcId" : 4196,
-      "name" : "Some(Apparition) (1)",
+      "name" : "Apparition (1)",
       "size" : 1
     }
   },
@@ -25108,7 +25135,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1297,
-      "name" : "Some(Afflicted) (Lvl 32)",
+      "name" : "Afflicted (Lvl 32)",
       "size" : 1
     }
   },
@@ -25150,7 +25177,7 @@
     },
     "attributes" : {
       "npcId" : 7234,
-      "name" : "Some(Ent) (Lvl 86)",
+      "name" : "Ent (Lvl 86)",
       "size" : 2
     }
   },
@@ -25175,6 +25202,7 @@
     "attributes" : {
       "npcId" : 9773,
       "name" : "Kroy",
+      "isVampyre1" : true,
       "size" : 1,
       "accuracyMagic" : 36
     }
@@ -25193,7 +25221,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 880,
-      "name" : "Some(Zombie) (Lvl 39)",
+      "name" : "Zombie (Lvl 39)",
       "isUndead" : true,
       "size" : 1
     }
@@ -25218,7 +25246,7 @@
     },
     "attributes" : {
       "npcId" : 5942,
-      "name" : "Some(Dagannoth) (Lvl 88)",
+      "name" : "Dagannoth (Lvl 88)",
       "size" : 1
     }
   },
@@ -25236,7 +25264,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3424,
-      "name" : "Some(Grizzly bear cub) (Lvl 33)",
+      "name" : "Grizzly bear cub (Lvl 33)",
       "size" : 2
     }
   },
@@ -25260,7 +25288,7 @@
     },
     "attributes" : {
       "npcId" : 2480,
-      "name" : "Some(Scorpion) (Lvl 37)",
+      "name" : "Scorpion (Lvl 37)",
       "size" : 2
     }
   },
@@ -25278,7 +25306,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6735,
-      "name" : "Some(River Troll) (Lvl 79)",
+      "name" : "River Troll (Lvl 79)",
       "size" : 1
     }
   },
@@ -25314,7 +25342,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 690,
-      "name" : "Some(Bandit) (Lvl 74)",
+      "name" : "Bandit (Lvl 74)",
       "size" : 1
     }
   },
@@ -25332,7 +25360,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7894,
-      "name" : "Some(Sand Snake) (Lvl 154)",
+      "name" : "Sand Snake (Lvl 154)",
       "size" : 3
     }
   },
@@ -25355,7 +25383,7 @@
     },
     "attributes" : {
       "npcId" : 3139,
-      "name" : "Some(Pyrefiend) (Lvl 48)",
+      "name" : "Pyrefiend (Lvl 48)",
       "isDemon" : true,
       "size" : 1
     }
@@ -25396,7 +25424,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1735,
-      "name" : "Some(Brawler) (Lvl 76)",
+      "name" : "Brawler (Lvl 76)",
       "size" : 2
     }
   },
@@ -25418,7 +25446,7 @@
     },
     "attributes" : {
       "npcId" : 6453,
-      "name" : "Some(Zombie) (Lvl 56) (1)",
+      "name" : "Zombie (Lvl 56) (1)",
       "isUndead" : true,
       "size" : 1
     }
@@ -25439,7 +25467,7 @@
     },
     "attributes" : {
       "npcId" : 6902,
-      "name" : "Some(Gang boss) (Lvl 76)",
+      "name" : "Gang boss (Lvl 76)",
       "size" : 1
     }
   },
@@ -25478,7 +25506,7 @@
     },
     "attributes" : {
       "npcId" : 430,
-      "name" : "Some(Turoth) (Lvl 83)",
+      "name" : "Turoth (Lvl 83)",
       "isLeafy" : true,
       "size" : 1
     }
@@ -25548,7 +25576,7 @@
     },
     "attributes" : {
       "npcId" : 3050,
-      "name" : "Some(Hobgoblin) (Lvl 42)",
+      "name" : "Hobgoblin (Lvl 42)",
       "size" : 1
     }
   },
@@ -25566,7 +25594,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5758,
-      "name" : "Some(Penance Ranger) (Lvl 25)",
+      "name" : "Penance Ranger (Lvl 25)",
       "size" : 1
     }
   },
@@ -25614,7 +25642,7 @@
     },
     "attributes" : {
       "npcId" : 3017,
-      "name" : "Some(Giant spider) (Lvl 2)",
+      "name" : "Giant spider (Lvl 2)",
       "size" : 1
     }
   },
@@ -25764,7 +25792,7 @@
     },
     "attributes" : {
       "npcId" : 3313,
-      "name" : "Some(Giant rat) (Lvl 3) (1)",
+      "name" : "Giant rat (Lvl 3) (1)",
       "size" : 2
     }
   },
@@ -25806,7 +25834,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2233,
-      "name" : "Some(Ogre) (Lvl 58)",
+      "name" : "Ogre (Lvl 58)",
       "size" : 2
     }
   },
@@ -25824,7 +25852,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1065,
-      "name" : "Some(Angry goblin) (Lvl 45)",
+      "name" : "Angry goblin (Lvl 45)",
       "size" : 1
     }
   },
@@ -25842,7 +25870,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2491,
-      "name" : "Some(Wolf) (Lvl 11)",
+      "name" : "Wolf (Lvl 11)",
       "size" : 2
     }
   },
@@ -25896,7 +25924,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 11238,
-      "name" : "Some(Dust devil) (Lvl 93)",
+      "name" : "Dust devil (Lvl 93)",
       "size" : 1
     }
   },
@@ -26009,7 +26037,7 @@
     },
     "attributes" : {
       "npcId" : 6442,
-      "name" : "Some(Skeleton) (Lvl 77) (1)",
+      "name" : "Skeleton (Lvl 77) (1)",
       "isUndead" : true,
       "size" : 1
     }
@@ -26033,7 +26061,7 @@
     },
     "attributes" : {
       "npcId" : 2520,
-      "name" : "Some(Skeleton) (Lvl 68)",
+      "name" : "Skeleton (Lvl 68)",
       "isUndead" : true,
       "size" : 1
     }
@@ -26072,7 +26100,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 8846,
-      "name" : "Some(Mourner) (Lvl 106)",
+      "name" : "Mourner (Lvl 106)",
       "size" : 1
     }
   },
@@ -26090,7 +26118,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2948,
-      "name" : "Some(Nail beast) (Lvl 141)",
+      "name" : "Nail beast (Lvl 141)",
       "size" : 2
     }
   },
@@ -26197,7 +26225,7 @@
     },
     "attributes" : {
       "npcId" : 4247,
-      "name" : "Some(Thief) (Lvl 14)",
+      "name" : "Thief (Lvl 14)",
       "size" : 1
     }
   },
@@ -26220,7 +26248,7 @@
     },
     "attributes" : {
       "npcId" : 10988,
-      "name" : "Some(Barbarian) (Lvl 9) (1)",
+      "name" : "Barbarian (Lvl 9) (1)",
       "size" : 1
     }
   },
@@ -26238,7 +26266,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7864,
-      "name" : "Some(Ankou) (Lvl 98)",
+      "name" : "Ankou (Lvl 98)",
       "isUndead" : true,
       "size" : 1
     }
@@ -26259,7 +26287,7 @@
     },
     "attributes" : {
       "npcId" : 7246,
-      "name" : "Some(Greater demon) (Lvl 113)",
+      "name" : "Greater demon (Lvl 113)",
       "isDemon" : true,
       "size" : 3
     }
@@ -26278,7 +26306,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6729,
-      "name" : "Some(Rock Golem) (Lvl 120)",
+      "name" : "Rock Golem (Lvl 120)",
       "size" : 1
     }
   },
@@ -26324,7 +26352,7 @@
     },
     "attributes" : {
       "npcId" : 6460,
-      "name" : "Some(Zombie) (Lvl 85)",
+      "name" : "Zombie (Lvl 85)",
       "isUndead" : true,
       "size" : 1
     }
@@ -26382,7 +26410,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1702,
-      "name" : "Some(Shifter) (Lvl 104)",
+      "name" : "Shifter (Lvl 104)",
       "size" : 1
     }
   },
@@ -26403,7 +26431,7 @@
     },
     "attributes" : {
       "npcId" : 6068,
-      "name" : "Some(Tower Archer) (Lvl 64)",
+      "name" : "Tower Archer (Lvl 64)",
       "size" : 1
     }
   },
@@ -26464,7 +26492,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7257,
-      "name" : "Some(Ankou) (Lvl 95)",
+      "name" : "Ankou (Lvl 95)",
       "isUndead" : true,
       "size" : 1
     }
@@ -26510,7 +26538,7 @@
     },
     "attributes" : {
       "npcId" : 2316,
-      "name" : "Some(Guard) (Lvl 26)",
+      "name" : "Guard (Lvl 26)",
       "size" : 1
     }
   },
@@ -26528,7 +26556,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 8844,
-      "name" : "Some(Mourner) (Lvl 24)",
+      "name" : "Mourner (Lvl 24)",
       "size" : 1
     }
   },
@@ -26570,7 +26598,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5243,
-      "name" : "Some(Jungle spider) (Lvl 37)",
+      "name" : "Jungle spider (Lvl 37)",
       "size" : 1
     }
   },
@@ -26658,7 +26686,7 @@
     },
     "attributes" : {
       "npcId" : 6066,
-      "name" : "Some(Tower Archer) (Lvl 34)",
+      "name" : "Tower Archer (Lvl 34)",
       "size" : 1
     }
   },
@@ -26676,7 +26704,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3140,
-      "name" : "Some(Icefiend) (Lvl 18)",
+      "name" : "Icefiend (Lvl 18)",
       "isDemon" : true,
       "size" : 1
     }
@@ -26757,7 +26785,7 @@
     },
     "attributes" : {
       "npcId" : 6452,
-      "name" : "Some(Zombie) (Lvl 50)",
+      "name" : "Zombie (Lvl 50)",
       "isUndead" : true,
       "size" : 1
     }
@@ -26782,7 +26810,7 @@
     },
     "attributes" : {
       "npcId" : 6391,
-      "name" : "Some(Dad) (Lvl 101)",
+      "name" : "Dad (Lvl 101)",
       "size" : 3
     }
   },
@@ -26823,7 +26851,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3957,
-      "name" : "Some(Ungadulu) (Lvl 70)",
+      "name" : "Ungadulu (Lvl 70)",
       "size" : 1
     }
   },
@@ -26926,7 +26954,7 @@
     },
     "attributes" : {
       "npcId" : 8851,
-      "name" : "Some(Knight of Ardougne) (Lvl 27)",
+      "name" : "Knight of Ardougne (Lvl 27)",
       "size" : 1
     }
   },
@@ -26972,7 +27000,7 @@
     },
     "attributes" : {
       "npcId" : 699,
-      "name" : "Some(Ice troll) (Lvl 124)",
+      "name" : "Ice troll (Lvl 124)",
       "size" : 1
     }
   },
@@ -27039,7 +27067,7 @@
     },
     "attributes" : {
       "npcId" : 5007,
-      "name" : "Some(Imp) (Lvl 2)",
+      "name" : "Imp (Lvl 2)",
       "isDemon" : true,
       "size" : 1
     }
@@ -27082,7 +27110,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7679,
-      "name" : "Some(TzHaar-Ket) (Lvl 221)",
+      "name" : "TzHaar-Ket (Lvl 221)",
       "size" : 1
     }
   },
@@ -27124,7 +27152,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2094,
-      "name" : "Some(Jogre) (Lvl 53)",
+      "name" : "Jogre (Lvl 53)",
       "size" : 2
     }
   },
@@ -27167,7 +27195,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1274,
-      "name" : "Some(Experiment) (1)",
+      "name" : "Experiment (1)",
       "size" : 2
     }
   },
@@ -27189,7 +27217,7 @@
     },
     "attributes" : {
       "npcId" : 531,
-      "name" : "Some(Dark warrior) (Lvl 8)",
+      "name" : "Dark warrior (Lvl 8)",
       "size" : 1
     }
   },
@@ -27295,7 +27323,7 @@
     },
     "attributes" : {
       "npcId" : 1228,
-      "name" : "Some(Arzinian Avatar of Strength) (Lvl 125)",
+      "name" : "Arzinian Avatar of Strength (Lvl 125)",
       "size" : 1
     }
   },
@@ -27313,7 +27341,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1692,
-      "name" : "Some(Splatter) (Lvl 54)",
+      "name" : "Splatter (Lvl 54)",
       "size" : 1
     }
   },
@@ -27361,7 +27389,7 @@
     },
     "attributes" : {
       "npcId" : 8068,
-      "name" : "Some(Zombie) (Lvl 132) (2)",
+      "name" : "Zombie (Lvl 132) (2)",
       "isUndead" : true,
       "size" : 1
     }
@@ -27380,7 +27408,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6730,
-      "name" : "Some(Rock Golem) (Lvl 159)",
+      "name" : "Rock Golem (Lvl 159)",
       "size" : 1
     }
   },
@@ -27524,7 +27552,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1728,
-      "name" : "Some(Defiler) (Lvl 66)",
+      "name" : "Defiler (Lvl 66)",
       "size" : 1
     }
   },
@@ -27542,7 +27570,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1706,
-      "name" : "Some(Ravager) (Lvl 71)",
+      "name" : "Ravager (Lvl 71)",
       "size" : 1
     }
   },
@@ -27608,7 +27636,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6473,
-      "name" : "Some(Terror dog) (Lvl 110)",
+      "name" : "Terror dog (Lvl 110)",
       "size" : 2
     }
   },
@@ -27628,7 +27656,7 @@
     },
     "attributes" : {
       "npcId" : 7243,
-      "name" : "Some(Black demon) (Lvl 178)",
+      "name" : "Black demon (Lvl 178)",
       "isDemon" : true,
       "size" : 3
     }
@@ -27651,7 +27679,7 @@
     },
     "attributes" : {
       "npcId" : 6445,
-      "name" : "Some(Skeleton) (Lvl 59)",
+      "name" : "Skeleton (Lvl 59)",
       "isUndead" : true,
       "size" : 1
     }
@@ -27674,7 +27702,7 @@
     },
     "attributes" : {
       "npcId" : 1355,
-      "name" : "Some(Dwarf gang member) (Lvl 48)",
+      "name" : "Dwarf gang member (Lvl 48)",
       "size" : 1
     }
   },
@@ -27756,7 +27784,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2519,
-      "name" : "Some(Ankou) (Lvl 86)",
+      "name" : "Ankou (Lvl 86)",
       "isUndead" : true,
       "size" : 1
     }
@@ -27799,7 +27827,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1713,
-      "name" : "Some(Spinner) (Lvl 88)",
+      "name" : "Spinner (Lvl 88)",
       "size" : 1
     }
   },
@@ -27860,7 +27888,7 @@
     },
     "attributes" : {
       "npcId" : 7242,
-      "name" : "Some(Black demon) (Lvl 184)",
+      "name" : "Black demon (Lvl 184)",
       "isDemon" : true,
       "size" : 3
     }
@@ -27883,7 +27911,7 @@
     },
     "attributes" : {
       "npcId" : 9013,
-      "name" : "Some(Mourner) (Lvl 11)",
+      "name" : "Mourner (Lvl 11)",
       "size" : 1
     }
   },
@@ -27901,7 +27929,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1708,
-      "name" : "Some(Ravager) (Lvl 106)",
+      "name" : "Ravager (Lvl 106)",
       "size" : 1
     }
   },
@@ -27921,7 +27949,7 @@
     },
     "attributes" : {
       "npcId" : 2057,
-      "name" : "Some(Dark wizard) (Lvl 22)",
+      "name" : "Dark wizard (Lvl 22)",
       "size" : 1
     }
   },
@@ -27945,7 +27973,7 @@
     },
     "attributes" : {
       "npcId" : 2244,
-      "name" : "Some(Spiritual mage) (Lvl 121)",
+      "name" : "Spiritual mage (Lvl 121)",
       "size" : 1
     }
   },
@@ -28009,7 +28037,7 @@
     },
     "attributes" : {
       "npcId" : 427,
-      "name" : "Some(Turoth) (Lvl 89)",
+      "name" : "Turoth (Lvl 89)",
       "isLeafy" : true,
       "size" : 2
     }
@@ -28058,7 +28086,7 @@
     },
     "attributes" : {
       "npcId" : 7254,
-      "name" : "Some(Iron dragon) (Lvl 215)",
+      "name" : "Iron dragon (Lvl 215)",
       "isDragon" : true,
       "size" : 4
     }
@@ -28095,7 +28123,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7309,
-      "name" : "Some(Ancient Wizard) (Lvl 112)",
+      "name" : "Ancient Wizard (Lvl 112)",
       "size" : 1
     }
   },
@@ -28113,7 +28141,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7423,
-      "name" : "Some(Zamorak mage) (Lvl 82)",
+      "name" : "Zamorak mage (Lvl 82)",
       "size" : 1
     }
   },
@@ -28155,7 +28183,7 @@
     },
     "attributes" : {
       "npcId" : 5938,
-      "name" : "Some(Wallasalki) (Lvl 98)",
+      "name" : "Wallasalki (Lvl 98)",
       "size" : 1
     }
   },
@@ -28179,7 +28207,7 @@
     },
     "attributes" : {
       "npcId" : 130,
-      "name" : "Some(Skeleton) (Lvl 22) (2)",
+      "name" : "Skeleton (Lvl 22) (2)",
       "size" : 1
     }
   },
@@ -28279,7 +28307,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5282,
-      "name" : "Some(Monkey Zombie) (Lvl 129)",
+      "name" : "Monkey Zombie (Lvl 129)",
       "isUndead" : true,
       "size" : 1
     }
@@ -28346,7 +28374,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3181,
-      "name" : "Some(Aviansie) (Lvl 94)",
+      "name" : "Aviansie (Lvl 94)",
       "size" : 2
     }
   },
@@ -28364,7 +28392,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1861,
-      "name" : "Some(Tree spirit) (Lvl 14)",
+      "name" : "Tree spirit (Lvl 14)",
       "size" : 1
     }
   },
@@ -28406,7 +28434,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5370,
-      "name" : "Some(Ghost) (Lvl 24)",
+      "name" : "Ghost (Lvl 24)",
       "isUndead" : true,
       "size" : 1
     }
@@ -28425,7 +28453,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2248,
-      "name" : "Some(Goblin) (Lvl 15)",
+      "name" : "Goblin (Lvl 15)",
       "size" : 1
     }
   },
@@ -28449,7 +28477,7 @@
     },
     "attributes" : {
       "npcId" : 2498,
-      "name" : "Some(Flesh crawler) (Lvl 28)",
+      "name" : "Flesh crawler (Lvl 28)",
       "size" : 2
     }
   },
@@ -28467,7 +28495,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6741,
-      "name" : "Some(Zombie) (Lvl 159)",
+      "name" : "Zombie (Lvl 159)",
       "isUndead" : true,
       "size" : 1
     }
@@ -28486,7 +28514,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 9181,
-      "name" : "Some(Dire Wolf) (Lvl 72)",
+      "name" : "Dire Wolf (Lvl 72)",
       "size" : 2
     }
   },
@@ -28508,7 +28536,7 @@
     },
     "attributes" : {
       "npcId" : 6456,
-      "name" : "Some(Zombie) (Lvl 70) (1)",
+      "name" : "Zombie (Lvl 70) (1)",
       "isUndead" : true,
       "size" : 1
     }
@@ -28527,7 +28555,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7877,
-      "name" : "Some(Hellhound) (Lvl 136)",
+      "name" : "Hellhound (Lvl 136)",
       "isDemon" : true,
       "size" : 2
     }
@@ -28582,7 +28610,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1724,
-      "name" : "Some(Defiler) (Lvl 33)",
+      "name" : "Defiler (Lvl 33)",
       "size" : 1
     }
   },
@@ -28600,7 +28628,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5633,
-      "name" : "Some(Shade) (Lvl 140)",
+      "name" : "Shade (Lvl 140)",
       "isUndead" : true,
       "size" : 1
     }
@@ -28637,7 +28665,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1864,
-      "name" : "Some(Tree spirit) (Lvl 79)",
+      "name" : "Tree spirit (Lvl 79)",
       "size" : 1
     }
   },
@@ -28659,7 +28687,7 @@
     },
     "attributes" : {
       "npcId" : 6467,
-      "name" : "Some(Skeleton) (Lvl 72)",
+      "name" : "Skeleton (Lvl 72)",
       "isUndead" : true,
       "size" : 1
     }
@@ -28678,7 +28706,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3169,
-      "name" : "Some(Aviansie) (Lvl 69)",
+      "name" : "Aviansie (Lvl 69)",
       "size" : 2
     }
   },
@@ -28743,7 +28771,7 @@
     },
     "attributes" : {
       "npcId" : 5940,
-      "name" : "Some(Giant Rock Crab) (Lvl 137)",
+      "name" : "Giant Rock Crab (Lvl 137)",
       "size" : 2
     }
   },
@@ -28785,7 +28813,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3133,
-      "name" : "Some(Hellhound) (Lvl 127)",
+      "name" : "Hellhound (Lvl 127)",
       "isDemon" : true,
       "size" : 2
     }
@@ -28846,7 +28874,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 4819,
-      "name" : "Some(Crab) (Lvl 23)",
+      "name" : "Crab (Lvl 23)",
       "size" : 2
     }
   },
@@ -28870,7 +28898,7 @@
     },
     "attributes" : {
       "npcId" : 1338,
-      "name" : "Some(Seagull) (Lvl 2)",
+      "name" : "Seagull (Lvl 2)",
       "size" : 1
     }
   },
@@ -28906,7 +28934,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 478,
-      "name" : "Some(Big frog) (Lvl 24)",
+      "name" : "Big frog (Lvl 24)",
       "size" : 1
     }
   },
@@ -28924,7 +28952,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 8698,
-      "name" : "Some(Monk of Zamorak) (Lvl 23)",
+      "name" : "Monk of Zamorak (Lvl 23)",
       "size" : 1
     }
   },
@@ -28984,7 +29012,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 457,
-      "name" : "Some(Crawling Hand) (Lvl 12) (2)",
+      "name" : "Crawling Hand (Lvl 12) (2)",
       "isUndead" : true,
       "size" : 2
     }
@@ -29003,7 +29031,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3173,
-      "name" : "Some(Aviansie) (Lvl 92)",
+      "name" : "Aviansie (Lvl 92)",
       "size" : 2
     }
   },
@@ -29021,7 +29049,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6081,
-      "name" : "Some(Gnome guard) (Lvl 23)",
+      "name" : "Gnome guard (Lvl 23)",
       "size" : 1
     }
   },
@@ -29081,7 +29109,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5271,
-      "name" : "Some(Monkey Guard) (Lvl 149)",
+      "name" : "Monkey Guard (Lvl 149)",
       "size" : 1
     }
   },
@@ -29123,7 +29151,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3170,
-      "name" : "Some(Aviansie) (Lvl 79) (1)",
+      "name" : "Aviansie (Lvl 79) (1)",
       "size" : 2
     }
   },
@@ -29147,7 +29175,7 @@
     },
     "attributes" : {
       "npcId" : 9017,
-      "name" : "Some(Mourner) (Lvl 108)",
+      "name" : "Mourner (Lvl 108)",
       "size" : 1
     }
   },
@@ -29266,7 +29294,7 @@
     },
     "attributes" : {
       "npcId" : 6448,
-      "name" : "Some(Skeleton) (Lvl 40)",
+      "name" : "Skeleton (Lvl 40)",
       "isUndead" : true,
       "size" : 1
     }
@@ -29321,7 +29349,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1139,
-      "name" : "Some(Woman) (Lvl 4) (0)",
+      "name" : "Woman (Lvl 4) (0)",
       "size" : 1
     }
   },
@@ -29339,7 +29367,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6339,
-      "name" : "Some(Nazastarool (hard)) (Lvl 181)",
+      "name" : "Nazastarool (hard) (Lvl 181)",
       "size" : 2
     }
   },
@@ -29357,7 +29385,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3423,
-      "name" : "Some(Grizzly bear) (Lvl 42)",
+      "name" : "Grizzly bear (Lvl 42)",
       "size" : 2
     }
   },
@@ -29381,7 +29409,7 @@
     },
     "attributes" : {
       "npcId" : 2474,
-      "name" : "Some(Catablepon) (Lvl 49)",
+      "name" : "Catablepon (Lvl 49)",
       "size" : 2
     }
   },
@@ -29403,7 +29431,7 @@
     },
     "attributes" : {
       "npcId" : 6463,
-      "name" : "Some(Zombie) (Lvl 95)",
+      "name" : "Zombie (Lvl 95)",
       "isUndead" : true,
       "size" : 1
     }
@@ -29428,7 +29456,7 @@
     },
     "attributes" : {
       "npcId" : 8849,
-      "name" : "Some(Paladin) (Lvl 49)",
+      "name" : "Paladin (Lvl 49)",
       "size" : 1
     }
   },
@@ -29509,7 +29537,7 @@
     },
     "attributes" : {
       "npcId" : 1026,
-      "name" : "Some(Bandit) (Lvl 22) (1)",
+      "name" : "Bandit (Lvl 22) (1)",
       "size" : 1
     }
   },
@@ -29533,7 +29561,7 @@
     },
     "attributes" : {
       "npcId" : 11192,
-      "name" : "Some(Hespori) (Lvl 302)",
+      "name" : "Hespori (Lvl 302)",
       "size" : 3,
       "accuracyMagic" : 150
     }
@@ -29552,7 +29580,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3316,
-      "name" : "Some(Chicken) (Lvl 3)",
+      "name" : "Chicken (Lvl 3)",
       "size" : 1
     }
   },
@@ -29575,7 +29603,7 @@
     },
     "attributes" : {
       "npcId" : 4197,
-      "name" : "Some(Apparition) (2)",
+      "name" : "Apparition (2)",
       "size" : 1
     }
   },
@@ -29599,7 +29627,7 @@
     },
     "attributes" : {
       "npcId" : 1135,
-      "name" : "Some(Damis (hard)) (Lvl 272)",
+      "name" : "Damis (hard) (Lvl 272)",
       "size" : 1
     }
   },
@@ -29622,7 +29650,7 @@
     },
     "attributes" : {
       "npcId" : 2214,
-      "name" : "Some(Knight of Saradomin) (Lvl 101)",
+      "name" : "Knight of Saradomin (Lvl 101)",
       "size" : 1
     }
   },
@@ -29686,7 +29714,7 @@
     },
     "attributes" : {
       "npcId" : 10694,
-      "name" : "Some(Rubble) (Lvl 30)",
+      "name" : "Rubble (Lvl 30)",
       "size" : 2
     }
   },
@@ -29722,7 +29750,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 4310,
-      "name" : "Some(Sea troll) (Lvl 87)",
+      "name" : "Sea troll (Lvl 87)",
       "size" : 1
     }
   },
@@ -29764,7 +29792,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1061,
-      "name" : "Some(Angry unicorn) (Lvl 45)",
+      "name" : "Angry unicorn (Lvl 45)",
       "size" : 2
     }
   },
@@ -29788,7 +29816,7 @@
     },
     "attributes" : {
       "npcId" : 5373,
-      "name" : "Some(Poison spider) (Lvl 31)",
+      "name" : "Poison spider (Lvl 31)",
       "size" : 1
     }
   },
@@ -29806,7 +29834,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5763,
-      "name" : "Some(Penance Ranger) (Lvl 57)",
+      "name" : "Penance Ranger (Lvl 57)",
       "size" : 1
     }
   },
@@ -29828,7 +29856,7 @@
     },
     "attributes" : {
       "npcId" : 7488,
-      "name" : "Some(Zombie) (Lvl 72) (1)",
+      "name" : "Zombie (Lvl 72) (1)",
       "isUndead" : true,
       "size" : 1
     }
@@ -29851,7 +29879,7 @@
     },
     "attributes" : {
       "npcId" : 518,
-      "name" : "Some(Highwayman) (Lvl 5)",
+      "name" : "Highwayman (Lvl 5)",
       "size" : 1
     }
   },
@@ -29873,7 +29901,7 @@
     },
     "attributes" : {
       "npcId" : 1778,
-      "name" : "Some(Double agent) (Lvl 108)",
+      "name" : "Double agent (Lvl 108)",
       "size" : 1
     }
   },
@@ -29938,7 +29966,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 8700,
-      "name" : "Some(Giant frog) (Lvl 13)",
+      "name" : "Giant frog (Lvl 13)",
       "size" : 2
     }
   },
@@ -29960,7 +29988,7 @@
     },
     "attributes" : {
       "npcId" : 800,
-      "name" : "Some(Locust rider) (Lvl 68)",
+      "name" : "Locust rider (Lvl 68)",
       "size" : 2
     }
   },
@@ -30020,7 +30048,7 @@
     },
     "attributes" : {
       "npcId" : 3446,
-      "name" : "Some(Guardian of Armadyl) (Lvl 43)",
+      "name" : "Guardian of Armadyl (Lvl 43)",
       "size" : 1
     }
   },
@@ -30086,7 +30114,7 @@
     },
     "attributes" : {
       "npcId" : 3949,
-      "name" : "Some(Market Guard) (Lvl 48)",
+      "name" : "Market Guard (Lvl 48)",
       "size" : 1
     }
   },
@@ -30128,7 +30156,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3177,
-      "name" : "Some(Aviansie) (Lvl 71)",
+      "name" : "Aviansie (Lvl 71)",
       "size" : 2
     }
   },
@@ -30230,7 +30258,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 4246,
-      "name" : "Some(Monk) (Lvl 3)",
+      "name" : "Monk (Lvl 3)",
       "size" : 1
     }
   },
@@ -30254,7 +30282,7 @@
     },
     "attributes" : {
       "npcId" : 7252,
-      "name" : "Some(Fire giant) (Lvl 104)",
+      "name" : "Fire giant (Lvl 104)",
       "size" : 2
     }
   },
@@ -30278,7 +30306,7 @@
     },
     "attributes" : {
       "npcId" : 1231,
-      "name" : "Some(Arzinian Avatar of Ranging) (Lvl 125)",
+      "name" : "Arzinian Avatar of Ranging (Lvl 125)",
       "size" : 1
     }
   },
@@ -30345,6 +30373,7 @@
     "attributes" : {
       "npcId" : 9774,
       "name" : "Damien Leucurte",
+      "isVampyre3" : true,
       "size" : 1,
       "accuracyMagic" : 18
     }
@@ -30388,7 +30417,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5745,
-      "name" : "Some(Penance Fighter) (Lvl 61)",
+      "name" : "Penance Fighter (Lvl 61)",
       "size" : 1
     }
   },
@@ -30435,7 +30464,7 @@
     },
     "attributes" : {
       "npcId" : 7253,
-      "name" : "Some(Bronze dragon) (Lvl 143)",
+      "name" : "Bronze dragon (Lvl 143)",
       "isDragon" : true,
       "size" : 4
     }
@@ -30459,7 +30488,7 @@
     },
     "attributes" : {
       "npcId" : 11088,
-      "name" : "Some(Necromancer) (Lvl 68)",
+      "name" : "Necromancer (Lvl 68)",
       "size" : 1,
       "accuracyMagic" : 10
     }
@@ -30482,7 +30511,7 @@
     },
     "attributes" : {
       "npcId" : 1130,
-      "name" : "Some(Woman) (Lvl 4) (1)",
+      "name" : "Woman (Lvl 4) (1)",
       "size" : 1
     }
   },
@@ -30505,7 +30534,7 @@
     },
     "attributes" : {
       "npcId" : 8715,
-      "name" : "Some(Spawn of Sarachnis) (Lvl 68)",
+      "name" : "Spawn of Sarachnis (Lvl 68)",
       "size" : 2
     }
   },
@@ -30546,7 +30575,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 4820,
-      "name" : "Some(Mudskipper) (Lvl 30)",
+      "name" : "Mudskipper (Lvl 30)",
       "size" : 1
     }
   },
@@ -30570,7 +30599,7 @@
     },
     "attributes" : {
       "npcId" : 3166,
-      "name" : "Some(Spiritual warrior) (Lvl 123)",
+      "name" : "Spiritual warrior (Lvl 123)",
       "size" : 2
     }
   },
@@ -30613,7 +30642,7 @@
     },
     "attributes" : {
       "npcId" : 796,
-      "name" : "Some(Locust rider) (Lvl 98)",
+      "name" : "Locust rider (Lvl 98)",
       "size" : 2
     }
   },
@@ -30635,7 +30664,7 @@
     },
     "attributes" : {
       "npcId" : 6459,
-      "name" : "Some(Zombie) (Lvl 80)",
+      "name" : "Zombie (Lvl 80)",
       "isUndead" : true,
       "size" : 1
     }
@@ -30773,7 +30802,7 @@
     },
     "attributes" : {
       "npcId" : 7312,
-      "name" : "Some(Double agent) (Lvl 141)",
+      "name" : "Double agent (Lvl 141)",
       "size" : 1
     }
   },
@@ -30858,7 +30887,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1734,
-      "name" : "Some(Brawler) (Lvl 51)",
+      "name" : "Brawler (Lvl 51)",
       "size" : 2
     }
   },
@@ -30882,7 +30911,7 @@
     },
     "attributes" : {
       "npcId" : 8850,
-      "name" : "Some(Paladin) (Lvl 121)",
+      "name" : "Paladin (Lvl 121)",
       "size" : 1
     }
   },
@@ -30946,7 +30975,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2490,
-      "name" : "Some(Wolf) (Lvl 14)",
+      "name" : "Wolf (Lvl 14)",
       "size" : 2
     }
   },
@@ -30970,7 +30999,7 @@
     },
     "attributes" : {
       "npcId" : 9452,
-      "name" : "Some(Parasite) (Lvl 86)",
+      "name" : "Parasite (Lvl 86)",
       "size" : 1,
       "accuracyMagic" : 20
     }
@@ -31013,7 +31042,7 @@
     },
     "attributes" : {
       "npcId" : 2046,
-      "name" : "Some(Snakeling) (Lvl 90)",
+      "name" : "Snakeling (Lvl 90)",
       "size" : 1,
       "accuracyMagic" : 80
     }
@@ -31056,7 +31085,7 @@
     },
     "attributes" : {
       "npcId" : 1800,
-      "name" : "Some(White Knight) (Lvl 39)",
+      "name" : "White Knight (Lvl 39)",
       "size" : 1
     }
   },
@@ -31080,7 +31109,7 @@
     },
     "attributes" : {
       "npcId" : 1799,
-      "name" : "Some(White Knight) (Lvl 38)",
+      "name" : "White Knight (Lvl 38)",
       "size" : 1
     }
   },
@@ -31103,7 +31132,7 @@
     },
     "attributes" : {
       "npcId" : 6402,
-      "name" : "Some(Mosquito swarm) (Lvl 20)",
+      "name" : "Mosquito swarm (Lvl 20)",
       "size" : 1
     }
   },
@@ -31145,7 +31174,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 6734,
-      "name" : "Some(River Troll) (Lvl 49)",
+      "name" : "River Troll (Lvl 49)",
       "size" : 1
     }
   },
@@ -31169,7 +31198,7 @@
     },
     "attributes" : {
       "npcId" : 2481,
-      "name" : "Some(Minotaur) (Lvl 12)",
+      "name" : "Minotaur (Lvl 12)",
       "size" : 1
     }
   },
@@ -31205,7 +31234,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 8845,
-      "name" : "Some(Mourner) (Lvl 51)",
+      "name" : "Mourner (Lvl 51)",
       "size" : 1
     }
   },
@@ -31277,7 +31306,7 @@
     },
     "attributes" : {
       "npcId" : 8072,
-      "name" : "Some(Skeleton) (Lvl 132) (2)",
+      "name" : "Skeleton (Lvl 132) (2)",
       "isUndead" : true,
       "size" : 1,
       "accuracyMagic" : 20
@@ -31430,7 +31459,7 @@
     },
     "attributes" : {
       "npcId" : 6441,
-      "name" : "Some(Skeleton) (Lvl 94)",
+      "name" : "Skeleton (Lvl 94)",
       "isUndead" : true,
       "size" : 1
     }
@@ -31523,7 +31552,7 @@
     },
     "attributes" : {
       "npcId" : 3625,
-      "name" : "Some(Ghost) (Lvl 29)",
+      "name" : "Ghost (Lvl 29)",
       "isUndead" : true,
       "size" : 1
     }
@@ -31583,7 +31612,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1712,
-      "name" : "Some(Spinner) (Lvl 92)",
+      "name" : "Spinner (Lvl 92)",
       "size" : 1
     }
   },
@@ -31665,7 +31694,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5741,
-      "name" : "Some(Penance Fighter) (Lvl 37)",
+      "name" : "Penance Fighter (Lvl 37)",
       "size" : 1
     }
   },
@@ -31683,7 +31712,8 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3237,
-      "name" : "Some(Feral Vampyre) (Lvl 61)",
+      "name" : "Feral Vampyre (Lvl 61)",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -31703,7 +31733,7 @@
     },
     "attributes" : {
       "npcId" : 7247,
-      "name" : "Some(Lesser demon) (Lvl 87)",
+      "name" : "Lesser demon (Lvl 87)",
       "isDemon" : true,
       "size" : 2
     }
@@ -31764,7 +31794,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 529,
-      "name" : "Some(Monk of Zamorak) (Lvl 45)",
+      "name" : "Monk of Zamorak (Lvl 45)",
       "size" : 1
     }
   },
@@ -31782,7 +31812,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1140,
-      "name" : "Some(Woman) (Lvl 12)",
+      "name" : "Woman (Lvl 12)",
       "size" : 1
     }
   },
@@ -31800,7 +31830,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3018,
-      "name" : "Some(Giant spider) (Lvl 27)",
+      "name" : "Giant spider (Lvl 27)",
       "size" : 1
     }
   },

@@ -1173,6 +1173,11 @@
     "name" : "Construct. hood",
     "slot" : 0
   },
+  "27031" : {
+    "itemId" : 27031,
+    "name" : "Smiths gloves (i)",
+    "slot" : 9
+  },
   "21151" : {
     "itemId" : 21151,
     "name" : "Necklace of passage(3)",
@@ -2971,7 +2976,7 @@
   "26856" : {
     "itemId" : 26856,
     "name" : "Boots of the eye",
-    "slot" : 7
+    "slot" : 10
   },
   "10933" : {
     "itemId" : 10933,
@@ -9142,6 +9147,11 @@
     "slot" : 3,
     "weaponCategory" : "SPIKED"
   },
+  "27027" : {
+    "itemId" : 27027,
+    "name" : "Smiths boots",
+    "slot" : 10
+  },
   "19689" : {
     "itemId" : 19689,
     "name" : "Clue hunter garb",
@@ -14977,6 +14987,11 @@
   "6750" : {
     "itemId" : 6750,
     "name" : "Black desert shirt",
+    "slot" : 4
+  },
+  "27023" : {
+    "itemId" : 27023,
+    "name" : "Smiths tunic",
     "slot" : 4
   },
   "13361" : {
@@ -21843,6 +21858,13 @@
     "name" : "Lumberjack top",
     "slot" : 4
   },
+  "27010" : {
+    "itemId" : 27010,
+    "name" : "Preform",
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "UNARMED"
+  },
   "23410" : {
     "itemId" : 23410,
     "name" : "Wolf cloak",
@@ -24816,6 +24838,20 @@
     "name" : "Steel arrow",
     "slot" : 13
   },
+  "21018" : {
+    "itemId" : 21018,
+    "name" : "Ancestral hat",
+    "accuracyMagic" : 8,
+    "accuracyRanged" : -2,
+    "strengthRanged" : -2,
+    "strengthMagic" : 8,
+    "slot" : 0
+  },
+  "27029" : {
+    "itemId" : 27029,
+    "name" : "Smiths gloves",
+    "slot" : 9
+  },
   "10280" : {
     "itemId" : 10280,
     "name" : "Willow comp bow",
@@ -24825,15 +24861,6 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BOW"
-  },
-  "21018" : {
-    "itemId" : 21018,
-    "name" : "Ancestral hat",
-    "accuracyMagic" : 8,
-    "accuracyRanged" : -2,
-    "strengthRanged" : -2,
-    "strengthMagic" : 8,
-    "slot" : 0
   },
   "21314" : {
     "itemId" : 21314,
@@ -25932,16 +25959,6 @@
     "name" : "Green robe bottoms",
     "slot" : 7
   },
-  "25894" : {
-    "itemId" : 25894,
-    "name" : "Bow of faerdhinen (c) (25894)",
-    "accuracyRanged" : 128,
-    "strengthRanged" : 128,
-    "speed" : 5,
-    "slot" : 3,
-    "is2h" : true,
-    "weaponCategory" : "BOW"
-  },
   "10882" : {
     "itemId" : 10882,
     "name" : "Rune satchel",
@@ -25956,6 +25973,21 @@
     "strengthMagic" : 3,
     "prayer" : 5,
     "slot" : 5
+  },
+  "25894" : {
+    "itemId" : 25894,
+    "name" : "Bow of faerdhinen (c) (25894)",
+    "accuracyRanged" : 128,
+    "strengthRanged" : 128,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
+  },
+  "27025" : {
+    "itemId" : 27025,
+    "name" : "Smiths trousers",
+    "slot" : 7
   },
   "10822" : {
     "itemId" : 10822,
@@ -28965,6 +28997,20 @@
     "itemId" : 23091,
     "name" : "Ornate gloves",
     "slot" : 9
+  },
+  "27021" : {
+    "itemId" : 27021,
+    "name" : "Colossal blade",
+    "accuracyStab" : -4,
+    "accuracySlash" : 98,
+    "accuracyCrush" : 65,
+    "accuracyMagic" : -4,
+    "strengthMelee" : 100,
+    "strengthMagic" : -4,
+    "speed" : 6,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "TWO_HANDED_SWORD"
   },
   "20035" : {
     "itemId" : 20035,
