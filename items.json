@@ -28252,6 +28252,11 @@
     "slot" : 3,
     "weaponCategory" : "CROSSBOW"
   },
+  "27035" : {
+    "itemId" : 27035,
+    "name" : "Rainbow flower crown",
+    "slot" : 0
+  },
   "2532" : {
     "itemId" : 2532,
     "name" : "Iron fire arrow",
