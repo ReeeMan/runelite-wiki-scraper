@@ -33,18 +33,16 @@ def run():
 				if not "name" in doc:
 					doc["name"] = name
 
-				scaling = util.has_template("Chambers of Xeric", code) or util.has_template("Theatre of Blood", code)
-				if not scaling:
-					if "attributes" in version:
-						attrs = [x.strip() for x in version["attributes"].split(",") if x.strip()]
-						for attr in attrs:
-							doc[f"is{attr[0].upper()}{attr[1:]}"] = True
+				if "attributes" in version:
+					attrs = [x.strip() for x in version["attributes"].split(",") if x.strip()]
+					for attr in attrs:
+						doc[f"is{attr[0].upper()}{attr[1:]}"] = True
 
-					for key in npc_trait_keys:
-						try:
-							util.copy(key, doc, version, lambda x: int(x))
-						except ValueError:
-							print("NPC {} has an non integer {}".format(name, key))
+				for key in npc_trait_keys:
+					try:
+						util.copy(key, doc, version, lambda x: int(x))
+					except ValueError:
+						print("NPC {} has an non integer {}".format(name, key))
 
 		except (KeyboardInterrupt, SystemExit):
 			raise
