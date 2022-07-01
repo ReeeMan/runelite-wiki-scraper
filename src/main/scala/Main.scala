@@ -37,10 +37,10 @@ object Main extends App {
   // clear true dupes
   var baseIds: Map[String, Int] = Map()
   var dupes: Seq[Int] = Seq()
-  news.values.foreach { stats =>
+  val ordered = news.values.toSeq.sortBy(_.id)
+  ordered.foreach { stats =>
     if (!dupes.exists(stats.id.contains)) {
-      val localDupes = news.values
-        .filter(s => s.name == stats.name && s.id != stats.id)
+      val localDupes = ordered.filter(s => s.name == stats.name && s.id != stats.id)
         .filter(s => s.copy(id = stats.id) == stats)
         .map(_.id.get)
       localDupes.foreach(d => baseIds += d.toString -> stats.id.get)
