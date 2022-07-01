@@ -5752,9 +5752,9 @@
   "25977" : {
     "itemId" : 25977,
     "name" : "Osmumten's khopesh",
-    "accuracyStab" : 150,
-    "accuracySlash" : 105,
-    "strengthMelee" : 115,
+    "accuracyStab" : 105,
+    "accuracySlash" : 75,
+    "strengthMelee" : 103,
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "SLASH_SWORD"
@@ -8517,6 +8517,13 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "SPIKED"
+  },
+  "27050" : {
+    "itemId" : 27050,
+    "name" : "Group iron platebody (unranked) (27050)",
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -15,
+    "slot" : 4
   },
   "25892" : {
     "itemId" : 25892,
@@ -12080,6 +12087,13 @@
     "name" : "Brown naval shirt",
     "slot" : 4
   },
+  "27048" : {
+    "itemId" : 27048,
+    "name" : "Group iron platebody (unranked)",
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -15,
+    "slot" : 4
+  },
   "9748" : {
     "itemId" : 9748,
     "name" : "Attack cape(t)",
@@ -12333,15 +12347,6 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "SPEAR"
-  },
-  "22481" : {
-    "itemId" : 22481,
-    "name" : "Sanguinesti staff (uncharged)",
-    "accuracyMagic" : 25,
-    "accuracyRanged" : -4,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "POWERED_STAFF"
   },
   "25500" : {
     "itemId" : 25500,
@@ -13736,11 +13741,6 @@
     "accuracyRanged" : -1,
     "slot" : 10
   },
-  "26990" : {
-    "itemId" : 26990,
-    "name" : "Amulet of the eye (26990)",
-    "slot" : 2
-  },
   "13605" : {
     "itemId" : 13605,
     "name" : "Graceful cape (13605)",
@@ -13762,6 +13762,18 @@
     "itemId" : 2631,
     "name" : "Highwayman mask",
     "slot" : 0
+  },
+  "27044" : {
+    "itemId" : 27044,
+    "name" : "Group iron platelegs (unranked)",
+    "accuracyMagic" : -21,
+    "accuracyRanged" : -11,
+    "slot" : 7
+  },
+  "26990" : {
+    "itemId" : 26990,
+    "name" : "Amulet of the eye (26990)",
+    "slot" : 2
   },
   "21739" : {
     "itemId" : 21739,
@@ -14289,6 +14301,13 @@
     "strengthRanged" : 45,
     "slot" : 13
   },
+  "27042" : {
+    "itemId" : 27042,
+    "name" : "Group iron helm (unranked)",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -3,
+    "slot" : 0
+  },
   "3758" : {
     "itemId" : 3758,
     "name" : "Fremennik shield",
@@ -14495,6 +14514,13 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "27054" : {
+    "itemId" : 27054,
+    "name" : "Group iron platebody (unranked) (27054)",
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -15,
+    "slot" : 4
   },
   "24024" : {
     "itemId" : 24024,
@@ -21940,6 +21966,11 @@
     "accuracyRanged" : -1,
     "slot" : 0
   },
+  "27046" : {
+    "itemId" : 27046,
+    "name" : "Group iron bracers (unranked)",
+    "slot" : 9
+  },
   "13285" : {
     "itemId" : 13285,
     "name" : "Gravedigger leggings",
@@ -22093,6 +22124,13 @@
     "accuracyMagic" : -6,
     "accuracyRanged" : -2,
     "slot" : 5
+  },
+  "27052" : {
+    "itemId" : 27052,
+    "name" : "Group iron platebody (unranked) (27052)",
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -15,
+    "slot" : 4
   },
   "26168" : {
     "itemId" : 26168,
