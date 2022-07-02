@@ -1,5 +1,6 @@
 import ai.x.play.json.Encoders.encoder
 import ai.x.play.json.Jsonx
+import net.runelite.api.NpcID.{THE_MAIDEN_OF_SUGADINTI_10824, THE_MAIDEN_OF_SUGADINTI_10825, THE_MAIDEN_OF_SUGADINTI_8362, THE_MAIDEN_OF_SUGADINTI_8363, _}
 import play.api.libs.json.{Json, OFormat}
 
 import java.io.File
@@ -35,7 +36,17 @@ object Main extends App {
   println("Non-null names: " + news.size)
 
   // clear true dupes
-  var baseIds: Map[String, Int] = Map()
+  var baseIds: Map[String, Int] = Map(
+    THE_MAIDEN_OF_SUGADINTI_8361.toString -> THE_MAIDEN_OF_SUGADINTI,
+    THE_MAIDEN_OF_SUGADINTI_8362.toString -> THE_MAIDEN_OF_SUGADINTI,
+    THE_MAIDEN_OF_SUGADINTI_8363.toString -> THE_MAIDEN_OF_SUGADINTI,
+    THE_MAIDEN_OF_SUGADINTI_10815.toString -> THE_MAIDEN_OF_SUGADINTI_10814,
+    THE_MAIDEN_OF_SUGADINTI_10816.toString -> THE_MAIDEN_OF_SUGADINTI_10814,
+    THE_MAIDEN_OF_SUGADINTI_10817.toString -> THE_MAIDEN_OF_SUGADINTI_10814,
+    THE_MAIDEN_OF_SUGADINTI_10823.toString -> THE_MAIDEN_OF_SUGADINTI_10822,
+    THE_MAIDEN_OF_SUGADINTI_10824.toString -> THE_MAIDEN_OF_SUGADINTI_10822,
+    THE_MAIDEN_OF_SUGADINTI_10825.toString -> THE_MAIDEN_OF_SUGADINTI_10822,
+  )
   var dupes: Seq[Int] = Seq()
   val ordered = news.values.toSeq.sortBy(_.id)
   ordered.foreach { stats =>
