@@ -13509,7 +13509,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 8363,
-      "name" : "The Maiden of Sugadinti (30%)",
+      "name" : "The Maiden of Sugadinti (0)",
       "size" : 6,
       "accuracyMagic" : 300
     }
@@ -22921,7 +22921,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 8362,
-      "name" : "The Maiden of Sugadinti (50%)",
+      "name" : "The Maiden of Sugadinti (1)",
       "size" : 6,
       "accuracyMagic" : 300
     }
@@ -29996,7 +29996,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 8361,
-      "name" : "The Maiden of Sugadinti (70%)",
+      "name" : "The Maiden of Sugadinti (2)",
       "size" : 6,
       "accuracyMagic" : 300
     }
