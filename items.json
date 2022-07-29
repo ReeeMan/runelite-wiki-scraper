@@ -439,8 +439,8 @@
     "itemId" : 25971,
     "name" : "Masori chainskirt",
     "accuracyMagic" : -2,
-    "accuracyRanged" : 20,
-    "prayer" : 1,
+    "accuracyRanged" : 27,
+    "strengthRanged" : 2,
     "slot" : 7
   },
   "20217" : {
@@ -548,6 +548,11 @@
   "26693" : {
     "itemId" : 26693,
     "name" : "Superior calamity breeches (broken)",
+    "accuracyStab" : 3,
+    "accuracySlash" : 3,
+    "accuracyCrush" : 3,
+    "accuracyMagic" : 8,
+    "accuracyRanged" : 11,
     "slot" : 7
   },
   "24736" : {
@@ -643,6 +648,13 @@
     "itemId" : 6363,
     "name" : "Villager robe (6363)",
     "slot" : 7
+  },
+  "26683" : {
+    "itemId" : 26683,
+    "name" : "Vampyric slayer helmet (i) (26683)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
   },
   "12821" : {
     "itemId" : 12821,
@@ -1244,6 +1256,11 @@
     "accuracyRanged" : -2,
     "slot" : 7
   },
+  "26773" : {
+    "itemId" : 26773,
+    "name" : "Black mask (8) (i) (26773)",
+    "slot" : 0
+  },
   "12434" : {
     "itemId" : 12434,
     "name" : "Top hat & monocle",
@@ -1479,6 +1496,12 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "PICKAXE"
+  },
+  "27119" : {
+    "itemId" : 27119,
+    "name" : "Elder chaos hood (or)",
+    "accuracyMagic" : 5,
+    "slot" : 0
   },
   "13332" : {
     "itemId" : 13332,
@@ -2001,6 +2024,11 @@
   "26752" : {
     "itemId" : 26752,
     "name" : "Superior calamity chest (l)",
+    "accuracyStab" : 5,
+    "accuracySlash" : 5,
+    "accuracyCrush" : 5,
+    "accuracyMagic" : 12,
+    "accuracyRanged" : 16,
     "slot" : 4
   },
   "11405" : {
@@ -2018,6 +2046,11 @@
     "itemId" : 1662,
     "name" : "Diamond necklace",
     "slot" : 2
+  },
+  "26780" : {
+    "itemId" : 26780,
+    "name" : "Black mask (1) (i) (26780)",
+    "slot" : 0
   },
   "25541" : {
     "itemId" : 25541,
@@ -2195,13 +2228,12 @@
   "26748" : {
     "itemId" : 26748,
     "name" : "Maoma's great helm (l)",
-    "accuracyStab" : 6,
-    "accuracySlash" : 5,
-    "accuracyCrush" : 4,
-    "accuracyMagic" : -20,
-    "accuracyRanged" : -10,
-    "strengthMelee" : 5,
-    "prayer" : 3,
+    "accuracyStab" : 10,
+    "accuracySlash" : 10,
+    "accuracyCrush" : 10,
+    "accuracyMagic" : -60,
+    "accuracyRanged" : -60,
+    "strengthMelee" : 4,
     "slot" : 0
   },
   "7323" : {
@@ -2324,6 +2356,16 @@
     "speed" : 3,
     "slot" : 3,
     "weaponCategory" : "THROWN"
+  },
+  "26737" : {
+    "itemId" : 26737,
+    "name" : "Koriff's headband",
+    "accuracyStab" : -20,
+    "accuracySlash" : -20,
+    "accuracyCrush" : -20,
+    "accuracyMagic" : -20,
+    "accuracyRanged" : 10,
+    "slot" : 0
   },
   "24830" : {
     "itemId" : 24830,
@@ -2673,6 +2715,16 @@
     "name" : "Twisted coat (t2)",
     "slot" : 4
   },
+  "26698" : {
+    "itemId" : 26698,
+    "name" : "Koriff's headband (broken)",
+    "accuracyStab" : -20,
+    "accuracySlash" : -20,
+    "accuracyCrush" : -20,
+    "accuracyMagic" : -20,
+    "accuracyRanged" : 10,
+    "slot" : 0
+  },
   "12773" : {
     "itemId" : 12773,
     "name" : "Volcanic abyssal whip",
@@ -2972,6 +3024,11 @@
     "name" : "Decorative armour (11899)",
     "slot" : 4
   },
+  "27143" : {
+    "itemId" : 27143,
+    "name" : "Flower crown (27143)",
+    "slot" : 0
+  },
   "23246" : {
     "itemId" : 23246,
     "name" : "Fremennik kilt",
@@ -3129,6 +3186,12 @@
     "accuracyMagic" : -15,
     "prayer" : 1,
     "slot" : 4
+  },
+  "26763" : {
+    "itemId" : 26763,
+    "name" : "Salve amulet(i) (26763)",
+    "prayer" : 3,
+    "slot" : 2
   },
   "8917" : {
     "itemId" : 8917,
@@ -3371,12 +3434,11 @@
   "26703" : {
     "itemId" : 26703,
     "name" : "Saika's shroud (broken)",
-    "accuracyStab" : -10,
-    "accuracySlash" : -11,
-    "accuracyCrush" : -8,
-    "accuracyMagic" : 11,
-    "accuracyRanged" : -4,
-    "prayer" : 3,
+    "accuracyStab" : -60,
+    "accuracySlash" : -60,
+    "accuracyCrush" : -60,
+    "accuracyMagic" : 18,
+    "accuracyRanged" : -60,
     "slot" : 0
   },
   "23840" : {
@@ -3668,12 +3730,11 @@
   "26733" : {
     "itemId" : 26733,
     "name" : "Saika's veil",
-    "accuracyStab" : -5,
-    "accuracySlash" : -3,
-    "accuracyCrush" : -4,
-    "accuracyMagic" : 8,
-    "accuracyRanged" : -2,
-    "prayer" : 2,
+    "accuracyStab" : -40,
+    "accuracySlash" : -40,
+    "accuracyCrush" : -40,
+    "accuracyMagic" : 14,
+    "accuracyRanged" : -40,
     "slot" : 0
   },
   "20370" : {
@@ -3911,10 +3972,12 @@
   "26744" : {
     "itemId" : 26744,
     "name" : "Maoma's med helm (l)",
-    "accuracyMagic" : -6,
-    "accuracyRanged" : -3,
+    "accuracyStab" : 6,
+    "accuracySlash" : 6,
+    "accuracyCrush" : 6,
+    "accuracyMagic" : -20,
+    "accuracyRanged" : -20,
     "strengthMelee" : 1,
-    "prayer" : 1,
     "slot" : 0
   },
   "24178" : {
@@ -4505,6 +4568,11 @@
     "name" : "Golden prospector legs",
     "slot" : 7
   },
+  "27151" : {
+    "itemId" : 27151,
+    "name" : "Flower crown (27151)",
+    "slot" : 0
+  },
   "6343" : {
     "itemId" : 6343,
     "name" : "Villager robe",
@@ -4619,6 +4687,12 @@
     "itemId" : 2981,
     "name" : "Chompy bird hat (2981)",
     "slot" : 0
+  },
+  "26762" : {
+    "itemId" : 26762,
+    "name" : "Ring of suffering (ri) (26762)",
+    "prayer" : 4,
+    "slot" : 12
   },
   "4599" : {
     "itemId" : 4599,
@@ -5081,6 +5155,11 @@
   "26755" : {
     "itemId" : 26755,
     "name" : "Calamity breeches",
+    "accuracyStab" : 2,
+    "accuracySlash" : 2,
+    "accuracyCrush" : 2,
+    "accuracyMagic" : 5,
+    "accuracyRanged" : 8,
     "slot" : 7
   },
   "5014" : {
@@ -5751,13 +5830,13 @@
   },
   "25977" : {
     "itemId" : 25977,
-    "name" : "Osmumten's khopesh",
+    "name" : "Osmumten's fang",
     "accuracyStab" : 105,
     "accuracySlash" : 75,
     "strengthMelee" : 103,
     "speed" : 5,
     "slot" : 3,
-    "weaponCategory" : "SLASH_SWORD"
+    "weaponCategory" : "STAB_SWORD"
   },
   "24867" : {
     "itemId" : 24867,
@@ -5934,9 +6013,11 @@
   "26740" : {
     "itemId" : 26740,
     "name" : "Koriff's cowl (l)",
-    "accuracyMagic" : -7,
-    "accuracyRanged" : 5,
-    "prayer" : 2,
+    "accuracyStab" : -40,
+    "accuracySlash" : -40,
+    "accuracyCrush" : -40,
+    "accuracyMagic" : -40,
+    "accuracyRanged" : 14,
     "slot" : 0
   },
   "24878" : {
@@ -5964,6 +6045,17 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "AXE"
+  },
+  "26697" : {
+    "itemId" : 26697,
+    "name" : "Hardened wristbands of the arena (broken)",
+    "accuracyStab" : 14,
+    "accuracySlash" : 13,
+    "accuracyCrush" : 15,
+    "accuracyMagic" : 7,
+    "accuracyRanged" : 13,
+    "strengthMelee" : 12,
+    "slot" : 9
   },
   "26708" : {
     "itemId" : 26708,
@@ -6269,6 +6361,11 @@
     "name" : "Splitbark helm",
     "accuracyMagic" : 3,
     "accuracyRanged" : -2,
+    "slot" : 0
+  },
+  "27145" : {
+    "itemId" : 27145,
+    "name" : "Flower crown (27145)",
     "slot" : 0
   },
   "4937" : {
@@ -6706,6 +6803,12 @@
     "is2h" : true,
     "weaponCategory" : "SALAMANDER"
   },
+  "26766" : {
+    "itemId" : 26766,
+    "name" : "Treasonous ring (i) (26766)",
+    "accuracyStab" : 8,
+    "slot" : 12
+  },
   "24401" : {
     "itemId" : 24401,
     "name" : "Twisted trousers (t2)",
@@ -6981,6 +7084,11 @@
   "26759" : {
     "itemId" : 26759,
     "name" : "Elite calamity breeches",
+    "accuracyStab" : 4,
+    "accuracySlash" : 4,
+    "accuracyCrush" : 4,
+    "accuracyMagic" : 11,
+    "accuracyRanged" : 14,
     "slot" : 7
   },
   "4874" : {
@@ -7462,6 +7570,11 @@
   "26760" : {
     "itemId" : 26760,
     "name" : "Elite calamity breeches (l)",
+    "accuracyStab" : 4,
+    "accuracySlash" : 4,
+    "accuracyCrush" : 4,
+    "accuracyMagic" : 11,
+    "accuracyRanged" : 14,
     "slot" : 7
   },
   "4888" : {
@@ -7489,6 +7602,13 @@
     "name" : "Iron arrow",
     "strengthRanged" : 10,
     "slot" : 13
+  },
+  "26684" : {
+    "itemId" : 26684,
+    "name" : "Tzkal slayer helmet (i) (26684)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
   },
   "3175" : {
     "itemId" : 3175,
@@ -7709,6 +7829,13 @@
     "itemId" : 26984,
     "name" : "Lost bag (26984)",
     "slot" : 1
+  },
+  "26679" : {
+    "itemId" : 26679,
+    "name" : "Turquoise slayer helmet (i) (26679)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
   },
   "2607" : {
     "itemId" : 2607,
@@ -8965,6 +9092,11 @@
   "26692" : {
     "itemId" : 26692,
     "name" : "Calamity breeches (broken)",
+    "accuracyStab" : 2,
+    "accuracySlash" : 2,
+    "accuracyCrush" : 2,
+    "accuracyMagic" : 5,
+    "accuracyRanged" : 8,
     "slot" : 7
   },
   "10551" : {
@@ -9096,6 +9228,11 @@
     "name" : "Graceful top (13608)",
     "slot" : 4
   },
+  "26774" : {
+    "itemId" : 26774,
+    "name" : "Black mask (7) (i) (26774)",
+    "slot" : 0
+  },
   "3488" : {
     "itemId" : 3488,
     "name" : "Gilded kiteshield",
@@ -9203,6 +9340,11 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "STAFF"
+  },
+  "26776" : {
+    "itemId" : 26776,
+    "name" : "Black mask (5) (i) (26776)",
+    "slot" : 0
   },
   "25007" : {
     "itemId" : 25007,
@@ -9357,6 +9499,13 @@
     "name" : "Guthix mitre",
     "accuracyMagic" : 4,
     "prayer" : 5,
+    "slot" : 0
+  },
+  "26680" : {
+    "itemId" : 26680,
+    "name" : "Hydra slayer helmet (i) (26680)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
     "slot" : 0
   },
   "13079" : {
@@ -9685,6 +9834,13 @@
     "accuracyRanged" : -1,
     "slot" : 10
   },
+  "12269" : {
+    "itemId" : 12269,
+    "name" : "Bandos stole",
+    "accuracyMagic" : 2,
+    "prayer" : 10,
+    "slot" : 2
+  },
   "23899" : {
     "itemId" : 23899,
     "name" : "Crystal staff (attuned)",
@@ -9695,12 +9851,15 @@
     "is2h" : true,
     "weaponCategory" : "POWERED_STAFF"
   },
-  "12269" : {
-    "itemId" : 12269,
-    "name" : "Bandos stole",
-    "accuracyMagic" : 2,
-    "prayer" : 10,
-    "slot" : 2
+  "26700" : {
+    "itemId" : 26700,
+    "name" : "Koriff's coif (broken)",
+    "accuracyStab" : -60,
+    "accuracySlash" : -60,
+    "accuracyCrush" : -60,
+    "accuracyMagic" : -60,
+    "accuracyRanged" : 18,
+    "slot" : 0
   },
   "22986" : {
     "itemId" : 22986,
@@ -10114,6 +10273,12 @@
     "accuracyMagic" : -30,
     "accuracyRanged" : -10,
     "slot" : 4
+  },
+  "26770" : {
+    "itemId" : 26770,
+    "name" : "Berserker ring (i) (26770)",
+    "strengthMelee" : 8,
+    "slot" : 12
   },
   "24678" : {
     "itemId" : 24678,
@@ -10758,9 +10923,11 @@
   "26699" : {
     "itemId" : 26699,
     "name" : "Koriff's cowl (broken)",
-    "accuracyMagic" : -7,
-    "accuracyRanged" : 5,
-    "prayer" : 2,
+    "accuracyStab" : -40,
+    "accuracySlash" : -40,
+    "accuracyCrush" : -40,
+    "accuracyMagic" : -40,
+    "accuracyRanged" : 14,
     "slot" : 0
   },
   "24191" : {
@@ -10826,6 +10993,11 @@
   "12301" : {
     "itemId" : 12301,
     "name" : "Blue headband",
+    "slot" : 0
+  },
+  "26781" : {
+    "itemId" : 26781,
+    "name" : "Black mask (i) (26781)",
     "slot" : 0
   },
   "3105" : {
@@ -11392,6 +11564,12 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
+  "26769" : {
+    "itemId" : 26769,
+    "name" : "Warrior ring (i) (26769)",
+    "accuracySlash" : 8,
+    "slot" : 12
+  },
   "12225" : {
     "itemId" : 12225,
     "name" : "Iron platebody (t)",
@@ -11581,8 +11759,11 @@
   "26732" : {
     "itemId" : 26732,
     "name" : "Saika's hood (l)",
-    "accuracyMagic" : 6,
-    "prayer" : 1,
+    "accuracyStab" : -20,
+    "accuracySlash" : -20,
+    "accuracyCrush" : -20,
+    "accuracyMagic" : 10,
+    "accuracyRanged" : -2,
     "slot" : 0
   },
   "25269" : {
@@ -12054,6 +12235,11 @@
   "26758" : {
     "itemId" : 26758,
     "name" : "Superior calamity breeches (l)",
+    "accuracyStab" : 3,
+    "accuracySlash" : 3,
+    "accuracyCrush" : 3,
+    "accuracyMagic" : 8,
+    "accuracyRanged" : 11,
     "slot" : 7
   },
   "6889" : {
@@ -12240,10 +12426,12 @@
   "26743" : {
     "itemId" : 26743,
     "name" : "Maoma's med helm",
-    "accuracyMagic" : -6,
-    "accuracyRanged" : -3,
+    "accuracyStab" : 6,
+    "accuracySlash" : 6,
+    "accuracyCrush" : 6,
+    "accuracyMagic" : -20,
+    "accuracyRanged" : -20,
     "strengthMelee" : 1,
-    "prayer" : 1,
     "slot" : 0
   },
   "4747" : {
@@ -12604,8 +12792,6 @@
   "23993" : {
     "itemId" : 23993,
     "name" : "Crystal shield (inactive)",
-    "accuracyMagic" : -10,
-    "accuracyRanged" : -10,
     "slot" : 5
   },
   "4566" : {
@@ -12818,6 +13004,16 @@
     "prayer" : 2,
     "slot" : 2
   },
+  "26741" : {
+    "itemId" : 26741,
+    "name" : "Koriff's coif",
+    "accuracyStab" : -60,
+    "accuracySlash" : -60,
+    "accuracyCrush" : -60,
+    "accuracyMagic" : -60,
+    "accuracyRanged" : 18,
+    "slot" : 0
+  },
   "2997" : {
     "itemId" : 2997,
     "name" : "Pirate's hook",
@@ -12837,12 +13033,11 @@
   "26736" : {
     "itemId" : 26736,
     "name" : "Saika's shroud (l)",
-    "accuracyStab" : -10,
-    "accuracySlash" : -11,
-    "accuracyCrush" : -8,
-    "accuracyMagic" : 11,
-    "accuracyRanged" : -4,
-    "prayer" : 3,
+    "accuracyStab" : -60,
+    "accuracySlash" : -60,
+    "accuracyCrush" : -60,
+    "accuracyMagic" : 18,
+    "accuracyRanged" : -60,
     "slot" : 0
   },
   "9733" : {
@@ -12877,6 +13072,11 @@
     "itemId" : 13182,
     "name" : "Bunny feet",
     "slot" : 10
+  },
+  "26685" : {
+    "itemId" : 26685,
+    "name" : "Granite ring (i) (26685)",
+    "slot" : 12
   },
   "20044" : {
     "itemId" : 20044,
@@ -13448,6 +13648,12 @@
     "name" : "Amulet of chemistry",
     "slot" : 2
   },
+  "26765" : {
+    "itemId" : 26765,
+    "name" : "Tyrannical ring (i) (26765)",
+    "accuracyCrush" : 8,
+    "slot" : 12
+  },
   "20840" : {
     "itemId" : 20840,
     "name" : "Corrupted platebody",
@@ -13631,6 +13837,11 @@
   "26754" : {
     "itemId" : 26754,
     "name" : "Elite calamity chest (l)",
+    "accuracyStab" : 6,
+    "accuracySlash" : 6,
+    "accuracyCrush" : 6,
+    "accuracyMagic" : 16,
+    "accuracyRanged" : 21,
     "slot" : 4
   },
   "5048" : {
@@ -13883,13 +14094,12 @@
   "26747" : {
     "itemId" : 26747,
     "name" : "Maoma's great helm",
-    "accuracyStab" : 6,
-    "accuracySlash" : 5,
-    "accuracyCrush" : 4,
-    "accuracyMagic" : -20,
-    "accuracyRanged" : -10,
-    "strengthMelee" : 5,
-    "prayer" : 3,
+    "accuracyStab" : 10,
+    "accuracySlash" : 10,
+    "accuracyCrush" : 10,
+    "accuracyMagic" : -60,
+    "accuracyRanged" : -60,
+    "strengthMelee" : 4,
     "slot" : 0
   },
   "4793" : {
@@ -14227,6 +14437,17 @@
     "itemId" : 10073,
     "name" : "Spotted cape (10073)",
     "slot" : 1
+  },
+  "27110" : {
+    "itemId" : 27110,
+    "name" : "Mithril gloves (wrapped)",
+    "accuracyStab" : 15,
+    "accuracySlash" : 15,
+    "accuracyCrush" : 15,
+    "accuracyMagic" : 6,
+    "accuracyRanged" : 15,
+    "strengthMelee" : 6,
+    "slot" : 9
   },
   "13136" : {
     "itemId" : 13136,
@@ -14750,6 +14971,11 @@
   "26689" : {
     "itemId" : 26689,
     "name" : "Calamity chest (broken)",
+    "accuracyStab" : 4,
+    "accuracySlash" : 4,
+    "accuracyCrush" : 4,
+    "accuracyMagic" : 8,
+    "accuracyRanged" : 11,
     "slot" : 4
   },
   "1069" : {
@@ -14902,16 +15128,6 @@
     "name" : "Cow trousers",
     "slot" : 7
   },
-  "22269" : {
-    "itemId" : 22269,
-    "name" : "Hard leather shield",
-    "accuracyStab" : -15,
-    "accuracySlash" : -15,
-    "accuracyCrush" : -11,
-    "accuracyMagic" : -10,
-    "accuracyRanged" : 2,
-    "slot" : 5
-  },
   "10083" : {
     "itemId" : 10083,
     "name" : "Red spiky vambraces",
@@ -14924,6 +15140,26 @@
     "itemId" : 19946,
     "name" : "Hosidius scarf",
     "slot" : 2
+  },
+  "22269" : {
+    "itemId" : 22269,
+    "name" : "Hard leather shield",
+    "accuracyStab" : -15,
+    "accuracySlash" : -15,
+    "accuracyCrush" : -11,
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 2,
+    "slot" : 5
+  },
+  "27155" : {
+    "itemId" : 27155,
+    "name" : "Flower crown (27155)",
+    "slot" : 0
+  },
+  "27141" : {
+    "itemId" : 27141,
+    "name" : "Flower crown (27141)",
+    "slot" : 0
   },
   "25367" : {
     "itemId" : 25367,
@@ -15122,6 +15358,12 @@
     "itemId" : 6886,
     "name" : "Progress hat (6886)",
     "slot" : 0
+  },
+  "26761" : {
+    "itemId" : 26761,
+    "name" : "Ring of suffering (i) (26761)",
+    "prayer" : 4,
+    "slot" : 12
   },
   "7439" : {
     "itemId" : 7439,
@@ -15326,6 +15568,13 @@
   "11021" : {
     "itemId" : 11021,
     "name" : "Chicken head",
+    "slot" : 0
+  },
+  "26674" : {
+    "itemId" : 26674,
+    "name" : "Slayer helmet (i) (26674)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
     "slot" : 0
   },
   "9777" : {
@@ -15834,6 +16083,11 @@
   "26750" : {
     "itemId" : 26750,
     "name" : "Calamity chest (l)",
+    "accuracyStab" : 4,
+    "accuracySlash" : 4,
+    "accuracyCrush" : 4,
+    "accuracyMagic" : 8,
+    "accuracyRanged" : 11,
     "slot" : 4
   },
   "12335" : {
@@ -15902,6 +16156,11 @@
     "itemId" : 6373,
     "name" : "Villager robe (6373)",
     "slot" : 7
+  },
+  "26771" : {
+    "itemId" : 26771,
+    "name" : "Black mask (10) (i) (26771)",
+    "slot" : 0
   },
   "24828" : {
     "itemId" : 24828,
@@ -16100,6 +16359,17 @@
     "name" : "Citizen shoes",
     "slot" : 10
   },
+  "27100" : {
+    "itemId" : 27100,
+    "name" : "Elder maul (or)",
+    "accuracyCrush" : 135,
+    "accuracyMagic" : -4,
+    "strengthMelee" : 147,
+    "speed" : 6,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
+  },
   "8958" : {
     "itemId" : 8958,
     "name" : "Grey naval shirt",
@@ -16214,13 +16484,12 @@
   "26746" : {
     "itemId" : 26746,
     "name" : "Maoma's full helm (l)",
-    "accuracyStab" : 2,
-    "accuracySlash" : 3,
-    "accuracyCrush" : 1,
-    "accuracyMagic" : -13,
-    "accuracyRanged" : -7,
-    "strengthMelee" : 3,
-    "prayer" : 2,
+    "accuracyStab" : 8,
+    "accuracySlash" : 8,
+    "accuracyCrush" : 8,
+    "accuracyMagic" : -40,
+    "accuracyRanged" : -40,
+    "strengthMelee" : 2,
     "slot" : 0
   },
   "26314" : {
@@ -16409,6 +16678,13 @@
     "itemId" : 22260,
     "name" : "Yew shield",
     "slot" : 5
+  },
+  "26678" : {
+    "itemId" : 26678,
+    "name" : "Purple slayer helmet (i) (26678)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
   },
   "11808" : {
     "itemId" : 11808,
@@ -16706,8 +16982,8 @@
     "itemId" : 25969,
     "name" : "Masori chestplate",
     "accuracyMagic" : -4,
-    "accuracyRanged" : 33,
-    "prayer" : 1,
+    "accuracyRanged" : 43,
+    "strengthRanged" : 4,
     "slot" : 4
   },
   "26846" : {
@@ -17098,15 +17374,6 @@
     "name" : "Dragonstone ring",
     "slot" : 12
   },
-  "4934" : {
-    "itemId" : 4934,
-    "name" : "Karil's crossbow 100",
-    "accuracyRanged" : 84,
-    "speed" : 4,
-    "slot" : 3,
-    "is2h" : true,
-    "weaponCategory" : "CROSSBOW"
-  },
   "1757" : {
     "itemId" : 1757,
     "name" : "Brown apron",
@@ -17273,6 +17540,21 @@
     "name" : "20th anniversary gloves",
     "slot" : 9
   },
+  "26782" : {
+    "itemId" : 26782,
+    "name" : "Salve amulet(ei) (26782)",
+    "prayer" : 3,
+    "slot" : 2
+  },
+  "4934" : {
+    "itemId" : 4934,
+    "name" : "Karil's crossbow 100",
+    "accuracyRanged" : 84,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "CROSSBOW"
+  },
   "23652" : {
     "itemId" : 23652,
     "name" : "Mage's book (23652)",
@@ -17288,6 +17570,12 @@
     "itemId" : 6398,
     "name" : "Menaphite purple kilt",
     "slot" : 7
+  },
+  "27115" : {
+    "itemId" : 27115,
+    "name" : "Elder chaos top (or)",
+    "accuracyMagic" : 10,
+    "slot" : 4
   },
   "1664" : {
     "itemId" : 1664,
@@ -17458,6 +17746,11 @@
     "accuracyMagic" : -14,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "26775" : {
+    "itemId" : 26775,
+    "name" : "Black mask (6) (i) (26775)",
+    "slot" : 0
   },
   "2952" : {
     "itemId" : 2952,
@@ -17850,8 +18143,11 @@
   "26701" : {
     "itemId" : 26701,
     "name" : "Saika's hood (broken)",
-    "accuracyMagic" : 6,
-    "prayer" : 1,
+    "accuracyStab" : -20,
+    "accuracySlash" : -20,
+    "accuracyCrush" : -20,
+    "accuracyMagic" : 10,
+    "accuracyRanged" : -2,
     "slot" : 0
   },
   "22981" : {
@@ -17892,6 +18188,12 @@
     "itemId" : 20050,
     "name" : "Obsidian cape (r)",
     "slot" : 1
+  },
+  "26768" : {
+    "itemId" : 26768,
+    "name" : "Archers ring (i) (26768)",
+    "accuracyRanged" : 8,
+    "slot" : 12
   },
   "9676" : {
     "itemId" : 9676,
@@ -18495,6 +18797,11 @@
   "26757" : {
     "itemId" : 26757,
     "name" : "Superior calamity breeches",
+    "accuracyStab" : 3,
+    "accuracySlash" : 3,
+    "accuracyCrush" : 3,
+    "accuracyMagic" : 8,
+    "accuracyRanged" : 11,
     "slot" : 7
   },
   "853" : {
@@ -18660,12 +18967,6 @@
     "name" : "Green gingerbread shield",
     "slot" : 5
   },
-  "21905" : {
-    "itemId" : 21905,
-    "name" : "Dragon bolts",
-    "strengthRanged" : 122,
-    "slot" : 13
-  },
   "13642" : {
     "itemId" : 13642,
     "name" : "Farmer's jacket",
@@ -18767,6 +19068,13 @@
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
+  "27125" : {
+    "itemId" : 27125,
+    "name" : "Dagon'hai robe top (or)",
+    "accuracyMagic" : 25,
+    "prayer" : 2,
+    "slot" : 4
+  },
   "9749" : {
     "itemId" : 9749,
     "name" : "Attack hood",
@@ -18804,8 +19112,11 @@
   "26731" : {
     "itemId" : 26731,
     "name" : "Saika's hood",
-    "accuracyMagic" : 6,
-    "prayer" : 1,
+    "accuracyStab" : -20,
+    "accuracySlash" : -20,
+    "accuracyCrush" : -20,
+    "accuracyMagic" : 10,
+    "accuracyRanged" : -2,
     "slot" : 0
   },
   "10294" : {
@@ -18903,6 +19214,17 @@
     "itemId" : 75,
     "name" : "Khazard armour",
     "slot" : 4
+  },
+  "27111" : {
+    "itemId" : 27111,
+    "name" : "Rune gloves (wrapped)",
+    "accuracyStab" : 17,
+    "accuracySlash" : 17,
+    "accuracyCrush" : 17,
+    "accuracyMagic" : 7,
+    "accuracyRanged" : 17,
+    "strengthMelee" : 8,
+    "slot" : 9
   },
   "11863" : {
     "itemId" : 11863,
@@ -19295,6 +19617,11 @@
     "name" : "Team-32 cape",
     "slot" : 1
   },
+  "26779" : {
+    "itemId" : 26779,
+    "name" : "Black mask (2) (i) (26779)",
+    "slot" : 0
+  },
   "21760" : {
     "itemId" : 21760,
     "name" : "Kharedst's memoirs",
@@ -19473,6 +19800,17 @@
     "itemId" : 23312,
     "name" : "Sandwich lady hat",
     "slot" : 0
+  },
+  "27147" : {
+    "itemId" : 27147,
+    "name" : "Flower crown (27147)",
+    "slot" : 0
+  },
+  "21905" : {
+    "itemId" : 21905,
+    "name" : "Dragon bolts",
+    "strengthRanged" : 122,
+    "slot" : 13
   },
   "2665" : {
     "itemId" : 2665,
@@ -20009,6 +20347,12 @@
     "prayer" : 5,
     "slot" : 0
   },
+  "26764" : {
+    "itemId" : 26764,
+    "name" : "Ring of the gods (i) (26764)",
+    "prayer" : 8,
+    "slot" : 12
+  },
   "6341" : {
     "itemId" : 6341,
     "name" : "Tribal top",
@@ -20211,6 +20555,11 @@
   "26753" : {
     "itemId" : 26753,
     "name" : "Elite calamity chest",
+    "accuracyStab" : 6,
+    "accuracySlash" : 6,
+    "accuracyCrush" : 6,
+    "accuracyMagic" : 16,
+    "accuracyRanged" : 21,
     "slot" : 4
   },
   "1255" : {
@@ -20247,13 +20596,12 @@
   "26688" : {
     "itemId" : 26688,
     "name" : "Maoma's great helm (broken)",
-    "accuracyStab" : 6,
-    "accuracySlash" : 5,
-    "accuracyCrush" : 4,
-    "accuracyMagic" : -20,
-    "accuracyRanged" : -10,
-    "strengthMelee" : 5,
-    "prayer" : 3,
+    "accuracyStab" : 10,
+    "accuracySlash" : 10,
+    "accuracyCrush" : 10,
+    "accuracyMagic" : -60,
+    "accuracyRanged" : -60,
+    "strengthMelee" : 4,
     "slot" : 0
   },
   "19675" : {
@@ -20491,8 +20839,8 @@
   "25983" : {
     "itemId" : 25983,
     "name" : "Elidinis' broken ward",
-    "accuracyMagic" : 10,
-    "prayer" : 4,
+    "accuracyMagic" : 5,
+    "strengthMagic" : 3,
     "slot" : 5
   },
   "9091" : {
@@ -20623,6 +20971,11 @@
     "accuracyRanged" : -7,
     "prayer" : 5,
     "slot" : 5
+  },
+  "26778" : {
+    "itemId" : 26778,
+    "name" : "Black mask (3) (i) (26778)",
+    "slot" : 0
   },
   "6707" : {
     "itemId" : 6707,
@@ -20991,6 +21344,11 @@
   "26691" : {
     "itemId" : 26691,
     "name" : "Elite calamity chest (broken)",
+    "accuracyStab" : 6,
+    "accuracySlash" : 6,
+    "accuracyCrush" : 6,
+    "accuracyMagic" : 16,
+    "accuracyRanged" : 21,
     "slot" : 4
   },
   "4156" : {
@@ -21244,12 +21602,29 @@
     "accuracyMagic" : 10,
     "slot" : 1
   },
+  "26677" : {
+    "itemId" : 26677,
+    "name" : "Red slayer helmet (i) (26677)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
+  },
   "23395" : {
     "itemId" : 23395,
     "name" : "Adamant platebody (h2)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
+  },
+  "26742" : {
+    "itemId" : 26742,
+    "name" : "Koriff's coif (l)",
+    "accuracyStab" : -60,
+    "accuracySlash" : -60,
+    "accuracyCrush" : -60,
+    "accuracyMagic" : -60,
+    "accuracyRanged" : 18,
+    "slot" : 0
   },
   "5525" : {
     "itemId" : 5525,
@@ -21463,12 +21838,11 @@
   "26735" : {
     "itemId" : 26735,
     "name" : "Saika's shroud",
-    "accuracyStab" : -10,
-    "accuracySlash" : -11,
-    "accuracyCrush" : -8,
-    "accuracyMagic" : 11,
-    "accuracyRanged" : -4,
-    "prayer" : 3,
+    "accuracyStab" : -60,
+    "accuracySlash" : -60,
+    "accuracyCrush" : -60,
+    "accuracyMagic" : 18,
+    "accuracyRanged" : -60,
     "slot" : 0
   },
   "7539" : {
@@ -21498,10 +21872,12 @@
   "26686" : {
     "itemId" : 26686,
     "name" : "Maoma's med helm (broken)",
-    "accuracyMagic" : -6,
-    "accuracyRanged" : -3,
+    "accuracyStab" : 6,
+    "accuracySlash" : 6,
+    "accuracyCrush" : 6,
+    "accuracyMagic" : -20,
+    "accuracyRanged" : -20,
     "strengthMelee" : 1,
-    "prayer" : 1,
     "slot" : 0
   },
   "10370" : {
@@ -21524,6 +21900,13 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -7,
     "slot" : 7
+  },
+  "26681" : {
+    "itemId" : 26681,
+    "name" : "Twisted slayer helmet (i) (26681)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
   },
   "2599" : {
     "itemId" : 2599,
@@ -21726,6 +22109,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "SPEAR"
+  },
+  "26772" : {
+    "itemId" : 26772,
+    "name" : "Black mask (9) (i) (26772)",
+    "slot" : 0
   },
   "20092" : {
     "itemId" : 20092,
@@ -22537,6 +22925,13 @@
     "slot" : 3,
     "weaponCategory" : "BANNER"
   },
+  "27123" : {
+    "itemId" : 27123,
+    "name" : "Dagon'hai hat (or)",
+    "accuracyMagic" : 5,
+    "prayer" : 2,
+    "slot" : 0
+  },
   "2635" : {
     "itemId" : 2635,
     "name" : "Black beret",
@@ -22948,6 +23343,11 @@
   "26694" : {
     "itemId" : 26694,
     "name" : "Elite calamity breeches (broken)",
+    "accuracyStab" : 4,
+    "accuracySlash" : 4,
+    "accuracyCrush" : 4,
+    "accuracyMagic" : 11,
+    "accuracyRanged" : 14,
     "slot" : 7
   },
   "1277" : {
@@ -23240,6 +23640,13 @@
     "is2h" : true,
     "weaponCategory" : "BLUNT"
   },
+  "26675" : {
+    "itemId" : 26675,
+    "name" : "Black slayer helmet (i) (26675)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
+  },
   "24721" : {
     "itemId" : 24721,
     "name" : "Hallowed grapple",
@@ -23329,8 +23736,8 @@
     "itemId" : 26217,
     "name" : "Masori headdress",
     "accuracyMagic" : -1,
-    "accuracyRanged" : 10,
-    "prayer" : 1,
+    "accuracyRanged" : 12,
+    "strengthRanged" : 2,
     "slot" : 0
   },
   "11095" : {
@@ -23458,6 +23865,11 @@
     "name" : "Amulet of bounty",
     "slot" : 2
   },
+  "27153" : {
+    "itemId" : 27153,
+    "name" : "Flower crown (27153)",
+    "slot" : 0
+  },
   "23821" : {
     "itemId" : 23821,
     "name" : "Corrupted axe",
@@ -23567,9 +23979,11 @@
   "26739" : {
     "itemId" : 26739,
     "name" : "Koriff's cowl",
-    "accuracyMagic" : -7,
-    "accuracyRanged" : 5,
-    "prayer" : 2,
+    "accuracyStab" : -40,
+    "accuracySlash" : -40,
+    "accuracyCrush" : -40,
+    "accuracyMagic" : -40,
+    "accuracyRanged" : 14,
     "slot" : 0
   },
   "6263" : {
@@ -23689,6 +24103,13 @@
     "slot" : 3,
     "weaponCategory" : "TWO_HANDED_SWORD"
   },
+  "27127" : {
+    "itemId" : 27127,
+    "name" : "Dagon'hai robe bottom (or)",
+    "accuracyMagic" : 18,
+    "prayer" : 2,
+    "slot" : 4
+  },
   "13590" : {
     "itemId" : 13590,
     "name" : "Graceful boots (13590)",
@@ -23785,6 +24206,11 @@
   "26749" : {
     "itemId" : 26749,
     "name" : "Calamity chest",
+    "accuracyStab" : 4,
+    "accuracySlash" : 4,
+    "accuracyCrush" : 4,
+    "accuracyMagic" : 8,
+    "accuracyRanged" : 11,
     "slot" : 4
   },
   "4979" : {
@@ -24234,6 +24660,17 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "STAFF"
+  },
+  "27112" : {
+    "itemId" : 27112,
+    "name" : "Barrows gloves (wrapped)",
+    "accuracyStab" : 21,
+    "accuracySlash" : 21,
+    "accuracyCrush" : 21,
+    "accuracyMagic" : 9,
+    "accuracyRanged" : 21,
+    "strengthMelee" : 12,
+    "slot" : 9
   },
   "9781" : {
     "itemId" : 9781,
@@ -24760,6 +25197,16 @@
     "accuracyRanged" : 2,
     "slot" : 10
   },
+  "26738" : {
+    "itemId" : 26738,
+    "name" : "Koriff's headband (l)",
+    "accuracyStab" : -20,
+    "accuracySlash" : -20,
+    "accuracyCrush" : -20,
+    "accuracyMagic" : -20,
+    "accuracyRanged" : 10,
+    "slot" : 0
+  },
   "23973" : {
     "itemId" : 23973,
     "name" : "Crystal helm (inactive)",
@@ -25063,12 +25510,11 @@
   "26702" : {
     "itemId" : 26702,
     "name" : "Saika's veil (broken)",
-    "accuracyStab" : -5,
-    "accuracySlash" : -3,
-    "accuracyCrush" : -4,
-    "accuracyMagic" : 8,
-    "accuracyRanged" : -2,
-    "prayer" : 2,
+    "accuracyStab" : -40,
+    "accuracySlash" : -40,
+    "accuracyCrush" : -40,
+    "accuracyMagic" : 14,
+    "accuracyRanged" : -40,
     "slot" : 0
   },
   "4880" : {
@@ -25240,6 +25686,11 @@
   "26751" : {
     "itemId" : 26751,
     "name" : "Superior calamity chest",
+    "accuracyStab" : 5,
+    "accuracySlash" : 5,
+    "accuracyCrush" : 5,
+    "accuracyMagic" : 12,
+    "accuracyRanged" : 16,
     "slot" : 4
   },
   "11130" : {
@@ -25506,13 +25957,12 @@
   "26745" : {
     "itemId" : 26745,
     "name" : "Maoma's full helm",
-    "accuracyStab" : 2,
-    "accuracySlash" : 3,
-    "accuracyCrush" : 1,
-    "accuracyMagic" : -13,
-    "accuracyRanged" : -7,
-    "strengthMelee" : 3,
-    "prayer" : 2,
+    "accuracyStab" : 8,
+    "accuracySlash" : 8,
+    "accuracyCrush" : 8,
+    "accuracyMagic" : -40,
+    "accuracyRanged" : -40,
+    "strengthMelee" : 2,
     "slot" : 0
   },
   "1135" : {
@@ -25579,6 +26029,11 @@
   "26756" : {
     "itemId" : 26756,
     "name" : "Calamity breeches (l)",
+    "accuracyStab" : 2,
+    "accuracySlash" : 2,
+    "accuracyCrush" : 2,
+    "accuracyMagic" : 5,
+    "accuracyRanged" : 8,
     "slot" : 7
   },
   "25473" : {
@@ -26101,6 +26556,12 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
+  "27117" : {
+    "itemId" : 27117,
+    "name" : "Elder chaos robe (or)",
+    "accuracyMagic" : 6,
+    "slot" : 7
+  },
   "1327" : {
     "itemId" : 1327,
     "name" : "Black scimitar",
@@ -26577,6 +27038,11 @@
     "name" : "Pantaloons",
     "slot" : 7
   },
+  "27149" : {
+    "itemId" : 27149,
+    "name" : "Flower crown (27149)",
+    "slot" : 0
+  },
   "5704" : {
     "itemId" : 5704,
     "name" : "Bronze spear(p+)",
@@ -26655,14 +27121,6 @@
     "accuracyRanged" : -7,
     "slot" : 7
   },
-  "6619" : {
-    "itemId" : 6619,
-    "name" : "White boots",
-    "accuracyMagic" : -3,
-    "accuracyRanged" : -1,
-    "prayer" : 1,
-    "slot" : 10
-  },
   "25401" : {
     "itemId" : 25401,
     "name" : "Swampbark legs",
@@ -26686,6 +27144,21 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "PICKAXE"
+  },
+  "6619" : {
+    "itemId" : 6619,
+    "name" : "White boots",
+    "accuracyMagic" : -3,
+    "accuracyRanged" : -1,
+    "prayer" : 1,
+    "slot" : 10
+  },
+  "26682" : {
+    "itemId" : 26682,
+    "name" : "Tztok slayer helmet (i) (26682)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
   },
   "5656" : {
     "itemId" : 5656,
@@ -27038,12 +27511,11 @@
   "26734" : {
     "itemId" : 26734,
     "name" : "Saika's veil (l)",
-    "accuracyStab" : -5,
-    "accuracySlash" : -3,
-    "accuracyCrush" : -4,
-    "accuracyMagic" : 8,
-    "accuracyRanged" : -2,
-    "prayer" : 2,
+    "accuracyStab" : -40,
+    "accuracySlash" : -40,
+    "accuracyCrush" : -40,
+    "accuracyMagic" : 14,
+    "accuracyRanged" : -40,
     "slot" : 0
   },
   "25849" : {
@@ -27203,6 +27675,12 @@
     "name" : "Half moon spectacles",
     "slot" : 0
   },
+  "26767" : {
+    "itemId" : 26767,
+    "name" : "Seers ring (i) (26767)",
+    "accuracyMagic" : 12,
+    "slot" : 12
+  },
   "24866" : {
     "itemId" : 24866,
     "name" : "Kruk jr",
@@ -27240,11 +27718,6 @@
     "itemId" : 24015,
     "name" : "Elven top (24015)",
     "slot" : 4
-  },
-  "4383" : {
-    "itemId" : 4383,
-    "name" : "Team-35 cape",
-    "slot" : 1
   },
   "1363" : {
     "itemId" : 1363,
@@ -27756,6 +28229,16 @@
     "name" : "Menaphite red top",
     "slot" : 4
   },
+  "26777" : {
+    "itemId" : 26777,
+    "name" : "Black mask (4) (i) (26777)",
+    "slot" : 0
+  },
+  "4383" : {
+    "itemId" : 4383,
+    "name" : "Team-35 cape",
+    "slot" : 1
+  },
   "10360" : {
     "itemId" : 10360,
     "name" : "Amulet of glory (t1)",
@@ -27924,6 +28407,11 @@
   "26690" : {
     "itemId" : 26690,
     "name" : "Superior calamity chest (broken)",
+    "accuracyStab" : 5,
+    "accuracySlash" : 5,
+    "accuracyCrush" : 5,
+    "accuracyMagic" : 12,
+    "accuracyRanged" : 16,
     "slot" : 4
   },
   "13110" : {
@@ -28292,7 +28780,7 @@
   },
   "27035" : {
     "itemId" : 27035,
-    "name" : "Rainbow flower crown",
+    "name" : "Flower crown",
     "slot" : 0
   },
   "2532" : {
@@ -28369,13 +28857,12 @@
   "26687" : {
     "itemId" : 26687,
     "name" : "Maoma's full helm (broken)",
-    "accuracyStab" : 2,
-    "accuracySlash" : 3,
-    "accuracyCrush" : 1,
-    "accuracyMagic" : -13,
-    "accuracyRanged" : -7,
-    "strengthMelee" : 3,
-    "prayer" : 2,
+    "accuracyStab" : 8,
+    "accuracySlash" : 8,
+    "accuracyCrush" : 8,
+    "accuracyMagic" : -40,
+    "accuracyRanged" : -40,
+    "strengthMelee" : 2,
     "slot" : 0
   },
   "9290" : {
@@ -29072,13 +29559,6 @@
     "prayer" : 5,
     "slot" : 5
   },
-  "10306" : {
-    "itemId" : 10306,
-    "name" : "Black helm (h1)",
-    "accuracyMagic" : -6,
-    "accuracyRanged" : -3,
-    "slot" : 0
-  },
   "7332" : {
     "itemId" : 7332,
     "name" : "Black shield (h1)",
@@ -29092,5 +29572,19 @@
     "accuracyMagic" : -8,
     "accuracyRanged" : -3,
     "slot" : 5
+  },
+  "10306" : {
+    "itemId" : 10306,
+    "name" : "Black helm (h1)",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -3,
+    "slot" : 0
+  },
+  "26676" : {
+    "itemId" : 26676,
+    "name" : "Green slayer helmet (i) (26676)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
   }
 }
