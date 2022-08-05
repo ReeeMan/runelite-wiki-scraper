@@ -10973,7 +10973,7 @@
     "attributes" : {
       "npcId" : 9008,
       "name" : "Mourner",
-      "size" : 3
+      "size" : 1
     }
   },
   "3276" : {
@@ -17425,7 +17425,7 @@
     },
     "attributes" : {
       "npcId" : 1128,
-      "name" : "Dessous (Lvl 217)",
+      "name" : "Dessous (hard)",
       "isVampyre1" : true,
       "size" : 1
     }
