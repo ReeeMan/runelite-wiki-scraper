@@ -274,14 +274,6 @@
     "name" : "Graceful boots (11861)",
     "slot" : 10
   },
-  "25973" : {
-    "itemId" : 25973,
-    "name" : "Masori amulet",
-    "accuracyRanged" : 10,
-    "strengthRanged" : 3,
-    "prayer" : 1,
-    "slot" : 2
-  },
   "26815" : {
     "itemId" : 26815,
     "name" : "Ring of the elements",
@@ -433,14 +425,6 @@
     "name" : "Saradomin robe legs",
     "accuracyMagic" : 4,
     "prayer" : 5,
-    "slot" : 7
-  },
-  "25971" : {
-    "itemId" : 25971,
-    "name" : "Masori chainskirt",
-    "accuracyMagic" : -2,
-    "accuracyRanged" : 27,
-    "strengthRanged" : 2,
     "slot" : 7
   },
   "20217" : {
@@ -5828,16 +5812,6 @@
     "slot" : 3,
     "weaponCategory" : "POLESTAFF"
   },
-  "25977" : {
-    "itemId" : 25977,
-    "name" : "Osmumten's fang",
-    "accuracyStab" : 105,
-    "accuracySlash" : 75,
-    "strengthMelee" : 103,
-    "speed" : 5,
-    "slot" : 3,
-    "weaponCategory" : "STAB_SWORD"
-  },
   "24867" : {
     "itemId" : 24867,
     "name" : "Princely monkey",
@@ -6259,6 +6233,15 @@
     "itemId" : 24838,
     "name" : "Vyre noble dress top (24838)",
     "slot" : 4
+  },
+  "27241" : {
+    "itemId" : 27241,
+    "name" : "Masori chaps (f)",
+    "accuracyMagic" : -2,
+    "accuracyRanged" : 27,
+    "strengthRanged" : 2,
+    "prayer" : 1,
+    "slot" : 7
   },
   "10468" : {
     "itemId" : 10468,
@@ -7225,9 +7208,8 @@
   "25985" : {
     "itemId" : 25985,
     "name" : "Elidinis' ward",
-    "accuracyMagic" : 25,
-    "strengthMagic" : 5,
-    "prayer" : 4,
+    "accuracyMagic" : 5,
+    "strengthMagic" : 3,
     "slot" : 5
   },
   "9775" : {
@@ -12023,6 +12005,15 @@
     "name" : "Red headband",
     "slot" : 0
   },
+  "27238" : {
+    "itemId" : 27238,
+    "name" : "Masori body (f)",
+    "accuracyMagic" : -4,
+    "accuracyRanged" : 43,
+    "strengthRanged" : 4,
+    "prayer" : 1,
+    "slot" : 4
+  },
   "11412" : {
     "itemId" : 11412,
     "name" : "Adamant hasta(p++)",
@@ -13379,11 +13370,6 @@
     "slot" : 3,
     "weaponCategory" : "BLADED_STAFF"
   },
-  "9807" : {
-    "itemId" : 9807,
-    "name" : "Woodcutting cape",
-    "slot" : 1
-  },
   "13125" : {
     "itemId" : 13125,
     "name" : "Explorer's ring 1",
@@ -13413,6 +13399,21 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
+  },
+  "26219" : {
+    "itemId" : 26219,
+    "name" : "Osmumten's fang",
+    "accuracyStab" : 105,
+    "accuracySlash" : 75,
+    "strengthMelee" : 103,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
+  },
+  "9807" : {
+    "itemId" : 9807,
+    "name" : "Woodcutting cape",
+    "slot" : 1
   },
   "25876" : {
     "itemId" : 25876,
@@ -15526,14 +15527,6 @@
     "slot" : 3,
     "weaponCategory" : "THROWN"
   },
-  "25987" : {
-    "itemId" : 25987,
-    "name" : "Tumeken's heka",
-    "accuracyMagic" : 25,
-    "accuracyRanged" : -4,
-    "slot" : 3,
-    "weaponCategory" : "POWERED_WAND"
-  },
   "2649" : {
     "itemId" : 2649,
     "name" : "Brown headband",
@@ -16978,14 +16971,6 @@
     "name" : "Spookier skirt",
     "slot" : 7
   },
-  "25969" : {
-    "itemId" : 25969,
-    "name" : "Masori chestplate",
-    "accuracyMagic" : -4,
-    "accuracyRanged" : 43,
-    "strengthRanged" : 4,
-    "slot" : 4
-  },
   "26846" : {
     "itemId" : 26846,
     "name" : "Abyssal lantern (magic logs)",
@@ -17546,6 +17531,16 @@
     "prayer" : 3,
     "slot" : 2
   },
+  "27275" : {
+    "itemId" : 27275,
+    "name" : "Tumeken's shadow",
+    "accuracyMagic" : 35,
+    "prayer" : 1,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "POWERED_STAFF"
+  },
   "4934" : {
     "itemId" : 4934,
     "name" : "Karil's crossbow 100",
@@ -17824,6 +17819,14 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "STAFF"
+  },
+  "27226" : {
+    "itemId" : 27226,
+    "name" : "Masori mask",
+    "accuracyMagic" : -1,
+    "accuracyRanged" : 12,
+    "strengthRanged" : 2,
+    "slot" : 0
   },
   "26460" : {
     "itemId" : 26460,
@@ -18775,6 +18778,14 @@
     "name" : "Shade robe top",
     "prayer" : 5,
     "slot" : 4
+  },
+  "27232" : {
+    "itemId" : 27232,
+    "name" : "Masori chaps",
+    "accuracyMagic" : -2,
+    "accuracyRanged" : 27,
+    "strengthRanged" : 2,
+    "slot" : 7
   },
   "12432" : {
     "itemId" : 12432,
@@ -20295,6 +20306,19 @@
     "accuracyRanged" : 30,
     "slot" : 4
   },
+  "27287" : {
+    "itemId" : 27287,
+    "name" : "Keris partisan of corruption",
+    "accuracyStab" : 58,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 57,
+    "accuracyMagic" : 2,
+    "strengthMelee" : 45,
+    "prayer" : 3,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "PARTISAN"
+  },
   "22695" : {
     "itemId" : 22695,
     "name" : "Clown gown",
@@ -20835,13 +20859,6 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
-  },
-  "25983" : {
-    "itemId" : 25983,
-    "name" : "Elidinis' broken ward",
-    "accuracyMagic" : 5,
-    "strengthMagic" : 3,
-    "slot" : 5
   },
   "9091" : {
     "itemId" : 9091,
@@ -22695,6 +22712,15 @@
     "name" : "Banana cape",
     "slot" : 1
   },
+  "27235" : {
+    "itemId" : 27235,
+    "name" : "Masori mask (f)",
+    "accuracyMagic" : -1,
+    "accuracyRanged" : 12,
+    "strengthRanged" : 2,
+    "prayer" : 1,
+    "slot" : 0
+  },
   "25604" : {
     "itemId" : 25604,
     "name" : "Gregg's eastdoor",
@@ -23244,6 +23270,14 @@
     "accuracyRanged" : 12,
     "slot" : 4
   },
+  "27229" : {
+    "itemId" : 27229,
+    "name" : "Masori body",
+    "accuracyMagic" : -4,
+    "accuracyRanged" : 43,
+    "strengthRanged" : 4,
+    "slot" : 4
+  },
   "4028" : {
     "itemId" : 4028,
     "name" : "Ancient gorilla greegree",
@@ -23731,14 +23765,6 @@
     "accuracyMagic" : -15,
     "accuracyRanged" : 20,
     "slot" : 4
-  },
-  "26217" : {
-    "itemId" : 26217,
-    "name" : "Masori headdress",
-    "accuracyMagic" : -1,
-    "accuracyRanged" : 12,
-    "strengthRanged" : 2,
-    "slot" : 0
   },
   "11095" : {
     "itemId" : 11095,
@@ -26755,6 +26781,19 @@
     "accuracyRanged" : -15,
     "slot" : 4
   },
+  "27291" : {
+    "itemId" : 27291,
+    "name" : "Keris partisan of the sun",
+    "accuracyStab" : 58,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 57,
+    "accuracyMagic" : 2,
+    "strengthMelee" : 45,
+    "prayer" : 3,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "PARTISAN"
+  },
   "20110" : {
     "itemId" : 20110,
     "name" : "Bowl wig",
@@ -29254,6 +29293,14 @@
     "accuracyMagic" : -15,
     "accuracyRanged" : 25,
     "slot" : 4
+  },
+  "27251" : {
+    "itemId" : 27251,
+    "name" : "Elidinis' ward (f)",
+    "accuracyMagic" : 25,
+    "strengthMagic" : 5,
+    "prayer" : 4,
+    "slot" : 5
   },
   "10390" : {
     "itemId" : 10390,
