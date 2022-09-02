@@ -23,25 +23,6 @@
       "size" : 1
     }
   },
-  "563" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 49,
-        "DEFENCE" : 50,
-        "STRENGTH" : 50,
-        "HITPOINTS" : 52,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 563,
-      "name" : "Zombie pirate",
-      "isUndead" : true,
-      "size" : 1
-    }
-  },
   "11067" : {
     "skills" : {
       "levels" : {
@@ -58,30 +39,6 @@
       "npcId" : 11067,
       "name" : "Boar",
       "size" : 2
-    }
-  },
-  "11073" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 75,
-        "DEFENCE" : 61,
-        "STRENGTH" : 73,
-        "HITPOINTS" : 86,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 16,
-      "defenseSlash" : 16,
-      "defenseCrush" : 18,
-      "defenseRanged" : 27,
-      "defenseMagic" : -12
-    },
-    "attributes" : {
-      "npcId" : 11073,
-      "name" : "Sergeant",
-      "size" : 1
     }
   },
   "302" : {
@@ -219,6 +176,31 @@
       "name" : "Third Age Mage",
       "size" : 1,
       "accuracyMagic" : 145
+    }
+  },
+  "11712" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 60,
+        "DEFENCE" : 20,
+        "STRENGTH" : 60,
+        "HITPOINTS" : 6,
+        "RANGED" : 40,
+        "MAGIC" : 60
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 900,
+      "defenseSlash" : 900,
+      "defenseCrush" : 900,
+      "defenseRanged" : 900,
+      "defenseMagic" : -60
+    },
+    "attributes" : {
+      "npcId" : 11712,
+      "name" : "Baboon Brawler",
+      "size" : 1,
+      "accuracyMagic" : 25
     }
   },
   "1673" : {
@@ -538,6 +520,44 @@
     "attributes" : {
       "npcId" : 2056,
       "name" : "Dark wizard",
+      "size" : 1
+    }
+  },
+  "11727" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 60,
+        "DEFENCE" : 5,
+        "STRENGTH" : 20,
+        "HITPOINTS" : 30,
+        "RANGED" : 40,
+        "MAGIC" : 30
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 11727,
+      "name" : "Agile Scarab",
+      "size" : 1,
+      "accuracyMagic" : 150
+    }
+  },
+  "563" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 49,
+        "DEFENCE" : 50,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 52,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 563,
+      "name" : "Zombie pirate",
+      "isUndead" : true,
       "size" : 1
     }
   },
@@ -915,6 +935,48 @@
       "size" : 5
     }
   },
+  "11073" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 75,
+        "DEFENCE" : 61,
+        "STRENGTH" : 73,
+        "HITPOINTS" : 86,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 16,
+      "defenseSlash" : 16,
+      "defenseCrush" : 18,
+      "defenseRanged" : 27,
+      "defenseMagic" : -12
+    },
+    "attributes" : {
+      "npcId" : 11073,
+      "name" : "Sergeant",
+      "size" : 1
+    }
+  },
+  "11697" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 20,
+        "DEFENCE" : 28,
+        "STRENGTH" : 32,
+        "HITPOINTS" : 12,
+        "RANGED" : 50,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 11697,
+      "name" : "Scarab",
+      "size" : 1
+    }
+  },
   "9425" : {
     "skills" : {
       "levels" : {
@@ -1019,28 +1081,6 @@
     "attributes" : {
       "npcId" : 4195,
       "name" : "Apparition",
-      "size" : 1
-    }
-  },
-  "4347" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 95,
-        "DEFENCE" : 98,
-        "STRENGTH" : 99,
-        "HITPOINTS" : 99,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 200,
-      "defenseSlash" : -5,
-      "defenseCrush" : 5
-    },
-    "attributes" : {
-      "npcId" : 4347,
-      "name" : "Sir Pelleas",
       "size" : 1
     }
   },
@@ -1387,6 +1427,52 @@
     "attributes" : {
       "npcId" : 11286,
       "name" : "Glacies",
+      "size" : 1
+    }
+  },
+  "11781" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 50,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 35,
+        "RANGED" : 80,
+        "MAGIC" : 50
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 10,
+      "defenseSlash" : 50,
+      "defenseCrush" : 50,
+      "defenseRanged" : 50,
+      "defenseMagic" : 50
+    },
+    "attributes" : {
+      "npcId" : 11781,
+      "name" : "Baboon",
+      "size" : 1
+    }
+  },
+  "4347" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 95,
+        "DEFENCE" : 98,
+        "STRENGTH" : 99,
+        "HITPOINTS" : 99,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 200,
+      "defenseSlash" : -5,
+      "defenseCrush" : 5
+    },
+    "attributes" : {
+      "npcId" : 4347,
+      "name" : "Sir Pelleas",
       "size" : 1
     }
   },
@@ -5498,6 +5584,31 @@
       "size" : 2
     }
   },
+  "11748" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 100,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 140,
+        "RANGED" : 190,
+        "MAGIC" : 190
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 70,
+      "defenseSlash" : 70,
+      "defenseCrush" : 70,
+      "defenseRanged" : 70,
+      "defenseMagic" : -30
+    },
+    "attributes" : {
+      "npcId" : 11748,
+      "name" : "Elidinis' Warden",
+      "size" : 5,
+      "accuracyMagic" : 225
+    }
+  },
   "1232" : {
     "skills" : {
       "levels" : {
@@ -5774,6 +5885,31 @@
       "npcId" : 931,
       "name" : "Thrower Troll",
       "size" : 1
+    }
+  },
+  "11730" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 250,
+        "DEFENCE" : 70,
+        "STRENGTH" : 140,
+        "HITPOINTS" : 580,
+        "RANGED" : 120,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 160,
+      "defenseSlash" : 160,
+      "defenseCrush" : 260,
+      "defenseRanged" : 110,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 11730,
+      "name" : "Zebak",
+      "size" : 9,
+      "accuracyMagic" : 215
     }
   },
   "2486" : {
@@ -6087,6 +6223,31 @@
       "npcId" : 1027,
       "name" : "Guard Bandit",
       "size" : 1
+    }
+  },
+  "11709" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 40,
+        "DEFENCE" : 12,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 4,
+        "RANGED" : 40,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 900,
+      "defenseSlash" : 900,
+      "defenseCrush" : 900,
+      "defenseRanged" : 900,
+      "defenseMagic" : -60
+    },
+    "attributes" : {
+      "npcId" : 11709,
+      "name" : "Baboon Brawler (Lvl 56)",
+      "size" : 1,
+      "accuracyMagic" : 20
     }
   },
   "7119" : {
@@ -7452,25 +7613,6 @@
       "size" : 1
     }
   },
-  "866" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 20,
-        "DEFENCE" : 35,
-        "STRENGTH" : 36,
-        "HITPOINTS" : 71,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 866,
-      "name" : "Zogre",
-      "isUndead" : true,
-      "size" : 2
-    }
-  },
   "1683" : {
     "skills" : {
       "levels" : {
@@ -7813,6 +7955,50 @@
       "npcId" : 3604,
       "name" : "Jubster",
       "size" : 3
+    }
+  },
+  "11715" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 60,
+        "DEFENCE" : 20,
+        "STRENGTH" : 60,
+        "HITPOINTS" : 16,
+        "RANGED" : 60,
+        "MAGIC" : 60
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 900,
+      "defenseSlash" : 900,
+      "defenseCrush" : 900,
+      "defenseRanged" : -50,
+      "defenseMagic" : 900
+    },
+    "attributes" : {
+      "npcId" : 11715,
+      "name" : "Baboon Shaman",
+      "size" : 1,
+      "accuracyMagic" : 25
+    }
+  },
+  "866" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 20,
+        "DEFENCE" : 35,
+        "STRENGTH" : 36,
+        "HITPOINTS" : 71,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 866,
+      "name" : "Zogre",
+      "isUndead" : true,
+      "size" : 2
     }
   },
   "7389" : {
@@ -9621,6 +9807,31 @@
       "size" : 5
     }
   },
+  "11711" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 40,
+        "DEFENCE" : 12,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 4,
+        "RANGED" : 40,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 900,
+      "defenseSlash" : 900,
+      "defenseCrush" : 900,
+      "defenseRanged" : -50,
+      "defenseMagic" : 900
+    },
+    "attributes" : {
+      "npcId" : 11711,
+      "name" : "Baboon Mage",
+      "size" : 1,
+      "accuracyMagic" : 20
+    }
+  },
   "2483" : {
     "skills" : {
       "levels" : {
@@ -10633,6 +10844,31 @@
       "npcId" : 1153,
       "name" : "Ogre",
       "size" : 2
+    }
+  },
+  "11724" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 75,
+        "DEFENCE" : 80,
+        "STRENGTH" : 80,
+        "HITPOINTS" : 40,
+        "RANGED" : 95,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 15,
+      "defenseSlash" : 250,
+      "defenseCrush" : 30,
+      "defenseRanged" : 250,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 11724,
+      "name" : "Soldier Scarab",
+      "size" : 3,
+      "accuracyMagic" : 250
     }
   },
   "5185" : {
@@ -14683,24 +14919,6 @@
       "size" : 1
     }
   },
-  "1696" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 67,
-        "DEFENCE" : 38,
-        "STRENGTH" : 52,
-        "HITPOINTS" : 38,
-        "RANGED" : 0,
-        "MAGIC" : 37
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 1696,
-      "name" : "Shifter (Lvl 57)",
-      "size" : 1
-    }
-  },
   "5713" : {
     "skills" : {
       "levels" : {
@@ -14772,6 +14990,31 @@
       "npcId" : 7751,
       "name" : "Well-armed Foe",
       "size" : 3
+    }
+  },
+  "11717" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 60,
+        "DEFENCE" : 20,
+        "STRENGTH" : 60,
+        "HITPOINTS" : 10,
+        "RANGED" : 60,
+        "MAGIC" : 60
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 900,
+      "defenseSlash" : 900,
+      "defenseCrush" : 900,
+      "defenseRanged" : -50,
+      "defenseMagic" : -60
+    },
+    "attributes" : {
+      "npcId" : 11717,
+      "name" : "Cursed Baboon",
+      "size" : 1,
+      "accuracyMagic" : 25
     }
   },
   "5054" : {
@@ -14973,6 +15216,30 @@
     "attributes" : {
       "npcId" : 511,
       "name" : "Invrigar the Necromancer",
+      "size" : 1
+    }
+  },
+  "11723" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 0,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 10,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : -100,
+      "defenseSlash" : -100,
+      "defenseCrush" : -100,
+      "defenseRanged" : -100,
+      "defenseMagic" : -100
+    },
+    "attributes" : {
+      "npcId" : 11723,
+      "name" : "Scarab Swarm (Lvl 8)",
       "size" : 1
     }
   },
@@ -15188,6 +15455,49 @@
       "npcId" : 3605,
       "name" : "Newtroost",
       "size" : 1
+    }
+  },
+  "1696" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 67,
+        "DEFENCE" : 38,
+        "STRENGTH" : 52,
+        "HITPOINTS" : 38,
+        "RANGED" : 0,
+        "MAGIC" : 37
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 1696,
+      "name" : "Shifter (Lvl 57)",
+      "size" : 1
+    }
+  },
+  "11716" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 60,
+        "DEFENCE" : 20,
+        "STRENGTH" : 60,
+        "HITPOINTS" : 8,
+        "RANGED" : 60,
+        "MAGIC" : 60
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 900,
+      "defenseSlash" : 900,
+      "defenseCrush" : 900,
+      "defenseRanged" : -50,
+      "defenseMagic" : -60
+    },
+    "attributes" : {
+      "npcId" : 11716,
+      "name" : "Volatile Baboon",
+      "size" : 1,
+      "accuracyMagic" : 25
     }
   },
   "4184" : {
@@ -15431,30 +15741,6 @@
       "name" : "Skeleton (Lvl 132) (0)",
       "isUndead" : true,
       "size" : 1
-    }
-  },
-  "6297" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 230,
-        "DEFENCE" : 110,
-        "STRENGTH" : 240,
-        "HITPOINTS" : 255,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 105,
-      "defenseSlash" : 110,
-      "defenseCrush" : 130,
-      "defenseRanged" : 100,
-      "defenseMagic" : 125
-    },
-    "attributes" : {
-      "npcId" : 6297,
-      "name" : "Glod (hard)",
-      "size" : 4
     }
   },
   "1443" : {
@@ -16190,6 +16476,54 @@
       "npcId" : 108,
       "name" : "White wolf (Lvl 38)",
       "size" : 2
+    }
+  },
+  "11705" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 100,
+        "STRENGTH" : 60,
+        "HITPOINTS" : 30,
+        "RANGED" : 1,
+        "MAGIC" : 30
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 150,
+      "defenseSlash" : 350,
+      "defenseCrush" : 350,
+      "defenseRanged" : 150,
+      "defenseMagic" : 5
+    },
+    "attributes" : {
+      "npcId" : 11705,
+      "name" : "Crocodile (Lvl 71)",
+      "size" : 2
+    }
+  },
+  "6297" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 230,
+        "DEFENCE" : 110,
+        "STRENGTH" : 240,
+        "HITPOINTS" : 255,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 105,
+      "defenseSlash" : 110,
+      "defenseCrush" : 130,
+      "defenseRanged" : 100,
+      "defenseMagic" : 125
+    },
+    "attributes" : {
+      "npcId" : 6297,
+      "name" : "Glod (hard)",
+      "size" : 4
     }
   },
   "1678" : {
@@ -17693,6 +18027,30 @@
       "size" : 1
     }
   },
+  "11778" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 80,
+        "STRENGTH" : 160,
+        "HITPOINTS" : 380,
+        "RANGED" : 0,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 80,
+      "defenseSlash" : 160,
+      "defenseCrush" : 240,
+      "defenseRanged" : 200,
+      "defenseMagic" : 280
+    },
+    "attributes" : {
+      "npcId" : 11778,
+      "name" : "Ba-Ba",
+      "size" : 5
+    }
+  },
   "5129" : {
     "skills" : {
       "levels" : {
@@ -18311,6 +18669,31 @@
       "npcId" : 532,
       "name" : "Chaos druid warrior",
       "size" : 1
+    }
+  },
+  "11725" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 80,
+        "STRENGTH" : 80,
+        "HITPOINTS" : 40,
+        "RANGED" : 95,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 15,
+      "defenseSlash" : 250,
+      "defenseCrush" : 30,
+      "defenseRanged" : 125,
+      "defenseMagic" : 250
+    },
+    "attributes" : {
+      "npcId" : 11725,
+      "name" : "Spitting Scarab",
+      "size" : 3,
+      "accuracyMagic" : 250
     }
   },
   "241" : {
@@ -20169,6 +20552,31 @@
       "size" : 1
     }
   },
+  "11710" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 40,
+        "DEFENCE" : 12,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 4,
+        "RANGED" : 40,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : -50,
+      "defenseSlash" : -50,
+      "defenseCrush" : -50,
+      "defenseRanged" : 900,
+      "defenseMagic" : 900
+    },
+    "attributes" : {
+      "npcId" : 11710,
+      "name" : "Baboon Thrower",
+      "size" : 1,
+      "accuracyMagic" : 20
+    }
+  },
   "456" : {
     "skills" : {
       "levels" : {
@@ -21071,24 +21479,6 @@
       "size" : 1
     }
   },
-  "1062" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 50,
-        "RANGED" : 0,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 1062,
-      "name" : "Angry giant rat (Lvl 45)",
-      "size" : 1
-    }
-  },
   "3301" : {
     "skills" : {
       "levels" : {
@@ -21129,24 +21519,6 @@
       "npcId" : 477,
       "name" : "Giant frog",
       "size" : 2
-    }
-  },
-  "4185" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 17,
-        "DEFENCE" : 15,
-        "STRENGTH" : 18,
-        "HITPOINTS" : 27,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 4185,
-      "name" : "Jackal",
-      "size" : 1
     }
   },
   "483" : {
@@ -21296,6 +21668,42 @@
       "size" : 1
     }
   },
+  "1062" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 50,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 1062,
+      "name" : "Angry giant rat (Lvl 45)",
+      "size" : 1
+    }
+  },
+  "4805" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 4805,
+      "name" : "Hobgoblin (Lvl 28) (0)",
+      "size" : 1
+    }
+  },
   "625" : {
     "skills" : {
       "levels" : {
@@ -21437,6 +21845,49 @@
       "npcId" : 1207,
       "name" : "Hazeel Cultist",
       "size" : 1
+    }
+  },
+  "4185" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 17,
+        "DEFENCE" : 15,
+        "STRENGTH" : 18,
+        "HITPOINTS" : 27,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 4185,
+      "name" : "Jackal",
+      "size" : 1
+    }
+  },
+  "11713" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 60,
+        "DEFENCE" : 20,
+        "STRENGTH" : 60,
+        "HITPOINTS" : 6,
+        "RANGED" : 40,
+        "MAGIC" : 60
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : -50,
+      "defenseSlash" : -50,
+      "defenseCrush" : -50,
+      "defenseRanged" : 900,
+      "defenseMagic" : 900
+    },
+    "attributes" : {
+      "npcId" : 11713,
+      "name" : "Baboon Thrower (Lvl 68)",
+      "size" : 1,
+      "accuracyMagic" : 25
     }
   },
   "10984" : {
@@ -21926,24 +22377,6 @@
       "size" : 1
     }
   },
-  "528" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 8,
-        "DEFENCE" : 12,
-        "STRENGTH" : 8,
-        "HITPOINTS" : 10,
-        "RANGED" : 1,
-        "MAGIC" : 25
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 528,
-      "name" : "Monk of Zamorak (Lvl 17)",
-      "size" : 1
-    }
-  },
   "2592" : {
     "skills" : {
       "levels" : {
@@ -22015,7 +22448,7 @@
         "ATTACK" : 0,
         "DEFENCE" : 0,
         "STRENGTH" : 0,
-        "HITPOINTS" : 0,
+        "HITPOINTS" : 29,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -22023,7 +22456,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3286,
-      "name" : "Hobgoblin (Lvl 28)",
+      "name" : "Hobgoblin (Lvl 28) (1)",
       "size" : 1
     }
   },
@@ -22308,6 +22741,49 @@
       "npcId" : 4693,
       "name" : "Fear reaper (Lvl 55)",
       "size" : 2
+    }
+  },
+  "11789" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 80,
+        "STRENGTH" : 140,
+        "HITPOINTS" : 400,
+        "RANGED" : 100,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 60,
+      "defenseSlash" : 120,
+      "defenseCrush" : 120,
+      "defenseRanged" : 60,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 11789,
+      "name" : "Akkha",
+      "size" : 3,
+      "accuracyMagic" : 115
+    }
+  },
+  "528" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 8,
+        "DEFENCE" : 12,
+        "STRENGTH" : 8,
+        "HITPOINTS" : 10,
+        "RANGED" : 1,
+        "MAGIC" : 25
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 528,
+      "name" : "Monk of Zamorak (Lvl 17)",
+      "size" : 1
     }
   },
   "683" : {
@@ -23436,6 +23912,31 @@
       "npcId" : 9029,
       "name" : "Crystalline Unicorn",
       "size" : 2
+    }
+  },
+  "11763" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 150,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 880,
+        "RANGED" : 150,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 40,
+      "defenseSlash" : 40,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20,
+      "defenseMagic" : 20
+    },
+    "attributes" : {
+      "npcId" : 11763,
+      "name" : "Elidinis' Warden (Lvl 544)",
+      "size" : 5,
+      "accuracyMagic" : 230
     }
   },
   "690" : {
@@ -24893,6 +25394,25 @@
       "npcId" : 1429,
       "name" : "Foreman",
       "size" : 1
+    }
+  },
+  "11718" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 40,
+        "DEFENCE" : 12,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 2,
+        "RANGED" : 40,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 11718,
+      "name" : "Baboon Thrall",
+      "size" : 1,
+      "accuracyMagic" : 20
     }
   },
   "423" : {
@@ -27878,6 +28398,31 @@
       "size" : 1
     }
   },
+  "11726" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 75,
+        "DEFENCE" : 80,
+        "STRENGTH" : 80,
+        "HITPOINTS" : 40,
+        "RANGED" : 95,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 15,
+      "defenseSlash" : 250,
+      "defenseCrush" : 30,
+      "defenseRanged" : 50,
+      "defenseMagic" : 75
+    },
+    "attributes" : {
+      "npcId" : 11726,
+      "name" : "Arcane Scarab",
+      "size" : 3,
+      "accuracyMagic" : 250
+    }
+  },
   "1864" : {
     "skills" : {
       "levels" : {
@@ -28488,12 +29033,12 @@
   "4043" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 49,
+        "DEFENCE" : 50,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 52,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -30380,6 +30925,32 @@
       "size" : 1
     }
   },
+  "11719" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 80,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 80,
+        "RANGED" : 0,
+        "MAGIC" : 125
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 60,
+      "defenseSlash" : 300,
+      "defenseCrush" : 100,
+      "defenseRanged" : 300,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 11719,
+      "name" : "Kephri",
+      "isKalphite" : true,
+      "size" : 5,
+      "accuracyMagic" : 125
+    }
+  },
   "4987" : {
     "skills" : {
       "levels" : {
@@ -30817,6 +31388,31 @@
       "size" : 1
     }
   },
+  "11714" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 60,
+        "DEFENCE" : 20,
+        "STRENGTH" : 60,
+        "HITPOINTS" : 6,
+        "RANGED" : 40,
+        "MAGIC" : 60
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 900,
+      "defenseSlash" : 900,
+      "defenseCrush" : 900,
+      "defenseRanged" : -50,
+      "defenseMagic" : 900
+    },
+    "attributes" : {
+      "npcId" : 11714,
+      "name" : "Baboon Mage (Lvl 68)",
+      "size" : 1,
+      "accuracyMagic" : 25
+    }
+  },
   "4820" : {
     "skills" : {
       "levels" : {
@@ -31187,27 +31783,6 @@
       "size" : 1
     }
   },
-  "6295" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 290,
-        "DEFENCE" : 152,
-        "STRENGTH" : 296,
-        "HITPOINTS" : 255,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseMagic" : -10
-    },
-    "attributes" : {
-      "npcId" : 6295,
-      "name" : "Black demon (hard)",
-      "isDemon" : true,
-      "size" : 3
-    }
-  },
   "7806" : {
     "skills" : {
       "levels" : {
@@ -31515,6 +32090,52 @@
       "npcId" : 11063,
       "name" : "Bandit (Lvl 22) (1)",
       "size" : 1
+    }
+  },
+  "6295" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 290,
+        "DEFENCE" : 152,
+        "STRENGTH" : 296,
+        "HITPOINTS" : 255,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseMagic" : -10
+    },
+    "attributes" : {
+      "npcId" : 6295,
+      "name" : "Black demon (hard)",
+      "isDemon" : true,
+      "size" : 3
+    }
+  },
+  "11797" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 30,
+        "STRENGTH" : 140,
+        "HITPOINTS" : 70,
+        "RANGED" : 100,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 60,
+      "defenseSlash" : 120,
+      "defenseCrush" : 120,
+      "defenseRanged" : 60,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 11797,
+      "name" : "Akkha's Shadow",
+      "size" : 3,
+      "accuracyMagic" : 115
     }
   },
   "6402" : {
