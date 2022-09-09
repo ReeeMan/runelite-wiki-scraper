@@ -9429,6 +9429,13 @@
     "accuracyRanged" : -7,
     "slot" : 7
   },
+  "27365" : {
+    "itemId" : 27365,
+    "name" : "Masori assembler max cape (l)",
+    "accuracyRanged" : 8,
+    "strengthRanged" : 2,
+    "slot" : 1
+  },
   "1279" : {
     "itemId" : 1279,
     "name" : "Iron sword",
@@ -10707,6 +10714,13 @@
     "name" : "Team-38 cape",
     "slot" : 1
   },
+  "27376" : {
+    "itemId" : 27376,
+    "name" : "Masori assembler (l)",
+    "accuracyRanged" : 8,
+    "strengthRanged" : 2,
+    "slot" : 1
+  },
   "9104" : {
     "itemId" : 9104,
     "name" : "Lunar ring",
@@ -11706,7 +11720,7 @@
     "itemId" : 27253,
     "name" : "Elidinis' ward (or)",
     "accuracyMagic" : 25,
-    "strengthMagic" : 5,
+    "strengthMagic" : 3,
     "prayer" : 4,
     "slot" : 5
   },
@@ -15517,6 +15531,11 @@
     "accuracyRanged" : -11,
     "slot" : 7
   },
+  "27370" : {
+    "itemId" : 27370,
+    "name" : "Mask of rebirth",
+    "slot" : 0
+  },
   "26454" : {
     "itemId" : 26454,
     "name" : "Shattered top (t3)",
@@ -17892,11 +17911,6 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
-  "25019" : {
-    "itemId" : 25019,
-    "name" : "Trailblazer top (t2)",
-    "slot" : 4
-  },
   "21928" : {
     "itemId" : 21928,
     "name" : "Dragon bolts (p++)",
@@ -17924,6 +17938,16 @@
     "accuracyMagic" : -3,
     "accuracyRanged" : -1,
     "slot" : 0
+  },
+  "27366" : {
+    "itemId" : 27366,
+    "name" : "Masori assembler max hood",
+    "slot" : 0
+  },
+  "25019" : {
+    "itemId" : 25019,
+    "name" : "Trailblazer top (t2)",
+    "slot" : 4
   },
   "21646" : {
     "itemId" : 21646,
@@ -24164,7 +24188,7 @@
     "name" : "Dagon'hai robe bottom (or)",
     "accuracyMagic" : 18,
     "prayer" : 2,
-    "slot" : 4
+    "slot" : 7
   },
   "13590" : {
     "itemId" : 13590,
@@ -28292,7 +28316,7 @@
   "27267" : {
     "itemId" : 27267,
     "name" : "Icthlarin's hood (tier 5)",
-    "slot" : 1
+    "slot" : 0
   },
   "1385" : {
     "itemId" : 1385,
@@ -28339,6 +28363,13 @@
     "strengthMelee" : 6,
     "prayer" : 3,
     "slot" : 2
+  },
+  "27374" : {
+    "itemId" : 27374,
+    "name" : "Masori assembler",
+    "accuracyRanged" : 8,
+    "strengthRanged" : 2,
+    "slot" : 1
   },
   "11897" : {
     "itemId" : 11897,
@@ -29059,6 +29090,13 @@
     "accuracyRanged" : 12,
     "strengthMelee" : 12,
     "slot" : 9
+  },
+  "27363" : {
+    "itemId" : 27363,
+    "name" : "Masori assembler max cape",
+    "accuracyRanged" : 8,
+    "strengthRanged" : 2,
+    "slot" : 1
   },
   "25517" : {
     "itemId" : 25517,

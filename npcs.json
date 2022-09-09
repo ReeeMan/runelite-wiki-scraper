@@ -5584,31 +5584,6 @@
       "size" : 2
     }
   },
-  "11748" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 300,
-        "DEFENCE" : 100,
-        "STRENGTH" : 150,
-        "HITPOINTS" : 140,
-        "RANGED" : 190,
-        "MAGIC" : 190
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 70,
-      "defenseSlash" : 70,
-      "defenseCrush" : 70,
-      "defenseRanged" : 70,
-      "defenseMagic" : -30
-    },
-    "attributes" : {
-      "npcId" : 11748,
-      "name" : "Elidinis' Warden",
-      "size" : 5,
-      "accuracyMagic" : 225
-    }
-  },
   "1232" : {
     "skills" : {
       "levels" : {
@@ -12072,28 +12047,6 @@
       "accuracyMagic" : 50
     }
   },
-  "426" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 55,
-        "DEFENCE" : 85,
-        "STRENGTH" : 85,
-        "HITPOINTS" : 78,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseSlash" : 20,
-      "defenseCrush" : 20
-    },
-    "attributes" : {
-      "npcId" : 426,
-      "name" : "Turoth (Lvl 86)",
-      "isLeafy" : true,
-      "size" : 1
-    }
-  },
   "6614" : {
     "skills" : {
       "levels" : {
@@ -12436,6 +12389,53 @@
     "attributes" : {
       "npcId" : 2216,
       "name" : "Sergeant Strongstack",
+      "size" : 1
+    }
+  },
+  "11761" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 150,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 880,
+        "RANGED" : 150,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 40,
+      "defenseSlash" : 40,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20,
+      "defenseMagic" : 20
+    },
+    "attributes" : {
+      "npcId" : 11761,
+      "name" : "Elidinis' Warden",
+      "size" : 5,
+      "accuracyMagic" : 230
+    }
+  },
+  "426" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 55,
+        "DEFENCE" : 85,
+        "STRENGTH" : 85,
+        "HITPOINTS" : 78,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseSlash" : 20,
+      "defenseCrush" : 20
+    },
+    "attributes" : {
+      "npcId" : 426,
+      "name" : "Turoth (Lvl 86)",
+      "isLeafy" : true,
       "size" : 1
     }
   },
@@ -14831,28 +14831,6 @@
       "size" : 1
     }
   },
-  "419" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 22,
-        "DEFENCE" : 37,
-        "STRENGTH" : 37,
-        "HITPOINTS" : 37,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 10,
-      "defenseSlash" : 10,
-      "defenseMagic" : 10
-    },
-    "attributes" : {
-      "npcId" : 419,
-      "name" : "Cockatrice",
-      "size" : 2
-    }
-  },
   "8384" : {
     "skills" : {
       "levels" : {
@@ -14990,6 +14968,53 @@
       "npcId" : 7751,
       "name" : "Well-armed Foe",
       "size" : 3
+    }
+  },
+  "419" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 22,
+        "DEFENCE" : 37,
+        "STRENGTH" : 37,
+        "HITPOINTS" : 37,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 10,
+      "defenseSlash" : 10,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 419,
+      "name" : "Cockatrice",
+      "size" : 2
+    }
+  },
+  "11747" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 100,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 140,
+        "RANGED" : 190,
+        "MAGIC" : 190
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 70,
+      "defenseSlash" : 70,
+      "defenseCrush" : 70,
+      "defenseRanged" : 70,
+      "defenseMagic" : -30
+    },
+    "attributes" : {
+      "npcId" : 11747,
+      "name" : "Tumeken's Warden",
+      "size" : 5,
+      "accuracyMagic" : 225
     }
   },
   "11717" : {
@@ -16603,6 +16628,31 @@
       "npcId" : 1234,
       "name" : "Arzinian Avatar of Magic (Lvl 125)",
       "size" : 1
+    }
+  },
+  "11762" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 150,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 880,
+        "RANGED" : 150,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 40,
+      "defenseSlash" : 40,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20,
+      "defenseMagic" : 20
+    },
+    "attributes" : {
+      "npcId" : 11762,
+      "name" : "Tumeken's Warden (Lvl 544)",
+      "size" : 5,
+      "accuracyMagic" : 230
     }
   },
   "6331" : {
@@ -23914,31 +23964,6 @@
       "size" : 2
     }
   },
-  "11763" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 150,
-        "DEFENCE" : 150,
-        "STRENGTH" : 150,
-        "HITPOINTS" : 880,
-        "RANGED" : 150,
-        "MAGIC" : 150
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 40,
-      "defenseSlash" : 40,
-      "defenseCrush" : 20,
-      "defenseRanged" : 20,
-      "defenseMagic" : 20
-    },
-    "attributes" : {
-      "npcId" : 11763,
-      "name" : "Elidinis' Warden (Lvl 544)",
-      "size" : 5,
-      "accuracyMagic" : 230
-    }
-  },
   "690" : {
     "skills" : {
       "levels" : {
@@ -25309,6 +25334,31 @@
       "npcId" : 1702,
       "name" : "Shifter (Lvl 104)",
       "size" : 1
+    }
+  },
+  "11746" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 100,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 140,
+        "RANGED" : 190,
+        "MAGIC" : 190
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 70,
+      "defenseSlash" : 70,
+      "defenseCrush" : 70,
+      "defenseRanged" : 70,
+      "defenseMagic" : -30
+    },
+    "attributes" : {
+      "npcId" : 11746,
+      "name" : "Elidinis' Warden (Lvl 489)",
+      "size" : 5,
+      "accuracyMagic" : 225
     }
   },
   "6068" : {
