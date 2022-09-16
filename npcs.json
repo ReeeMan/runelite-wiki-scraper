@@ -4234,24 +4234,6 @@
       "size" : 4
     }
   },
-  "2464" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 65,
-        "DEFENCE" : 35,
-        "STRENGTH" : 65,
-        "HITPOINTS" : 100,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 2464,
-      "name" : "Cyclops (Lvl 76)",
-      "size" : 2
-    }
-  },
   "7248" : {
     "skills" : {
       "levels" : {
@@ -4319,15 +4301,21 @@
   "11484" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 255,
+        "DEFENCE" : 2,
+        "STRENGTH" : 5,
         "HITPOINTS" : 5,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
-    "defensiveBonuses" : { },
+    "defensiveBonuses" : {
+      "defenseStab" : -100,
+      "defenseSlash" : -100,
+      "defenseCrush" : -100,
+      "defenseRanged" : -100,
+      "defenseMagic" : -100
+    },
     "attributes" : {
       "npcId" : 11484,
       "name" : "Scarab Swarm",
@@ -5397,6 +5385,49 @@
       "size" : 1
     }
   },
+  "2464" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 65,
+        "DEFENCE" : 35,
+        "STRENGTH" : 65,
+        "HITPOINTS" : 100,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 2464,
+      "name" : "Cyclops (Lvl 76)",
+      "size" : 2
+    }
+  },
+  "11753" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 100,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 140,
+        "RANGED" : 190,
+        "MAGIC" : 190
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 70,
+      "defenseSlash" : 70,
+      "defenseCrush" : 70,
+      "defenseRanged" : 70,
+      "defenseMagic" : -30
+    },
+    "attributes" : {
+      "npcId" : 11753,
+      "name" : "Elidinis' Warden",
+      "size" : 5,
+      "accuracyMagic" : 225
+    }
+  },
   "990" : {
     "skills" : {
       "levels" : {
@@ -5582,31 +5613,6 @@
       "npcId" : 3999,
       "name" : "Witch's experiment (fourth form)",
       "size" : 2
-    }
-  },
-  "11748" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 300,
-        "DEFENCE" : 100,
-        "STRENGTH" : 150,
-        "HITPOINTS" : 140,
-        "RANGED" : 190,
-        "MAGIC" : 190
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 70,
-      "defenseSlash" : 70,
-      "defenseCrush" : 70,
-      "defenseRanged" : 70,
-      "defenseMagic" : -30
-    },
-    "attributes" : {
-      "npcId" : 11748,
-      "name" : "Elidinis' Warden",
-      "size" : 5,
-      "accuracyMagic" : 225
     }
   },
   "1232" : {
@@ -12072,28 +12078,6 @@
       "accuracyMagic" : 50
     }
   },
-  "426" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 55,
-        "DEFENCE" : 85,
-        "STRENGTH" : 85,
-        "HITPOINTS" : 78,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseSlash" : 20,
-      "defenseCrush" : 20
-    },
-    "attributes" : {
-      "npcId" : 426,
-      "name" : "Turoth (Lvl 86)",
-      "isLeafy" : true,
-      "size" : 1
-    }
-  },
   "6614" : {
     "skills" : {
       "levels" : {
@@ -12436,6 +12420,53 @@
     "attributes" : {
       "npcId" : 2216,
       "name" : "Sergeant Strongstack",
+      "size" : 1
+    }
+  },
+  "11761" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 150,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 880,
+        "RANGED" : 150,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 40,
+      "defenseSlash" : 40,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20,
+      "defenseMagic" : 20
+    },
+    "attributes" : {
+      "npcId" : 11761,
+      "name" : "Elidinis' Warden (Lvl 544)",
+      "size" : 5,
+      "accuracyMagic" : 230
+    }
+  },
+  "426" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 55,
+        "DEFENCE" : 85,
+        "STRENGTH" : 85,
+        "HITPOINTS" : 78,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseSlash" : 20,
+      "defenseCrush" : 20
+    },
+    "attributes" : {
+      "npcId" : 426,
+      "name" : "Turoth (Lvl 86)",
+      "isLeafy" : true,
       "size" : 1
     }
   },
@@ -14693,7 +14724,7 @@
         "ATTACK" : 190,
         "DEFENCE" : 85,
         "STRENGTH" : 145,
-        "HITPOINTS" : 380,
+        "HITPOINTS" : 290,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -16605,6 +16636,31 @@
       "size" : 1
     }
   },
+  "11762" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 150,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 880,
+        "RANGED" : 150,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 40,
+      "defenseSlash" : 40,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20,
+      "defenseMagic" : 20
+    },
+    "attributes" : {
+      "npcId" : 11762,
+      "name" : "Tumeken's Warden",
+      "size" : 5,
+      "accuracyMagic" : 230
+    }
+  },
   "6331" : {
     "skills" : {
       "levels" : {
@@ -18138,30 +18194,6 @@
       "size" : 2
     }
   },
-  "4742" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 80,
-        "DEFENCE" : 80,
-        "STRENGTH" : 30,
-        "HITPOINTS" : 80,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 300,
-      "defenseSlash" : 300,
-      "defenseCrush" : 1,
-      "defenseRanged" : 300,
-      "defenseMagic" : 300
-    },
-    "attributes" : {
-      "npcId" : 4742,
-      "name" : "Black golem",
-      "size" : 1
-    }
-  },
   "2054" : {
     "skills" : {
       "levels" : {
@@ -18404,6 +18436,55 @@
       "name" : "Zombie (Lvl 24)",
       "isUndead" : true,
       "size" : 1
+    }
+  },
+  "4742" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 80,
+        "DEFENCE" : 80,
+        "STRENGTH" : 30,
+        "HITPOINTS" : 80,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 300,
+      "defenseSlash" : 300,
+      "defenseCrush" : 1,
+      "defenseRanged" : 300,
+      "defenseMagic" : 300
+    },
+    "attributes" : {
+      "npcId" : 4742,
+      "name" : "Black golem",
+      "size" : 1
+    }
+  },
+  "11756" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 100,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 140,
+        "RANGED" : 190,
+        "MAGIC" : 190
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 70,
+      "defenseSlash" : 70,
+      "defenseCrush" : 70,
+      "defenseRanged" : 70,
+      "defenseMagic" : -30
+    },
+    "attributes" : {
+      "npcId" : 11756,
+      "name" : "Tumeken's Warden (Lvl 489)",
+      "size" : 5,
+      "accuracyMagic" : 225
     }
   },
   "6450" : {
@@ -20304,7 +20385,7 @@
   "9021" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 240,
+        "ATTACK" : 600,
         "DEFENCE" : 240,
         "STRENGTH" : 240,
         "HITPOINTS" : 600,
@@ -23912,31 +23993,6 @@
       "npcId" : 9029,
       "name" : "Crystalline Unicorn",
       "size" : 2
-    }
-  },
-  "11763" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 150,
-        "DEFENCE" : 150,
-        "STRENGTH" : 150,
-        "HITPOINTS" : 880,
-        "RANGED" : 150,
-        "MAGIC" : 150
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 40,
-      "defenseSlash" : 40,
-      "defenseCrush" : 20,
-      "defenseRanged" : 20,
-      "defenseMagic" : 20
-    },
-    "attributes" : {
-      "npcId" : 11763,
-      "name" : "Elidinis' Warden (Lvl 544)",
-      "size" : 5,
-      "accuracyMagic" : 230
     }
   },
   "690" : {

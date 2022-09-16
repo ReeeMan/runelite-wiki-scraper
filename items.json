@@ -485,6 +485,14 @@
     "name" : "Trailblazer top (t3)",
     "slot" : 4
   },
+  "27420" : {
+    "itemId" : 27420,
+    "name" : "Silver speedrun trophy",
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
+  },
   "4712" : {
     "itemId" : 4712,
     "name" : "Ahrim's robetop",
@@ -523,6 +531,11 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "STAFF"
+  },
+  "27390" : {
+    "itemId" : 27390,
+    "name" : "Adventurer's trousers (t1)",
+    "slot" : 7
   },
   "11113" : {
     "itemId" : 11113,
@@ -895,6 +908,18 @@
     "name" : "Onyx dragon bolts (e)",
     "strengthRanged" : 122,
     "slot" : 13
+  },
+  "25487" : {
+    "itemId" : 25487,
+    "name" : "Ursine chainmace",
+    "accuracyStab" : 53,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 71,
+    "strengthMelee" : 74,
+    "prayer" : 2,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SPIKED"
   },
   "22177" : {
     "itemId" : 22177,
@@ -1353,6 +1378,14 @@
     "itemId" : 24405,
     "name" : "Twisted hat (t1)",
     "slot" : 0
+  },
+  "25488" : {
+    "itemId" : 25488,
+    "name" : "Accursed sceptre (u)",
+    "accuracyMagic" : 22,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "POWERED_STAFF"
   },
   "3771" : {
     "itemId" : 3771,
@@ -7334,13 +7367,6 @@
     "prayer" : 2,
     "slot" : 1
   },
-  "19639" : {
-    "itemId" : 19639,
-    "name" : "Black slayer helmet",
-    "accuracyMagic" : -6,
-    "accuracyRanged" : -2,
-    "slot" : 0
-  },
   "11873" : {
     "itemId" : 11873,
     "name" : "Slayer ring (1)",
@@ -7375,6 +7401,21 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "19639" : {
+    "itemId" : 19639,
+    "name" : "Black slayer helmet",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -2,
+    "slot" : 0
+  },
+  "25489" : {
+    "itemId" : 25489,
+    "name" : "Accursed sceptre",
+    "accuracyMagic" : 22,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "POWERED_STAFF"
   },
   "21136" : {
     "itemId" : 21136,
@@ -7867,11 +7908,6 @@
     "strengthMelee" : 7,
     "slot" : 5
   },
-  "7927" : {
-    "itemId" : 7927,
-    "name" : "Easter ring",
-    "slot" : 12
-  },
   "23863" : {
     "itemId" : 23863,
     "name" : "Crystal pickaxe",
@@ -7887,6 +7923,16 @@
     "itemId" : 21061,
     "name" : "Graceful hood (21061)",
     "slot" : 0
+  },
+  "27406" : {
+    "itemId" : 27406,
+    "name" : "Adventurer's trousers (t3)",
+    "slot" : 7
+  },
+  "7927" : {
+    "itemId" : 7927,
+    "name" : "Easter ring",
+    "slot" : 12
   },
   "24170" : {
     "itemId" : 24170,
@@ -7932,6 +7978,18 @@
     "itemId" : 13619,
     "name" : "Graceful top (13619)",
     "slot" : 4
+  },
+  "25486" : {
+    "itemId" : 25486,
+    "name" : "Ursine chainmace (u)",
+    "accuracyStab" : 53,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 71,
+    "strengthMelee" : 74,
+    "prayer" : 2,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SPIKED"
   },
   "12774" : {
     "itemId" : 12774,
@@ -9429,6 +9487,13 @@
     "accuracyRanged" : -7,
     "slot" : 7
   },
+  "27365" : {
+    "itemId" : 27365,
+    "name" : "Masori assembler max cape (l)",
+    "accuracyRanged" : 8,
+    "strengthRanged" : 2,
+    "slot" : 1
+  },
   "1279" : {
     "itemId" : 1279,
     "name" : "Iron sword",
@@ -10707,6 +10772,13 @@
     "name" : "Team-38 cape",
     "slot" : 1
   },
+  "27376" : {
+    "itemId" : 27376,
+    "name" : "Masori assembler (l)",
+    "accuracyRanged" : 8,
+    "strengthRanged" : 2,
+    "slot" : 1
+  },
   "9104" : {
     "itemId" : 9104,
     "name" : "Lunar ring",
@@ -11048,6 +11120,18 @@
     "name" : "Leather cowl",
     "accuracyRanged" : 1,
     "slot" : 0
+  },
+  "25490" : {
+    "itemId" : 25490,
+    "name" : "Voidwaker",
+    "accuracyStab" : 70,
+    "accuracySlash" : 80,
+    "accuracyCrush" : -2,
+    "accuracyMagic" : 5,
+    "strengthMelee" : 75,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SLASH_SWORD"
   },
   "9783" : {
     "itemId" : 9783,
@@ -12033,6 +12117,11 @@
     "strengthRanged" : 4,
     "prayer" : 1,
     "slot" : 4
+  },
+  "27412" : {
+    "itemId" : 27412,
+    "name" : "Adventurer's vambraces",
+    "slot" : 9
   },
   "11412" : {
     "itemId" : 11412,
@@ -13195,6 +13284,11 @@
     "name" : "Graceful legs (13598)",
     "slot" : 7
   },
+  "27402" : {
+    "itemId" : 27402,
+    "name" : "Adventurer's boots (t2)",
+    "slot" : 7
+  },
   "4866" : {
     "itemId" : 4866,
     "name" : "Ahrim's staff 0",
@@ -13245,6 +13339,11 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "SPIKED"
+  },
+  "27394" : {
+    "itemId" : 27394,
+    "name" : "Adventurer's boots (t1)",
+    "slot" : 7
   },
   "11122" : {
     "itemId" : 11122,
@@ -13700,6 +13799,14 @@
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
+  },
+  "27424" : {
+    "itemId" : 27424,
+    "name" : "Platinum speedrun trophy",
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
   },
   "10402" : {
     "itemId" : 10402,
@@ -15517,6 +15624,11 @@
     "accuracyRanged" : -11,
     "slot" : 7
   },
+  "27370" : {
+    "itemId" : 27370,
+    "name" : "Mask of rebirth",
+    "slot" : 0
+  },
   "26454" : {
     "itemId" : 26454,
     "name" : "Shattered top (t3)",
@@ -16186,6 +16298,14 @@
     "prayer" : 1,
     "slot" : 13
   },
+  "27418" : {
+    "itemId" : 27418,
+    "name" : "Bronze speedrun trophy",
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
+  },
   "25908" : {
     "itemId" : 25908,
     "name" : "Vampyric slayer helmet (i) (25908)",
@@ -16776,6 +16896,16 @@
     "accuracyMagic" : -8,
     "accuracyRanged" : -3,
     "slot" : 5
+  },
+  "25485" : {
+    "itemId" : 25485,
+    "name" : "Webweaver bow",
+    "accuracyRanged" : 85,
+    "strengthRanged" : 65,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
   },
   "25208" : {
     "itemId" : 25208,
@@ -17384,17 +17514,6 @@
     "name" : "Brown apron",
     "slot" : 4
   },
-  "2462" : {
-    "itemId" : 2462,
-    "name" : "Red flowers",
-    "accuracyStab" : -100,
-    "accuracySlash" : -100,
-    "accuracyCrush" : -50,
-    "strengthMelee" : -10,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "BLUNT"
-  },
   "887" : {
     "itemId" : 887,
     "name" : "Steel arrow(p)",
@@ -17743,6 +17862,25 @@
     "name" : "Shayzien scarf",
     "slot" : 2
   },
+  "27422" : {
+    "itemId" : 27422,
+    "name" : "Gold speedrun trophy",
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
+  },
+  "2462" : {
+    "itemId" : 2462,
+    "name" : "Red flowers",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "BLUNT"
+  },
   "20585" : {
     "itemId" : 20585,
     "name" : "Amulet of power (20585)",
@@ -17892,11 +18030,6 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
-  "25019" : {
-    "itemId" : 25019,
-    "name" : "Trailblazer top (t2)",
-    "slot" : 4
-  },
   "21928" : {
     "itemId" : 21928,
     "name" : "Dragon bolts (p++)",
@@ -17918,12 +18051,30 @@
     "slot" : 3,
     "weaponCategory" : "SLASH_SWORD"
   },
+  "27414" : {
+    "itemId" : 27414,
+    "name" : "Giant stopwatch",
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
+  },
   "8909" : {
     "itemId" : 8909,
     "name" : "Black mask (6)",
     "accuracyMagic" : -3,
     "accuracyRanged" : -1,
     "slot" : 0
+  },
+  "27366" : {
+    "itemId" : 27366,
+    "name" : "Masori assembler max hood",
+    "slot" : 0
+  },
+  "25019" : {
+    "itemId" : 25019,
+    "name" : "Trailblazer top (t2)",
+    "slot" : 4
   },
   "21646" : {
     "itemId" : 21646,
@@ -18144,13 +18295,6 @@
     "accuracyMagic" : -8,
     "accuracyRanged" : -3,
     "slot" : 5
-  },
-  "13359" : {
-    "itemId" : 13359,
-    "name" : "Shayzien helm (1)",
-    "accuracyMagic" : -5,
-    "accuracyRanged" : -2,
-    "slot" : 0
   },
   "6527" : {
     "itemId" : 6527,
@@ -18407,6 +18551,11 @@
     "itemId" : 11666,
     "name" : "Void seal(8)",
     "slot" : 2
+  },
+  "27398" : {
+    "itemId" : 27398,
+    "name" : "Adventurer's trousers (t2)",
+    "slot" : 7
   },
   "12361" : {
     "itemId" : 12361,
@@ -18857,6 +19006,18 @@
     "accuracyRanged" : -15,
     "prayer" : 1,
     "slot" : 4
+  },
+  "27400" : {
+    "itemId" : 27400,
+    "name" : "Adventurer's hood (t2)",
+    "slot" : 0
+  },
+  "13359" : {
+    "itemId" : 13359,
+    "name" : "Shayzien helm (1)",
+    "accuracyMagic" : -5,
+    "accuracyRanged" : -2,
+    "slot" : 0
   },
   "26229" : {
     "itemId" : 26229,
@@ -19526,6 +19687,11 @@
     "itemId" : 24832,
     "name" : "Vyre noble pants (24832)",
     "slot" : 7
+  },
+  "27392" : {
+    "itemId" : 27392,
+    "name" : "Adventurer's hood (t1)",
+    "slot" : 0
   },
   "11672" : {
     "itemId" : 11672,
@@ -23532,6 +23698,11 @@
     "strengthRanged" : 16,
     "slot" : 13
   },
+  "27408" : {
+    "itemId" : 27408,
+    "name" : "Adventurer's hood (t3)",
+    "slot" : 0
+  },
   "21018" : {
     "itemId" : 21018,
     "name" : "Ancestral hat",
@@ -24164,7 +24335,7 @@
     "name" : "Dagon'hai robe bottom (or)",
     "accuracyMagic" : 18,
     "prayer" : 2,
-    "slot" : 4
+    "slot" : 7
   },
   "13590" : {
     "itemId" : 13590,
@@ -25474,17 +25645,6 @@
     "name" : "Bounty hunter hat (tier 4)",
     "slot" : 0
   },
-  "13244" : {
-    "itemId" : 13244,
-    "name" : "Infernal pickaxe (uncharged)",
-    "accuracyStab" : 38,
-    "accuracySlash" : -2,
-    "accuracyCrush" : 32,
-    "strengthMelee" : 42,
-    "speed" : 5,
-    "slot" : 3,
-    "weaponCategory" : "PICKAXE"
-  },
   "5662" : {
     "itemId" : 5662,
     "name" : "Iron knife(p++)",
@@ -25498,6 +25658,22 @@
     "itemId" : 21155,
     "name" : "Necklace of passage(1)",
     "slot" : 2
+  },
+  "27404" : {
+    "itemId" : 27404,
+    "name" : "Adventurer's top (t3)",
+    "slot" : 4
+  },
+  "13244" : {
+    "itemId" : 13244,
+    "name" : "Infernal pickaxe (uncharged)",
+    "accuracyStab" : 38,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 32,
+    "strengthMelee" : 42,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "PICKAXE"
   },
   "26804" : {
     "itemId" : 26804,
@@ -25709,6 +25885,16 @@
     "accuracyRanged" : -10,
     "slot" : 4
   },
+  "25484" : {
+    "itemId" : 25484,
+    "name" : "Webweaver bow (u)",
+    "accuracyRanged" : 85,
+    "strengthRanged" : 65,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
+  },
   "5621" : {
     "itemId" : 5621,
     "name" : "Rune arrow(p+)",
@@ -25735,7 +25921,7 @@
   },
   "12727" : {
     "itemId" : 12727,
-    "name" : "Event rpg",
+    "name" : "Goblin paint cannon",
     "speed" : 3,
     "slot" : 3,
     "is2h" : true,
@@ -25940,12 +26126,6 @@
     "slot" : 3,
     "weaponCategory" : "SPEAR"
   },
-  "26496" : {
-    "itemId" : 26496,
-    "name" : "Holy book (or)",
-    "prayer" : 5,
-    "slot" : 5
-  },
   "21076" : {
     "itemId" : 21076,
     "name" : "Graceful boots (21076)",
@@ -26071,6 +26251,17 @@
     "accuracyRanged" : -3,
     "prayer" : 1,
     "slot" : 10
+  },
+  "27388" : {
+    "itemId" : 27388,
+    "name" : "Adventurer's top (t1)",
+    "slot" : 4
+  },
+  "26496" : {
+    "itemId" : 26496,
+    "name" : "Holy book (or)",
+    "prayer" : 5,
+    "slot" : 5
   },
   "6666" : {
     "itemId" : 6666,
@@ -27874,6 +28065,11 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
+  "27410" : {
+    "itemId" : 27410,
+    "name" : "Adventurer's boots (t3)",
+    "slot" : 7
+  },
   "23785" : {
     "itemId" : 23785,
     "name" : "Ardougne knight helm",
@@ -28292,7 +28488,7 @@
   "27267" : {
     "itemId" : 27267,
     "name" : "Icthlarin's hood (tier 5)",
-    "slot" : 1
+    "slot" : 0
   },
   "1385" : {
     "itemId" : 1385,
@@ -28339,6 +28535,13 @@
     "strengthMelee" : 6,
     "prayer" : 3,
     "slot" : 2
+  },
+  "27374" : {
+    "itemId" : 27374,
+    "name" : "Masori assembler",
+    "accuracyRanged" : 8,
+    "strengthRanged" : 2,
+    "slot" : 1
   },
   "11897" : {
     "itemId" : 11897,
@@ -29060,6 +29263,13 @@
     "strengthMelee" : 12,
     "slot" : 9
   },
+  "27363" : {
+    "itemId" : 27363,
+    "name" : "Masori assembler max cape",
+    "accuracyRanged" : 8,
+    "strengthRanged" : 2,
+    "slot" : 1
+  },
   "25517" : {
     "itemId" : 25517,
     "name" : "Volatile nightmare staff (25517)",
@@ -29226,6 +29436,11 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "27396" : {
+    "itemId" : 27396,
+    "name" : "Adventurer's top (t2)",
+    "slot" : 4
   },
   "667" : {
     "itemId" : 667,
