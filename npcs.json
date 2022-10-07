@@ -4255,6 +4255,29 @@
       "size" : 2
     }
   },
+  "6595" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 800,
+        "DEFENCE" : 300,
+        "STRENGTH" : 400,
+        "HITPOINTS" : 800,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 8,
+      "defenseSlash" : 9,
+      "defenseCrush" : 7,
+      "defenseRanged" : 8
+    },
+    "attributes" : {
+      "npcId" : 6595,
+      "name" : "Prifddinas guard",
+      "size" : 1
+    }
+  },
   "5966" : {
     "skills" : {
       "levels" : {
@@ -23667,30 +23690,6 @@
       "size" : 1
     }
   },
-  "2621" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 10,
-        "DEFENCE" : 10,
-        "STRENGTH" : 10,
-        "HITPOINTS" : 60,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : -21,
-      "defenseSlash" : -21,
-      "defenseCrush" : -21,
-      "defenseRanged" : -21,
-      "defenseMagic" : -21
-    },
-    "attributes" : {
-      "npcId" : 2621,
-      "name" : "Svetlana",
-      "size" : 1
-    }
-  },
   "3355" : {
     "skills" : {
       "levels" : {
@@ -24577,6 +24576,54 @@
       "npcId" : 7708,
       "name" : "Jal-MejJak",
       "size" : 1
+    }
+  },
+  "2621" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 10,
+        "DEFENCE" : 10,
+        "STRENGTH" : 10,
+        "HITPOINTS" : 60,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : -21,
+      "defenseSlash" : -21,
+      "defenseCrush" : -21,
+      "defenseRanged" : -21,
+      "defenseMagic" : -21
+    },
+    "attributes" : {
+      "npcId" : 2621,
+      "name" : "Svetlana",
+      "size" : 1
+    }
+  },
+  "5945" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 100,
+        "STRENGTH" : 100,
+        "HITPOINTS" : 150,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 100,
+      "defenseSlash" : 100,
+      "defenseCrush" : 50,
+      "defenseRanged" : 150,
+      "defenseMagic" : 50
+    },
+    "attributes" : {
+      "npcId" : 5945,
+      "name" : "Rock (Lvl 127)",
+      "size" : 2
     }
   },
   "3359" : {
@@ -25794,6 +25841,24 @@
       "size" : 1
     }
   },
+  "3676" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 1,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 3676,
+      "name" : "Alrik",
+      "size" : 1
+    }
+  },
   "4405" : {
     "skills" : {
       "levels" : {
@@ -26213,48 +26278,6 @@
     "attributes" : {
       "npcId" : 6906,
       "name" : "Soldier (tier 2)",
-      "size" : 1
-    }
-  },
-  "9289" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 214,
-        "DEFENCE" : 214,
-        "STRENGTH" : 214,
-        "HITPOINTS" : 600,
-        "RANGED" : 214,
-        "MAGIC" : 214
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 50,
-      "defenseSlash" : 50,
-      "defenseCrush" : 10,
-      "defenseRanged" : 50,
-      "defenseMagic" : 50
-    },
-    "attributes" : {
-      "npcId" : 9289,
-      "name" : "The Jormungand",
-      "size" : 5
-    }
-  },
-  "3676" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 1,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 1,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 3676,
-      "name" : "Alrik",
       "size" : 1
     }
   },
@@ -32642,6 +32665,30 @@
       "npcId" : 2456,
       "name" : "Animated Rune Armour",
       "size" : 1
+    }
+  },
+  "9290" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 214,
+        "DEFENCE" : 214,
+        "STRENGTH" : 214,
+        "HITPOINTS" : 600,
+        "RANGED" : 214,
+        "MAGIC" : 214
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseCrush" : 10,
+      "defenseRanged" : 50,
+      "defenseMagic" : 50
+    },
+    "attributes" : {
+      "npcId" : 9290,
+      "name" : "The Jormungand",
+      "size" : 5
     }
   },
   "2501" : {
