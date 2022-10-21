@@ -82,15 +82,20 @@
     "accuracyRanged" : -11,
     "slot" : 7
   },
-  "9765" : {
-    "itemId" : 9765,
-    "name" : "Runecraft cape",
-    "slot" : 1
-  },
   "13069" : {
     "itemId" : 13069,
     "name" : "Achievement diary cape (t)",
     "prayer" : 4,
+    "slot" : 1
+  },
+  "27461" : {
+    "itemId" : 27461,
+    "name" : "Graceful boots (27461)",
+    "slot" : 10
+  },
+  "9765" : {
+    "itemId" : 9765,
+    "name" : "Runecraft cape",
     "slot" : 1
   },
   "6145" : {
@@ -488,6 +493,10 @@
   "27420" : {
     "itemId" : 27420,
     "name" : "Silver speedrun trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
     "speed" : 4,
     "slot" : 3,
     "is2h" : true,
@@ -1891,6 +1900,11 @@
     "strengthMelee" : 6,
     "prayer" : 3,
     "slot" : 2
+  },
+  "27459" : {
+    "itemId" : 27459,
+    "name" : "Graceful boots (27459)",
+    "slot" : 10
   },
   "12381" : {
     "itemId" : 12381,
@@ -4565,12 +4579,6 @@
     "accuracyMagic" : 12,
     "slot" : 12
   },
-  "10045" : {
-    "itemId" : 10045,
-    "name" : "Larupia hat",
-    "accuracyRanged" : -1,
-    "slot" : 0
-  },
   "12788" : {
     "itemId" : 12788,
     "name" : "Magic shortbow (i)",
@@ -4579,6 +4587,17 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BOW"
+  },
+  "10045" : {
+    "itemId" : 10045,
+    "name" : "Larupia hat",
+    "accuracyRanged" : -1,
+    "slot" : 0
+  },
+  "27450" : {
+    "itemId" : 27450,
+    "name" : "Graceful top (27450)",
+    "slot" : 4
   },
   "25553" : {
     "itemId" : 25553,
@@ -8591,6 +8610,11 @@
     "prayer" : 5,
     "slot" : 4
   },
+  "27458" : {
+    "itemId" : 27458,
+    "name" : "Graceful gloves (27458)",
+    "slot" : 9
+  },
   "20086" : {
     "itemId" : 20086,
     "name" : "Mummy's hands",
@@ -9675,6 +9699,11 @@
     "strengthMagic" : 2,
     "slot" : 7
   },
+  "27444" : {
+    "itemId" : 27444,
+    "name" : "Graceful hood (27444)",
+    "slot" : 0
+  },
   "6581" : {
     "itemId" : 6581,
     "name" : "Onyx amulet",
@@ -9948,6 +9977,11 @@
     "itemId" : 12016,
     "name" : "Prospector boots",
     "slot" : 10
+  },
+  "27447" : {
+    "itemId" : 27447,
+    "name" : "Graceful cape (27447)",
+    "slot" : 1
   },
   "24378" : {
     "itemId" : 24378,
@@ -10887,6 +10921,11 @@
     "itemId" : 2936,
     "name" : "Purple robe top",
     "slot" : 4
+  },
+  "27455" : {
+    "itemId" : 27455,
+    "name" : "Graceful legs (27455)",
+    "slot" : 7
   },
   "8678" : {
     "itemId" : 8678,
@@ -13823,6 +13862,10 @@
   "27424" : {
     "itemId" : 27424,
     "name" : "Platinum speedrun trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
     "speed" : 4,
     "slot" : 3,
     "is2h" : true,
@@ -16321,6 +16364,10 @@
   "27418" : {
     "itemId" : 27418,
     "name" : "Bronze speedrun trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
     "speed" : 4,
     "slot" : 3,
     "is2h" : true,
@@ -16709,6 +16756,11 @@
     "speed" : 3,
     "slot" : 3,
     "weaponCategory" : "THROWN"
+  },
+  "27456" : {
+    "itemId" : 27456,
+    "name" : "Graceful gloves (27456)",
+    "slot" : 9
   },
   "12451" : {
     "itemId" : 12451,
@@ -17572,6 +17624,11 @@
     "slot" : 3,
     "weaponCategory" : "SLASH_SWORD"
   },
+  "27446" : {
+    "itemId" : 27446,
+    "name" : "Graceful hood (27446)",
+    "slot" : 0
+  },
   "21695" : {
     "itemId" : 21695,
     "name" : "Runefest shield",
@@ -17885,6 +17942,10 @@
   "27422" : {
     "itemId" : 27422,
     "name" : "Gold speedrun trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
     "speed" : 4,
     "slot" : 3,
     "is2h" : true,
@@ -18074,6 +18135,10 @@
   "27414" : {
     "itemId" : 27414,
     "name" : "Giant stopwatch",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
     "speed" : 4,
     "slot" : 3,
     "is2h" : true,
@@ -18489,6 +18554,11 @@
   "644" : {
     "itemId" : 644,
     "name" : "Turquoise robe top",
+    "slot" : 4
+  },
+  "27452" : {
+    "itemId" : 27452,
+    "name" : "Graceful top (27452)",
     "slot" : 4
   },
   "23789" : {
@@ -24034,6 +24104,11 @@
     "is2h" : true,
     "weaponCategory" : "SPEAR"
   },
+  "27449" : {
+    "itemId" : 27449,
+    "name" : "Graceful cape (27449)",
+    "slot" : 1
+  },
   "10322" : {
     "itemId" : 10322,
     "name" : "Bob's black shirt",
@@ -28714,6 +28789,11 @@
     "accuracyRanged" : -10,
     "slot" : 4
   },
+  "27453" : {
+    "itemId" : 27453,
+    "name" : "Graceful legs (27453)",
+    "slot" : 7
+  },
   "2980" : {
     "itemId" : 2980,
     "name" : "Chompy bird hat (2980)",
@@ -29487,6 +29567,11 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "27442" : {
+    "itemId" : 27442,
+    "name" : "Adventurer's cape",
+    "slot" : 1
   },
   "27396" : {
     "itemId" : 27396,
