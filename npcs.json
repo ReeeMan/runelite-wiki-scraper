@@ -6907,7 +6907,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3959,
-      "name" : "Jungle savage",
+      "name" : "Tormented Warrior",
       "size" : 1
     }
   },
@@ -20341,7 +20341,7 @@
     },
     "attributes" : {
       "npcId" : 3260,
-      "name" : "Warrior woman",
+      "name" : "Warrior",
       "size" : 1,
       "accuracyMagic" : 6
     }
@@ -20368,7 +20368,7 @@
   "9021" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 600,
+        "ATTACK" : 240,
         "DEFENCE" : 240,
         "STRENGTH" : 240,
         "HITPOINTS" : 600,
@@ -24006,7 +24006,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7894,
-      "name" : "Sand Snake (Lvl 154)",
+      "name" : "Sand Snake (hard)",
       "size" : 3
     }
   },
@@ -24981,26 +24981,6 @@
       "size" : 2
     }
   },
-  "1556" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 5,
-        "DEFENCE" : 10,
-        "STRENGTH" : 5,
-        "HITPOINTS" : 25,
-        "RANGED" : 0,
-        "MAGIC" : 10
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseMagic" : 15
-    },
-    "attributes" : {
-      "npcId" : 1556,
-      "name" : "Fire wizard",
-      "size" : 1
-    }
-  },
   "8846" : {
     "skills" : {
       "levels" : {
@@ -25287,6 +25267,48 @@
     "attributes" : {
       "npcId" : 3458,
       "name" : "Kamil",
+      "size" : 1
+    }
+  },
+  "11955" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 23,
+        "DEFENCE" : 26,
+        "STRENGTH" : 27,
+        "HITPOINTS" : 39,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 4,
+      "defenseSlash" : 6,
+      "defenseCrush" : 6
+    },
+    "attributes" : {
+      "npcId" : 11955,
+      "name" : "Tribeswoman",
+      "size" : 1
+    }
+  },
+  "1556" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 5,
+        "DEFENCE" : 10,
+        "STRENGTH" : 5,
+        "HITPOINTS" : 25,
+        "RANGED" : 0,
+        "MAGIC" : 10
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseMagic" : 15
+    },
+    "attributes" : {
+      "npcId" : 1556,
+      "name" : "Fire wizard",
       "size" : 1
     }
   },
@@ -29891,7 +29913,7 @@
     },
     "attributes" : {
       "npcId" : 3950,
-      "name" : "Warrior",
+      "name" : "Warrior (Lvl 48)",
       "size" : 1
     }
   },
