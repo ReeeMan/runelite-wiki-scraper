@@ -687,12 +687,12 @@
   "5262" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 130,
+        "DEFENCE" : 130,
+        "STRENGTH" : 130,
+        "HITPOINTS" : 130,
+        "RANGED" : 1,
+        "MAGIC" : 130
       }
     },
     "defensiveBonuses" : { },
@@ -2129,6 +2129,30 @@
       "size" : 2
     }
   },
+  "11911" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 19,
+        "DEFENCE" : 14,
+        "STRENGTH" : 18,
+        "HITPOINTS" : 22,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 24,
+      "defenseSlash" : 30,
+      "defenseCrush" : 25,
+      "defenseRanged" : 25,
+      "defenseMagic" : -9
+    },
+    "attributes" : {
+      "npcId" : 11911,
+      "name" : "Guard",
+      "size" : 1
+    }
+  },
   "7792" : {
     "skills" : {
       "levels" : {
@@ -2468,30 +2492,6 @@
     "attributes" : {
       "npcId" : 2217,
       "name" : "Sergeant Steelwill",
-      "size" : 1
-    }
-  },
-  "3010" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 19,
-        "DEFENCE" : 14,
-        "STRENGTH" : 18,
-        "HITPOINTS" : 22,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 24,
-      "defenseSlash" : 30,
-      "defenseCrush" : 25,
-      "defenseRanged" : 25,
-      "defenseMagic" : -9
-    },
-    "attributes" : {
-      "npcId" : 3010,
-      "name" : "Guard",
       "size" : 1
     }
   },
@@ -6907,7 +6907,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3959,
-      "name" : "Jungle savage",
+      "name" : "Tormented Warrior",
       "size" : 1
     }
   },
@@ -8733,12 +8733,12 @@
   "5261" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 130,
+        "DEFENCE" : 130,
+        "STRENGTH" : 130,
+        "HITPOINTS" : 130,
+        "RANGED" : 1,
+        "MAGIC" : 130
       }
     },
     "defensiveBonuses" : { },
@@ -20341,7 +20341,7 @@
     },
     "attributes" : {
       "npcId" : 3260,
-      "name" : "Warrior woman",
+      "name" : "Warrior",
       "size" : 1,
       "accuracyMagic" : 6
     }
@@ -20368,7 +20368,7 @@
   "9021" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 600,
+        "ATTACK" : 240,
         "DEFENCE" : 240,
         "STRENGTH" : 240,
         "HITPOINTS" : 600,
@@ -20699,12 +20699,12 @@
   "4682" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 18,
+        "DEFENCE" : 15,
+        "STRENGTH" : 18,
         "HITPOINTS" : 20,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -21696,7 +21696,7 @@
         "ATTACK" : 54,
         "DEFENCE" : 54,
         "STRENGTH" : 54,
-        "HITPOINTS" : 66,
+        "HITPOINTS" : 57,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -23066,12 +23066,12 @@
   "5258" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 130,
+        "DEFENCE" : 130,
+        "STRENGTH" : 130,
+        "HITPOINTS" : 130,
+        "RANGED" : 1,
+        "MAGIC" : 130
       }
     },
     "defensiveBonuses" : { },
@@ -24006,7 +24006,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 7894,
-      "name" : "Sand Snake (Lvl 154)",
+      "name" : "Sand Snake (hard)",
       "size" : 3
     }
   },
@@ -24981,26 +24981,6 @@
       "size" : 2
     }
   },
-  "1556" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 5,
-        "DEFENCE" : 10,
-        "STRENGTH" : 5,
-        "HITPOINTS" : 25,
-        "RANGED" : 0,
-        "MAGIC" : 10
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseMagic" : 15
-    },
-    "attributes" : {
-      "npcId" : 1556,
-      "name" : "Fire wizard",
-      "size" : 1
-    }
-  },
   "8846" : {
     "skills" : {
       "levels" : {
@@ -25287,6 +25267,48 @@
     "attributes" : {
       "npcId" : 3458,
       "name" : "Kamil",
+      "size" : 1
+    }
+  },
+  "11955" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 23,
+        "DEFENCE" : 26,
+        "STRENGTH" : 27,
+        "HITPOINTS" : 39,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 4,
+      "defenseSlash" : 6,
+      "defenseCrush" : 6
+    },
+    "attributes" : {
+      "npcId" : 11955,
+      "name" : "Tribeswoman",
+      "size" : 1
+    }
+  },
+  "1556" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 5,
+        "DEFENCE" : 10,
+        "STRENGTH" : 5,
+        "HITPOINTS" : 25,
+        "RANGED" : 0,
+        "MAGIC" : 10
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseMagic" : 15
+    },
+    "attributes" : {
+      "npcId" : 1556,
+      "name" : "Fire wizard",
       "size" : 1
     }
   },
@@ -29891,7 +29913,7 @@
     },
     "attributes" : {
       "npcId" : 3950,
-      "name" : "Warrior",
+      "name" : "Warrior (Lvl 48)",
       "size" : 1
     }
   },
@@ -30654,12 +30676,12 @@
   "5259" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 130,
+        "DEFENCE" : 130,
+        "STRENGTH" : 130,
+        "HITPOINTS" : 130,
+        "RANGED" : 1,
+        "MAGIC" : 130
       }
     },
     "defensiveBonuses" : { },
@@ -33276,12 +33298,12 @@
   "5260" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 130,
+        "DEFENCE" : 130,
+        "STRENGTH" : 130,
+        "HITPOINTS" : 130,
+        "RANGED" : 1,
+        "MAGIC" : 130
       }
     },
     "defensiveBonuses" : { },

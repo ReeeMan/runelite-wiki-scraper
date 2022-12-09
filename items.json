@@ -1566,6 +1566,17 @@
     "name" : "Boots of lightness (89)",
     "slot" : 10
   },
+  "27550" : {
+    "itemId" : 27550,
+    "name" : "Ghommal's avernic defender 5",
+    "accuracyStab" : 30,
+    "accuracySlash" : 29,
+    "accuracyCrush" : 28,
+    "accuracyMagic" : -5,
+    "accuracyRanged" : -4,
+    "strengthMelee" : 8,
+    "slot" : 5
+  },
   "25177" : {
     "itemId" : 25177,
     "name" : "Slayer helmet (i) (25177)",
@@ -1611,11 +1622,6 @@
     "accuracyMagic" : 3,
     "slot" : 4
   },
-  "12890" : {
-    "itemId" : 12890,
-    "name" : "Santa gloves",
-    "slot" : 9
-  },
   "4926" : {
     "itemId" : 4926,
     "name" : "Guthan's chainskirt 0",
@@ -1641,6 +1647,16 @@
     "itemId" : 11109,
     "name" : "Skills necklace(2)",
     "slot" : 2
+  },
+  "27483" : {
+    "itemId" : 27483,
+    "name" : "Terrifying charm",
+    "slot" : 13
+  },
+  "12890" : {
+    "itemId" : 12890,
+    "name" : "Santa gloves",
+    "slot" : 9
   },
   "9921" : {
     "itemId" : 9921,
@@ -5279,6 +5295,11 @@
     "name" : "Trailblazer boots (t1)",
     "slot" : 10
   },
+  "27469" : {
+    "itemId" : 27469,
+    "name" : "Treat cauldron (27469)",
+    "slot" : 5
+  },
   "1071" : {
     "itemId" : 1071,
     "name" : "Mithril platelegs",
@@ -5768,6 +5789,11 @@
     "name" : "Ring of wealth (3)",
     "slot" : 12
   },
+  "27465" : {
+    "itemId" : 27465,
+    "name" : "Treat cauldron (27465)",
+    "slot" : 5
+  },
   "23059" : {
     "itemId" : 23059,
     "name" : "Mystic boots (dusk)",
@@ -5947,6 +5973,11 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "CROSSBOW"
+  },
+  "27599" : {
+    "itemId" : 27599,
+    "name" : "Halloween wig (27599)",
+    "slot" : 0
   },
   "22842" : {
     "itemId" : 22842,
@@ -9577,6 +9608,11 @@
     "name" : "Hunter cape",
     "slot" : 1
   },
+  "27473" : {
+    "itemId" : 27473,
+    "name" : "Witch hat",
+    "slot" : 0
+  },
   "10454" : {
     "itemId" : 10454,
     "name" : "Guthix mitre",
@@ -10191,6 +10227,12 @@
     "accuracyRanged" : 4,
     "slot" : 0
   },
+  "2540" : {
+    "itemId" : 2540,
+    "name" : "Rune fire arrow",
+    "strengthRanged" : 49,
+    "slot" : 13
+  },
   "2595" : {
     "itemId" : 2595,
     "name" : "Black full helm (g)",
@@ -10198,11 +10240,10 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
-  "2540" : {
-    "itemId" : 2540,
-    "name" : "Rune fire arrow",
-    "strengthRanged" : 49,
-    "slot" : 13
+  "27479" : {
+    "itemId" : 27479,
+    "name" : "Witch boots",
+    "slot" : 10
   },
   "10320" : {
     "itemId" : 10320,
@@ -10344,6 +10385,11 @@
     "accuracyMagic" : -1,
     "accuracyRanged" : 7,
     "prayer" : 1,
+    "slot" : 0
+  },
+  "27503" : {
+    "itemId" : 27503,
+    "name" : "Halloween wig (27503)",
     "slot" : 0
   },
   "26162" : {
@@ -11568,6 +11614,11 @@
     "accuracyRanged" : -1,
     "slot" : 10
   },
+  "27477" : {
+    "itemId" : 27477,
+    "name" : "Witch robes",
+    "slot" : 7
+  },
   "3843" : {
     "itemId" : 3843,
     "name" : "Damaged book (3843)",
@@ -12132,6 +12183,11 @@
     "name" : "Rune heraldic helm (8476)",
     "accuracyMagic" : -6,
     "accuracyRanged" : -3,
+    "slot" : 0
+  },
+  "27507" : {
+    "itemId" : 27507,
+    "name" : "Halloween wig (27507)",
     "slot" : 0
   },
   "4399" : {
@@ -13346,7 +13402,7 @@
   "27402" : {
     "itemId" : 27402,
     "name" : "Adventurer's boots (t2)",
-    "slot" : 7
+    "slot" : 10
   },
   "4866" : {
     "itemId" : 4866,
@@ -13402,7 +13458,7 @@
   "27394" : {
     "itemId" : 27394,
     "name" : "Adventurer's boots (t1)",
-    "slot" : 7
+    "slot" : 10
   },
   "11122" : {
     "itemId" : 11122,
@@ -13833,13 +13889,6 @@
     "accuracyCrush" : 8,
     "slot" : 12
   },
-  "20840" : {
-    "itemId" : 20840,
-    "name" : "Corrupted platebody",
-    "accuracyMagic" : -30,
-    "accuracyRanged" : -15,
-    "slot" : 4
-  },
   "11806" : {
     "itemId" : 11806,
     "name" : "Saradomin godsword",
@@ -14074,6 +14123,17 @@
     "itemId" : 11076,
     "name" : "Emerald bracelet",
     "slot" : 9
+  },
+  "27553" : {
+    "itemId" : 27553,
+    "name" : "Ghommal's avernic defender 6 (l)",
+    "accuracyStab" : 30,
+    "accuracySlash" : 29,
+    "accuracyCrush" : 28,
+    "accuracyMagic" : -5,
+    "accuracyRanged" : -4,
+    "strengthMelee" : 8,
+    "slot" : 5
   },
   "5018" : {
     "itemId" : 5018,
@@ -14366,6 +14426,18 @@
     "itemId" : 2924,
     "name" : "Teal boots",
     "slot" : 10
+  },
+  "20840" : {
+    "itemId" : 20840,
+    "name" : "Corrupted platebody",
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -15,
+    "slot" : 4
+  },
+  "27501" : {
+    "itemId" : 27501,
+    "name" : "Halloween wig (27501)",
+    "slot" : 0
   },
   "23847" : {
     "itemId" : 23847,
@@ -19252,6 +19324,11 @@
     "slot" : 3,
     "weaponCategory" : "BANNER"
   },
+  "27463" : {
+    "itemId" : 27463,
+    "name" : "Treat cauldron",
+    "slot" : 5
+  },
   "24428" : {
     "itemId" : 24428,
     "name" : "Green gingerbread shield",
@@ -21062,6 +21139,17 @@
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
+  "27552" : {
+    "itemId" : 27552,
+    "name" : "Ghommal's avernic defender 6",
+    "accuracyStab" : 30,
+    "accuracySlash" : 29,
+    "accuracyCrush" : 28,
+    "accuracyMagic" : -5,
+    "accuracyRanged" : -4,
+    "strengthMelee" : 8,
+    "slot" : 5
+  },
   "542" : {
     "itemId" : 542,
     "name" : "Monk's robe",
@@ -21725,6 +21813,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
+  },
+  "27467" : {
+    "itemId" : 27467,
+    "name" : "Treat cauldron (27467)",
+    "slot" : 5
   },
   "4953" : {
     "itemId" : 4953,
@@ -22690,6 +22783,17 @@
     "accuracyRanged" : -15,
     "slot" : 4
   },
+  "27551" : {
+    "itemId" : 27551,
+    "name" : "Ghommal's avernic defender 5 (l)",
+    "accuracyStab" : 30,
+    "accuracySlash" : 29,
+    "accuracyCrush" : 28,
+    "accuracyMagic" : -5,
+    "accuracyRanged" : -4,
+    "strengthMelee" : 8,
+    "slot" : 5
+  },
   "6633" : {
     "itemId" : 6633,
     "name" : "White kiteshield",
@@ -23453,6 +23557,11 @@
     "name" : "Gold headband",
     "slot" : 0
   },
+  "27497" : {
+    "itemId" : 27497,
+    "name" : "Halloween wig",
+    "slot" : 0
+  },
   "25054" : {
     "itemId" : 25054,
     "name" : "Trailblazer bronze trophy",
@@ -23787,6 +23896,11 @@
     "accuracyRanged" : -2,
     "strengthMagic" : 2,
     "slot" : 0
+  },
+  "27471" : {
+    "itemId" : 27471,
+    "name" : "Treat cauldron (27471)",
+    "slot" : 5
   },
   "10452" : {
     "itemId" : 10452,
@@ -24588,6 +24702,11 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "POLESTAFF"
+  },
+  "27544" : {
+    "itemId" : 27544,
+    "name" : "Ghommal's lucky penny",
+    "slot" : 13
   },
   "7809" : {
     "itemId" : 7809,
@@ -26191,6 +26310,11 @@
     "name" : "Trousers (5040)",
     "slot" : 7
   },
+  "27505" : {
+    "itemId" : 27505,
+    "name" : "Halloween wig (27505)",
+    "slot" : 0
+  },
   "4084" : {
     "itemId" : 4084,
     "name" : "Sled",
@@ -27059,6 +27183,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BANNER"
+  },
+  "27481" : {
+    "itemId" : 27481,
+    "name" : "Witch cape",
+    "slot" : 1
   },
   "3107" : {
     "itemId" : 3107,
@@ -28194,7 +28323,7 @@
   "27410" : {
     "itemId" : 27410,
     "name" : "Adventurer's boots (t3)",
-    "slot" : 7
+    "slot" : 10
   },
   "23785" : {
     "itemId" : 23785,
@@ -29181,6 +29310,11 @@
     "speed" : 6,
     "slot" : 3,
     "weaponCategory" : "CROSSBOW"
+  },
+  "27475" : {
+    "itemId" : 27475,
+    "name" : "Witch top",
+    "slot" : 4
   },
   "6655" : {
     "itemId" : 6655,
