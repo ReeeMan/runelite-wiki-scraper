@@ -1882,6 +1882,11 @@
     "slot" : 3,
     "weaponCategory" : "SPEAR"
   },
+  "27584" : {
+    "itemId" : 27584,
+    "name" : "Sweet nutcracker hat",
+    "slot" : 0
+  },
   "3793" : {
     "itemId" : 3793,
     "name" : "Fremennik robe",
@@ -3873,6 +3878,11 @@
     "name" : "Bronze coffin",
     "slot" : 1
   },
+  "27588" : {
+    "itemId" : 27588,
+    "name" : "Festive games crown",
+    "slot" : 0
+  },
   "3840" : {
     "itemId" : 3840,
     "name" : "Holy book",
@@ -5437,6 +5447,11 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "SLASH_SWORD"
+  },
+  "27566" : {
+    "itemId" : 27566,
+    "name" : "Christmas jumper",
+    "slot" : 4
   },
   "21268" : {
     "itemId" : 21268,
@@ -7445,6 +7460,17 @@
     "is2h" : true,
     "weaponCategory" : "SPEAR"
   },
+  "27580" : {
+    "itemId" : 27580,
+    "name" : "Festive nutcracker staff",
+    "accuracyStab" : -50,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -100,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SPIKED"
+  },
   "1089" : {
     "itemId" : 1089,
     "name" : "Black plateskirt",
@@ -7899,6 +7925,11 @@
     "itemId" : 25840,
     "name" : "Banana hat",
     "slot" : 0
+  },
+  "27574" : {
+    "itemId" : 27574,
+    "name" : "Festive nutcracker trousers",
+    "slot" : 7
   },
   "26984" : {
     "itemId" : 26984,
@@ -10245,11 +10276,6 @@
     "name" : "Witch boots",
     "slot" : 10
   },
-  "10320" : {
-    "itemId" : 10320,
-    "name" : "Bob's green shirt",
-    "slot" : 4
-  },
   "6265" : {
     "itemId" : 6265,
     "name" : "Broodoo shield (7) (6265)",
@@ -10302,6 +10328,16 @@
     "accuracyRanged" : 2,
     "slot" : 4
   },
+  "10320" : {
+    "itemId" : 10320,
+    "name" : "Bob's green shirt",
+    "slot" : 4
+  },
+  "27585" : {
+    "itemId" : 27585,
+    "name" : "Sweet nutcracker boots",
+    "slot" : 10
+  },
   "23646" : {
     "itemId" : 23646,
     "name" : "Bandos tassets (23646)",
@@ -10321,6 +10357,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "SPEAR"
+  },
+  "27568" : {
+    "itemId" : 27568,
+    "name" : "Snow goggles & hat",
+    "slot" : 0
   },
   "3057" : {
     "itemId" : 3057,
@@ -13731,6 +13772,11 @@
     "slot" : 3,
     "weaponCategory" : "CHINCHOMPAS"
   },
+  "27570" : {
+    "itemId" : 27570,
+    "name" : "Sack of coal (27570)",
+    "slot" : 1
+  },
   "8874" : {
     "itemId" : 8874,
     "name" : "Bone dagger (p)",
@@ -15146,6 +15192,11 @@
     "prayer" : 5,
     "slot" : 5
   },
+  "27558" : {
+    "itemId" : 27558,
+    "name" : "Sack of coal",
+    "slot" : 1
+  },
   "1731" : {
     "itemId" : 1731,
     "name" : "Amulet of power",
@@ -15663,6 +15714,11 @@
     "itemId" : 1009,
     "name" : "Brass necklace",
     "slot" : 2
+  },
+  "27564" : {
+    "itemId" : 27564,
+    "name" : "Santa's list",
+    "slot" : 1
   },
   "12357" : {
     "itemId" : 12357,
@@ -17421,6 +17477,11 @@
     "name" : "Black mask (i) (25276)",
     "slot" : 0
   },
+  "27578" : {
+    "itemId" : 27578,
+    "name" : "Festive nutcracker boots",
+    "slot" : 10
+  },
   "22109" : {
     "itemId" : 22109,
     "name" : "Ava's assembler",
@@ -17939,6 +18000,17 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "CLAW"
+  },
+  "27586" : {
+    "itemId" : 27586,
+    "name" : "Sweet nutcracker staff",
+    "accuracyStab" : -50,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -100,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SPIKED"
   },
   "24409" : {
     "itemId" : 24409,
@@ -19766,6 +19838,11 @@
     "speed" : 3,
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
+  },
+  "27582" : {
+    "itemId" : 27582,
+    "name" : "Sweet nutcracker top",
+    "slot" : 4
   },
   "13582" : {
     "itemId" : 13582,
@@ -26026,6 +26103,11 @@
     "accuracyRanged" : -3,
     "slot" : 5
   },
+  "27583" : {
+    "itemId" : 27583,
+    "name" : "Sweet nutcracker trousers",
+    "slot" : 7
+  },
   "23267" : {
     "itemId" : 23267,
     "name" : "Gilded d'hide chaps",
@@ -28003,6 +28085,11 @@
     "slot" : 3,
     "weaponCategory" : "SLASH_SWORD"
   },
+  "27576" : {
+    "itemId" : 27576,
+    "name" : "Festive nutcracker hat",
+    "slot" : 0
+  },
   "10172" : {
     "itemId" : 10172,
     "name" : "Fake beak",
@@ -29738,6 +29825,11 @@
     "itemId" : 26507,
     "name" : "Shattered relics steel trophy",
     "slot" : 5
+  },
+  "27572" : {
+    "itemId" : 27572,
+    "name" : "Festive nutcracker top",
+    "slot" : 4
   },
   "5575" : {
     "itemId" : 5575,
