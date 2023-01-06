@@ -8463,7 +8463,7 @@
         "STRENGTH" : 38,
         "HITPOINTS" : 37,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -10135,7 +10135,7 @@
         "STRENGTH" : 26,
         "HITPOINTS" : 28,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -11840,7 +11840,7 @@
         "STRENGTH" : 48,
         "HITPOINTS" : 49,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -17375,7 +17375,7 @@
         "STRENGTH" : 43,
         "HITPOINTS" : 38,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -18076,7 +18076,7 @@
         "STRENGTH" : 29,
         "HITPOINTS" : 29,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -22575,7 +22575,7 @@
         "STRENGTH" : 73,
         "HITPOINTS" : 56,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -23559,7 +23559,7 @@
         "STRENGTH" : 61,
         "HITPOINTS" : 55,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -31127,7 +31127,7 @@
         "STRENGTH" : 55,
         "HITPOINTS" : 50,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -33058,7 +33058,7 @@
         "STRENGTH" : 32,
         "HITPOINTS" : 32,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
