@@ -153,6 +153,29 @@
       "size" : 1
     }
   },
+  "12046" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 160,
+        "DEFENCE" : 120,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 160,
+        "RANGED" : 0,
+        "MAGIC" : 80
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 70,
+      "defenseSlash" : 60,
+      "defenseCrush" : 40,
+      "defenseRanged" : 40
+    },
+    "attributes" : {
+      "npcId" : 12046,
+      "name" : "Evelot",
+      "size" : 1
+    }
+  },
   "8637" : {
     "skills" : {
       "levels" : {
@@ -3291,6 +3314,7 @@
     "attributes" : {
       "npcId" : 10525,
       "name" : "Forgotten Soul",
+      "isUndead" : true,
       "size" : 1
     }
   },
@@ -8098,6 +8122,25 @@
       "size" : 1
     }
   },
+  "12079" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 280,
+        "DEFENCE" : 200,
+        "STRENGTH" : 280,
+        "HITPOINTS" : 75,
+        "RANGED" : 336,
+        "MAGIC" : 180
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12079,
+      "name" : "Phantom Muspah",
+      "size" : 6,
+      "accuracyMagic" : 280
+    }
+  },
   "2500" : {
     "skills" : {
       "levels" : {
@@ -8463,7 +8506,7 @@
         "STRENGTH" : 38,
         "HITPOINTS" : 37,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -8768,6 +8811,25 @@
       "npcId" : 4381,
       "name" : "Enclave guard",
       "size" : 2
+    }
+  },
+  "12077" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 280,
+        "DEFENCE" : 200,
+        "STRENGTH" : 280,
+        "HITPOINTS" : 850,
+        "RANGED" : 280,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12077,
+      "name" : "Phantom Muspah (Lvl 741)",
+      "size" : 6,
+      "accuracyMagic" : 280
     }
   },
   "4109" : {
@@ -10135,7 +10197,7 @@
         "STRENGTH" : 26,
         "HITPOINTS" : 28,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -11840,7 +11902,7 @@
         "STRENGTH" : 48,
         "HITPOINTS" : 49,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -14905,6 +14967,25 @@
       "size" : 3
     }
   },
+  "12073" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 280,
+        "DEFENCE" : 200,
+        "STRENGTH" : 280,
+        "HITPOINTS" : 550,
+        "RANGED" : 280,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12073,
+      "name" : "Strange Creature",
+      "size" : 1,
+      "accuracyMagic" : 90
+    }
+  },
   "8713" : {
     "skills" : {
       "levels" : {
@@ -17375,7 +17456,7 @@
         "STRENGTH" : 43,
         "HITPOINTS" : 38,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -18076,7 +18157,7 @@
         "STRENGTH" : 29,
         "HITPOINTS" : 29,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -22575,7 +22656,7 @@
         "STRENGTH" : 73,
         "HITPOINTS" : 56,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -23559,7 +23640,7 @@
         "STRENGTH" : 61,
         "HITPOINTS" : 55,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -31127,7 +31208,7 @@
         "STRENGTH" : 55,
         "HITPOINTS" : 50,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -32542,6 +32623,30 @@
       "size" : 2
     }
   },
+  "4568" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 140,
+        "DEFENCE" : 140,
+        "STRENGTH" : 140,
+        "HITPOINTS" : 400,
+        "RANGED" : 140,
+        "MAGIC" : 140
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 60,
+      "defenseSlash" : 30,
+      "defenseCrush" : 80,
+      "defenseRanged" : 50,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 4568,
+      "name" : "Assassin (Lvl 262)",
+      "size" : 1
+    }
+  },
   "2524" : {
     "skills" : {
       "levels" : {
@@ -32662,6 +32767,7 @@
     "attributes" : {
       "npcId" : 10523,
       "name" : "Forgotten Soul (Lvl 46)",
+      "isUndead" : true,
       "size" : 1
     }
   },
@@ -33058,7 +33164,7 @@
         "STRENGTH" : 32,
         "HITPOINTS" : 32,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
