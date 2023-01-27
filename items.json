@@ -918,18 +918,6 @@
     "strengthRanged" : 122,
     "slot" : 13
   },
-  "25487" : {
-    "itemId" : 25487,
-    "name" : "Ursine chainmace",
-    "accuracyStab" : 53,
-    "accuracySlash" : -2,
-    "accuracyCrush" : 71,
-    "strengthMelee" : 74,
-    "prayer" : 2,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "SPIKED"
-  },
   "22177" : {
     "itemId" : 22177,
     "name" : "Adamant heraldic helm (22177)",
@@ -1388,13 +1376,17 @@
     "name" : "Twisted hat (t1)",
     "slot" : 0
   },
-  "25488" : {
-    "itemId" : 25488,
-    "name" : "Accursed sceptre (u)",
-    "accuracyMagic" : 22,
-    "speed" : 4,
+  "27645" : {
+    "itemId" : 27645,
+    "name" : "Mystic cards",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -20,
+    "speed" : 3,
     "slot" : 3,
-    "weaponCategory" : "POWERED_STAFF"
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
   },
   "3771" : {
     "itemId" : 3771,
@@ -5189,10 +5181,10 @@
   "22552" : {
     "itemId" : 22552,
     "name" : "Thammaron's sceptre (u)",
-    "accuracyMagic" : 20,
+    "accuracyMagic" : 15,
     "speed" : 4,
     "slot" : 3,
-    "weaponCategory" : "STAFF"
+    "weaponCategory" : "POWERED_STAFF"
   },
   "20041" : {
     "itemId" : 20041,
@@ -6945,6 +6937,14 @@
     "name" : "Skeleton mask",
     "slot" : 0
   },
+  "27662" : {
+    "itemId" : 27662,
+    "name" : "Accursed sceptre (u)",
+    "accuracyMagic" : 22,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "POWERED_STAFF"
+  },
   "10880" : {
     "itemId" : 10880,
     "name" : "Black satchel",
@@ -7437,6 +7437,13 @@
     "prayer" : 2,
     "slot" : 1
   },
+  "19639" : {
+    "itemId" : 19639,
+    "name" : "Black slayer helmet",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -2,
+    "slot" : 0
+  },
   "11873" : {
     "itemId" : 11873,
     "name" : "Slayer ring (1)",
@@ -7482,21 +7489,6 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
-  },
-  "19639" : {
-    "itemId" : 19639,
-    "name" : "Black slayer helmet",
-    "accuracyMagic" : -6,
-    "accuracyRanged" : -2,
-    "slot" : 0
-  },
-  "25489" : {
-    "itemId" : 25489,
-    "name" : "Accursed sceptre",
-    "accuracyMagic" : 22,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "POWERED_STAFF"
   },
   "21136" : {
     "itemId" : 21136,
@@ -8064,18 +8056,6 @@
     "itemId" : 13619,
     "name" : "Graceful top (13619)",
     "slot" : 4
-  },
-  "25486" : {
-    "itemId" : 25486,
-    "name" : "Ursine chainmace (u)",
-    "accuracyStab" : 53,
-    "accuracySlash" : -2,
-    "accuracyCrush" : 71,
-    "strengthMelee" : 74,
-    "prayer" : 2,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "SPIKED"
   },
   "12774" : {
     "itemId" : 12774,
@@ -9032,6 +9012,18 @@
     "name" : "Team-47 cape",
     "slot" : 1
   },
+  "27657" : {
+    "itemId" : 27657,
+    "name" : "Ursine chainmace (u)",
+    "accuracyStab" : 53,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 71,
+    "strengthMelee" : 74,
+    "prayer" : 2,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SPIKED"
+  },
   "5728" : {
     "itemId" : 5728,
     "name" : "Rune spear(p++)",
@@ -9143,6 +9135,14 @@
     "speed" : 3,
     "slot" : 3,
     "weaponCategory" : "THROWN"
+  },
+  "27679" : {
+    "itemId" : 27679,
+    "name" : "Accursed sceptre (a)",
+    "accuracyMagic" : 22,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
   },
   "6219" : {
     "itemId" : 6219,
@@ -11267,18 +11267,6 @@
     "accuracyRanged" : 1,
     "slot" : 0
   },
-  "25490" : {
-    "itemId" : 25490,
-    "name" : "Voidwaker",
-    "accuracyStab" : 70,
-    "accuracySlash" : 80,
-    "accuracyCrush" : -2,
-    "accuracyMagic" : 5,
-    "strengthMelee" : 80,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "SLASH_SWORD"
-  },
   "9783" : {
     "itemId" : 9783,
     "name" : "Fletching cape",
@@ -12580,10 +12568,10 @@
   "22555" : {
     "itemId" : 22555,
     "name" : "Thammaron's sceptre",
-    "accuracyMagic" : 20,
+    "accuracyMagic" : 15,
     "speed" : 4,
     "slot" : 3,
-    "weaponCategory" : "STAFF"
+    "weaponCategory" : "POWERED_STAFF"
   },
   "4871" : {
     "itemId" : 4871,
@@ -14004,6 +13992,14 @@
     "is2h" : true,
     "weaponCategory" : "BLUNT"
   },
+  "27665" : {
+    "itemId" : 27665,
+    "name" : "Accursed sceptre",
+    "accuracyMagic" : 22,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "POWERED_STAFF"
+  },
   "10402" : {
     "itemId" : 10402,
     "name" : "Black elegant legs",
@@ -14714,6 +14710,14 @@
     "itemId" : 13587,
     "name" : "Graceful gloves (13587)",
     "slot" : 9
+  },
+  "27676" : {
+    "itemId" : 27676,
+    "name" : "Accursed sceptre (au)",
+    "accuracyMagic" : 22,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
   },
   "2466" : {
     "itemId" : 2466,
@@ -17135,16 +17139,6 @@
     "accuracyRanged" : -3,
     "slot" : 5
   },
-  "25485" : {
-    "itemId" : 25485,
-    "name" : "Webweaver bow",
-    "accuracyRanged" : 85,
-    "strengthRanged" : 65,
-    "speed" : 4,
-    "slot" : 3,
-    "is2h" : true,
-    "weaponCategory" : "BOW"
-  },
   "25208" : {
     "itemId" : 25208,
     "name" : "Blue cape (25208)",
@@ -19415,14 +19409,6 @@
     "itemId" : 12443,
     "name" : "Musketeer pants",
     "slot" : 7
-  },
-  "25492" : {
-    "itemId" : 25492,
-    "name" : "Accursed sceptre (a)",
-    "accuracyMagic" : 22,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "STAFF"
   },
   "10589" : {
     "itemId" : 10589,
@@ -23271,6 +23257,16 @@
     "is2h" : true,
     "weaponCategory" : "CROSSBOW"
   },
+  "27655" : {
+    "itemId" : 27655,
+    "name" : "Webweaver bow",
+    "accuracyRanged" : 85,
+    "strengthRanged" : 65,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
+  },
   "4405" : {
     "itemId" : 4405,
     "name" : "Team-46 cape",
@@ -26252,16 +26248,6 @@
     "accuracyRanged" : -10,
     "slot" : 4
   },
-  "25484" : {
-    "itemId" : 25484,
-    "name" : "Webweaver bow (u)",
-    "accuracyRanged" : 85,
-    "strengthRanged" : 65,
-    "speed" : 4,
-    "slot" : 3,
-    "is2h" : true,
-    "weaponCategory" : "BOW"
-  },
   "5621" : {
     "itemId" : 5621,
     "name" : "Rune arrow(p+)",
@@ -26988,6 +26974,18 @@
     "name" : "Snow imp costume body",
     "slot" : 4
   },
+  "27660" : {
+    "itemId" : 27660,
+    "name" : "Ursine chainmace",
+    "accuracyStab" : 53,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 71,
+    "strengthMelee" : 74,
+    "prayer" : 2,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SPIKED"
+  },
   "21853" : {
     "itemId" : 21853,
     "name" : "Snow imp costume tail",
@@ -27024,6 +27022,11 @@
     "name" : "Castlewars hood",
     "slot" : 0
   },
+  "21070" : {
+    "itemId" : 21070,
+    "name" : "Graceful legs (21070)",
+    "slot" : 7
+  },
   "1061" : {
     "itemId" : 1061,
     "name" : "Leather boots",
@@ -27039,19 +27042,6 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BLUNT"
-  },
-  "21070" : {
-    "itemId" : 21070,
-    "name" : "Graceful legs (21070)",
-    "slot" : 7
-  },
-  "25491" : {
-    "itemId" : 25491,
-    "name" : "Accursed sceptre (au)",
-    "accuracyMagic" : 22,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "STAFF"
   },
   "654" : {
     "itemId" : 654,
@@ -29570,6 +29560,16 @@
     "strengthRanged" : 42,
     "prayer" : 1,
     "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
+  },
+  "27652" : {
+    "itemId" : 27652,
+    "name" : "Webweaver bow (u)",
+    "accuracyRanged" : 85,
+    "strengthRanged" : 65,
+    "speed" : 4,
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BOW"
