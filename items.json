@@ -6789,6 +6789,18 @@
     "prayer" : 1,
     "slot" : 5
   },
+  "27690" : {
+    "itemId" : 27690,
+    "name" : "Voidwaker",
+    "accuracyStab" : 70,
+    "accuracySlash" : 80,
+    "accuracyCrush" : -2,
+    "accuracyMagic" : 5,
+    "strengthMelee" : 80,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SLASH_SWORD"
+  },
   "4726" : {
     "itemId" : 4726,
     "name" : "Guthan's warspear",
