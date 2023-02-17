@@ -12300,7 +12300,7 @@
     "attributes" : {
       "npcId" : 11992,
       "name" : "Artio",
-      "size" : 1
+      "size" : 3
     }
   },
   "2044" : {
@@ -12330,7 +12330,7 @@
         "ATTACK" : 228,
         "DEFENCE" : 180,
         "STRENGTH" : 295,
-        "HITPOINTS" : 190,
+        "HITPOINTS" : 30,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -12539,6 +12539,30 @@
       "size" : 2
     }
   },
+  "3682" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 3,
+        "DEFENCE" : 3,
+        "STRENGTH" : 3,
+        "HITPOINTS" : 1,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : -12,
+      "defenseSlash" : -12,
+      "defenseCrush" : -12,
+      "defenseRanged" : -12,
+      "defenseMagic" : -12
+    },
+    "attributes" : {
+      "npcId" : 3682,
+      "name" : "Thora",
+      "size" : 1
+    }
+  },
   "3020" : {
     "skills" : {
       "levels" : {
@@ -12583,52 +12607,6 @@
     "attributes" : {
       "npcId" : 11290,
       "name" : "Spiritual Warrior",
-      "size" : 1
-    }
-  },
-  "1209" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 20,
-        "DEFENCE" : 20,
-        "STRENGTH" : 18,
-        "HITPOINTS" : 25,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 35,
-      "defenseSlash" : 29,
-      "defenseCrush" : 21
-    },
-    "attributes" : {
-      "npcId" : 1209,
-      "name" : "Khazard Guard (Lvl 23)",
-      "size" : 1
-    }
-  },
-  "3682" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 3,
-        "DEFENCE" : 3,
-        "STRENGTH" : 3,
-        "HITPOINTS" : 1,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : -12,
-      "defenseSlash" : -12,
-      "defenseCrush" : -12,
-      "defenseRanged" : -12,
-      "defenseMagic" : -12
-    },
-    "attributes" : {
-      "npcId" : 3682,
-      "name" : "Thora",
       "size" : 1
     }
   },
@@ -15683,7 +15661,7 @@
         "ATTACK" : 210,
         "DEFENCE" : 150,
         "STRENGTH" : 250,
-        "HITPOINTS" : 110,
+        "HITPOINTS" : 30,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -26296,7 +26274,7 @@
     "attributes" : {
       "npcId" : 11994,
       "name" : "Calvar'ion",
-      "size" : 1
+      "size" : 3
     }
   },
   "2173" : {
@@ -32301,7 +32279,7 @@
     "attributes" : {
       "npcId" : 11998,
       "name" : "Spindel",
-      "size" : 1
+      "size" : 4
     }
   },
   "4163" : {

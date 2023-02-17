@@ -2160,6 +2160,11 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
+  "27715" : {
+    "itemId" : 27715,
+    "name" : "Crystal legs (inactive) (27715)",
+    "slot" : 7
+  },
   "9139" : {
     "itemId" : 9139,
     "name" : "Blurite bolts",
@@ -2528,6 +2533,11 @@
     "name" : "Karil's leatherskirt 0",
     "slot" : 7
   },
+  "27779" : {
+    "itemId" : 27779,
+    "name" : "Crystal helm (inactive) (27779)",
+    "slot" : 0
+  },
   "1249" : {
     "itemId" : 1249,
     "name" : "Dragon spear",
@@ -2601,11 +2611,6 @@
     "prayer" : 1,
     "slot" : 5
   },
-  "9761" : {
-    "itemId" : 9761,
-    "name" : "Prayer hood",
-    "slot" : 0
-  },
   "5663" : {
     "itemId" : 5663,
     "name" : "Steel knife(p++)",
@@ -2614,6 +2619,19 @@
     "speed" : 3,
     "slot" : 3,
     "weaponCategory" : "THROWN"
+  },
+  "9761" : {
+    "itemId" : 9761,
+    "name" : "Prayer hood",
+    "slot" : 0
+  },
+  "27721" : {
+    "itemId" : 27721,
+    "name" : "Crystal body (27721)",
+    "accuracyMagic" : -18,
+    "accuracyRanged" : 31,
+    "prayer" : 3,
+    "slot" : 4
   },
   "21033" : {
     "itemId" : 21033,
@@ -3058,6 +3076,11 @@
     "prayer" : 1,
     "slot" : 1
   },
+  "27743" : {
+    "itemId" : 27743,
+    "name" : "Crystal helm (inactive) (27743)",
+    "slot" : 0
+  },
   "8997" : {
     "itemId" : 8997,
     "name" : "Grey navy slacks",
@@ -3229,6 +3252,11 @@
     "name" : "White chainbody",
     "accuracyMagic" : -15,
     "prayer" : 1,
+    "slot" : 4
+  },
+  "27699" : {
+    "itemId" : 27699,
+    "name" : "Crystal body (inactive) (27699)",
     "slot" : 4
   },
   "26763" : {
@@ -4400,6 +4428,22 @@
     "prayer" : 1,
     "slot" : 7
   },
+  "27753" : {
+    "itemId" : 27753,
+    "name" : "Crystal helm (27753)",
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 9,
+    "prayer" : 2,
+    "slot" : 0
+  },
+  "27725" : {
+    "itemId" : 27725,
+    "name" : "Crystal legs (27725)",
+    "accuracyMagic" : -12,
+    "accuracyRanged" : 18,
+    "prayer" : 2,
+    "slot" : 7
+  },
   "26488" : {
     "itemId" : 26488,
     "name" : "Book of balance (or)",
@@ -4737,6 +4781,11 @@
     "accuracyRanged" : -15,
     "slot" : 4
   },
+  "27735" : {
+    "itemId" : 27735,
+    "name" : "Crystal body (inactive) (27735)",
+    "slot" : 4
+  },
   "2981" : {
     "itemId" : 2981,
     "name" : "Chompy bird hat (2981)",
@@ -4767,11 +4816,6 @@
     "itemId" : 23859,
     "name" : "Gauntlet cape",
     "slot" : 1
-  },
-  "11782" : {
-    "itemId" : 11782,
-    "name" : "Black mask (2) (i)",
-    "slot" : 0
   },
   "21784" : {
     "itemId" : 21784,
@@ -4806,6 +4850,19 @@
     "name" : "Seers ring (i)",
     "accuracyMagic" : 12,
     "slot" : 12
+  },
+  "11782" : {
+    "itemId" : 11782,
+    "name" : "Black mask (2) (i)",
+    "slot" : 0
+  },
+  "27757" : {
+    "itemId" : 27757,
+    "name" : "Crystal body (27757)",
+    "accuracyMagic" : -18,
+    "accuracyRanged" : 31,
+    "prayer" : 3,
+    "slot" : 4
   },
   "10412" : {
     "itemId" : 10412,
@@ -5067,6 +5124,11 @@
     "itemId" : 8993,
     "name" : "Red navy slacks",
     "slot" : 7
+  },
+  "27711" : {
+    "itemId" : 27711,
+    "name" : "Crystal body (inactive) (27711)",
+    "slot" : 4
   },
   "3759" : {
     "itemId" : 3759,
@@ -5444,6 +5506,11 @@
     "itemId" : 27566,
     "name" : "Christmas jumper",
     "slot" : 4
+  },
+  "27763" : {
+    "itemId" : 27763,
+    "name" : "Crystal legs (inactive) (27763)",
+    "slot" : 7
   },
   "21268" : {
     "itemId" : 21268,
@@ -5897,6 +5964,14 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "POLESTAFF"
+  },
+  "27785" : {
+    "itemId" : 27785,
+    "name" : "Thammaron's sceptre (au)",
+    "accuracyMagic" : 15,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
   },
   "24867" : {
     "itemId" : 24867,
@@ -6432,6 +6507,11 @@
     "accuracyRanged" : -2,
     "slot" : 0
   },
+  "27731" : {
+    "itemId" : 27731,
+    "name" : "Crystal helm (inactive) (27731)",
+    "slot" : 0
+  },
   "27145" : {
     "itemId" : 27145,
     "name" : "Flower crown (27145)",
@@ -6512,6 +6592,11 @@
     "accuracyRanged" : 14,
     "prayer" : 4,
     "slot" : 7
+  },
+  "27771" : {
+    "itemId" : 27771,
+    "name" : "Crystal body (inactive) (27771)",
+    "slot" : 4
   },
   "7807" : {
     "itemId" : 7807,
@@ -6788,6 +6873,18 @@
     "accuracyMagic" : -6,
     "prayer" : 1,
     "slot" : 5
+  },
+  "27690" : {
+    "itemId" : 27690,
+    "name" : "Voidwaker",
+    "accuracyStab" : 70,
+    "accuracySlash" : 80,
+    "accuracyCrush" : -2,
+    "accuracyMagic" : 5,
+    "strengthMelee" : 80,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SLASH_SWORD"
   },
   "4726" : {
     "itemId" : 4726,
@@ -7259,6 +7356,14 @@
   "19915" : {
     "itemId" : 19915,
     "name" : "Cyclops head",
+    "slot" : 0
+  },
+  "27705" : {
+    "itemId" : 27705,
+    "name" : "Crystal helm (27705)",
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 9,
+    "prayer" : 2,
     "slot" : 0
   },
   "9747" : {
@@ -8308,13 +8413,6 @@
     "accuracyRanged" : -15,
     "slot" : 4
   },
-  "2629" : {
-    "itemId" : 2629,
-    "name" : "Rune kiteshield (t)",
-    "accuracyMagic" : -8,
-    "accuracyRanged" : -2,
-    "slot" : 5
-  },
   "11090" : {
     "itemId" : 11090,
     "name" : "Phoenix necklace",
@@ -8553,7 +8651,7 @@
   "1395" : {
     "itemId" : 1395,
     "name" : "Water battlestaff",
-    "accuracyStab" : 10,
+    "accuracyStab" : 7,
     "accuracySlash" : -1,
     "accuracyCrush" : 28,
     "accuracyMagic" : 12,
@@ -8680,7 +8778,7 @@
   },
   "12796" : {
     "itemId" : 12796,
-    "name" : "Mystic steam staff (12796)",
+    "name" : "Mystic steam staff",
     "accuracyStab" : 7,
     "accuracySlash" : -1,
     "accuracyCrush" : 40,
@@ -8723,6 +8821,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BLADED_STAFF"
+  },
+  "27747" : {
+    "itemId" : 27747,
+    "name" : "Crystal body (inactive) (27747)",
+    "slot" : 4
   },
   "10065" : {
     "itemId" : 10065,
@@ -9140,7 +9243,7 @@
     "itemId" : 27679,
     "name" : "Accursed sceptre (a)",
     "accuracyMagic" : 22,
-    "speed" : 4,
+    "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
@@ -9325,12 +9428,35 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
+  "2629" : {
+    "itemId" : 2629,
+    "name" : "Rune kiteshield (t)",
+    "accuracyMagic" : -8,
+    "accuracyRanged" : -2,
+    "slot" : 5
+  },
+  "27749" : {
+    "itemId" : 27749,
+    "name" : "Crystal legs (27749)",
+    "accuracyMagic" : -12,
+    "accuracyRanged" : 18,
+    "prayer" : 2,
+    "slot" : 7
+  },
   "11895" : {
     "itemId" : 11895,
     "name" : "Decorative armour (11895)",
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "27709" : {
+    "itemId" : 27709,
+    "name" : "Crystal body (27709)",
+    "accuracyMagic" : -18,
+    "accuracyRanged" : 31,
+    "prayer" : 3,
+    "slot" : 4
   },
   "21936" : {
     "itemId" : 21936,
@@ -9590,6 +9716,11 @@
     "strengthRanged" : 2,
     "slot" : 1
   },
+  "27755" : {
+    "itemId" : 27755,
+    "name" : "Crystal helm (inactive) (27755)",
+    "slot" : 0
+  },
   "1279" : {
     "itemId" : 1279,
     "name" : "Iron sword",
@@ -9660,6 +9791,14 @@
     "accuracyMagic" : 4,
     "prayer" : 5,
     "slot" : 0
+  },
+  "27733" : {
+    "itemId" : 27733,
+    "name" : "Crystal body (27733)",
+    "accuracyMagic" : -18,
+    "accuracyRanged" : 31,
+    "prayer" : 3,
+    "slot" : 4
   },
   "26680" : {
     "itemId" : 26680,
@@ -9754,6 +9893,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "SPEAR"
+  },
+  "27727" : {
+    "itemId" : 27727,
+    "name" : "Crystal legs (inactive) (27727)",
+    "slot" : 7
   },
   "11020" : {
     "itemId" : 11020,
@@ -10005,6 +10149,14 @@
     "accuracyMagic" : 2,
     "prayer" : 10,
     "slot" : 2
+  },
+  "27697" : {
+    "itemId" : 27697,
+    "name" : "Crystal body (27697)",
+    "accuracyMagic" : -18,
+    "accuracyRanged" : 31,
+    "prayer" : 3,
+    "slot" : 4
   },
   "23899" : {
     "itemId" : 23899,
@@ -10455,18 +10607,6 @@
     "name" : "Zenyte amulet",
     "slot" : 2
   },
-  "1209" : {
-    "itemId" : 1209,
-    "name" : "Mithril dagger",
-    "accuracyStab" : 11,
-    "accuracySlash" : 5,
-    "accuracyCrush" : -4,
-    "accuracyMagic" : 1,
-    "strengthMelee" : 10,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "STAB_SWORD"
-  },
   "13107" : {
     "itemId" : 13107,
     "name" : "Varrock armour 4",
@@ -10479,6 +10619,26 @@
     "name" : "Berserker ring (i) (26770)",
     "strengthMelee" : 8,
     "slot" : 12
+  },
+  "1209" : {
+    "itemId" : 1209,
+    "name" : "Mithril dagger",
+    "accuracyStab" : 11,
+    "accuracySlash" : 5,
+    "accuracyCrush" : -4,
+    "accuracyMagic" : 1,
+    "strengthMelee" : 10,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
+  },
+  "27765" : {
+    "itemId" : 27765,
+    "name" : "Crystal helm (27765)",
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 9,
+    "prayer" : 2,
+    "slot" : 0
   },
   "24678" : {
     "itemId" : 24678,
@@ -10687,6 +10847,11 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BOW"
+  },
+  "27703" : {
+    "itemId" : 27703,
+    "name" : "Crystal legs (inactive) (27703)",
+    "slot" : 7
   },
   "13634" : {
     "itemId" : 13634,
@@ -11476,11 +11641,6 @@
     "name" : "Graceful hood (13627)",
     "slot" : 0
   },
-  "10837" : {
-    "itemId" : 10837,
-    "name" : "Silly jester top",
-    "slot" : 4
-  },
   "26696" : {
     "itemId" : 26696,
     "name" : "Wristbands of the arena (broken)",
@@ -11502,6 +11662,19 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
+  },
+  "10837" : {
+    "itemId" : 10837,
+    "name" : "Silly jester top",
+    "slot" : 4
+  },
+  "27737" : {
+    "itemId" : 27737,
+    "name" : "Crystal legs (27737)",
+    "accuracyMagic" : -12,
+    "accuracyRanged" : 18,
+    "prayer" : 2,
+    "slot" : 7
   },
   "19722" : {
     "itemId" : 19722,
@@ -11979,6 +12152,14 @@
     "name" : "Xeric's guard",
     "slot" : 1
   },
+  "27741" : {
+    "itemId" : 27741,
+    "name" : "Crystal helm (27741)",
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 9,
+    "prayer" : 2,
+    "slot" : 0
+  },
   "1125" : {
     "itemId" : 1125,
     "name" : "Black platebody",
@@ -12327,17 +12508,25 @@
     "prayer" : 5,
     "slot" : 5
   },
-  "4339" : {
-    "itemId" : 4339,
-    "name" : "Team-13 cape",
-    "slot" : 1
-  },
   "22187" : {
     "itemId" : 22187,
     "name" : "Adamant heraldic helm (22187)",
     "accuracyMagic" : -6,
     "accuracyRanged" : -3,
     "slot" : 0
+  },
+  "4339" : {
+    "itemId" : 4339,
+    "name" : "Team-13 cape",
+    "slot" : 1
+  },
+  "27769" : {
+    "itemId" : 27769,
+    "name" : "Crystal body (27769)",
+    "accuracyMagic" : -18,
+    "accuracyRanged" : 31,
+    "prayer" : 3,
+    "slot" : 4
   },
   "13377" : {
     "itemId" : 13377,
@@ -14715,7 +14904,7 @@
     "itemId" : 27676,
     "name" : "Accursed sceptre (au)",
     "accuracyMagic" : 22,
-    "speed" : 4,
+    "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
@@ -14783,6 +14972,11 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "POLEARM"
+  },
+  "27719" : {
+    "itemId" : 27719,
+    "name" : "Crystal helm (inactive) (27719)",
+    "slot" : 0
   },
   "10073" : {
     "itemId" : 10073,
@@ -15024,15 +15218,6 @@
     "name" : "Prospector legs",
     "slot" : 7
   },
-  "11706" : {
-    "itemId" : 11706,
-    "name" : "Beach boxing gloves (11706)",
-    "accuracyCrush" : 1,
-    "speed" : 4,
-    "slot" : 3,
-    "is2h" : true,
-    "weaponCategory" : "CLAW"
-  },
   "1269" : {
     "itemId" : 1269,
     "name" : "Steel pickaxe",
@@ -15068,6 +15253,23 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BANNER"
+  },
+  "11706" : {
+    "itemId" : 11706,
+    "name" : "Beach boxing gloves (11706)",
+    "accuracyCrush" : 1,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "CLAW"
+  },
+  "27788" : {
+    "itemId" : 27788,
+    "name" : "Thammaron's sceptre (a)",
+    "accuracyMagic" : 15,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
   },
   "1365" : {
     "itemId" : 1365,
@@ -15659,6 +15861,11 @@
     "name" : "Digsite pendant (4)",
     "slot" : 2
   },
+  "27739" : {
+    "itemId" : 27739,
+    "name" : "Crystal legs (inactive) (27739)",
+    "slot" : 7
+  },
   "12369" : {
     "itemId" : 12369,
     "name" : "Mithril dragon mask",
@@ -16049,6 +16256,14 @@
     "itemId" : 3795,
     "name" : "Fremennik skirt",
     "slot" : 7
+  },
+  "27717" : {
+    "itemId" : 27717,
+    "name" : "Crystal helm (27717)",
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 9,
+    "prayer" : 2,
+    "slot" : 0
   },
   "11892" : {
     "itemId" : 11892,
@@ -16740,6 +16955,11 @@
     "is2h" : true,
     "weaponCategory" : "BLUNT"
   },
+  "27759" : {
+    "itemId" : 27759,
+    "name" : "Crystal body (inactive) (27759)",
+    "slot" : 4
+  },
   "8958" : {
     "itemId" : 8958,
     "name" : "Grey naval shirt",
@@ -16926,11 +17146,6 @@
     "speed" : 3,
     "slot" : 3,
     "weaponCategory" : "THROWN"
-  },
-  "27456" : {
-    "itemId" : 27456,
-    "name" : "Graceful gloves (27456)",
-    "slot" : 9
   },
   "12451" : {
     "itemId" : 12451,
@@ -17170,6 +17385,19 @@
     "name" : "Dharok's platelegs 25",
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
+    "slot" : 7
+  },
+  "27456" : {
+    "itemId" : 27456,
+    "name" : "Graceful gloves (27456)",
+    "slot" : 9
+  },
+  "27773" : {
+    "itemId" : 27773,
+    "name" : "Crystal legs (27773)",
+    "accuracyMagic" : -12,
+    "accuracyRanged" : 18,
+    "prayer" : 2,
     "slot" : 7
   },
   "6106" : {
@@ -18358,6 +18586,14 @@
     "name" : "Celestial signet (uncharged)",
     "slot" : 12
   },
+  "27777" : {
+    "itemId" : 27777,
+    "name" : "Crystal helm (27777)",
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 9,
+    "prayer" : 2,
+    "slot" : 0
+  },
   "3844" : {
     "itemId" : 3844,
     "name" : "Book of balance",
@@ -19067,6 +19303,14 @@
     "name" : "Vyre noble skirt (24820)",
     "slot" : 7
   },
+  "27729" : {
+    "itemId" : 27729,
+    "name" : "Crystal helm (27729)",
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 9,
+    "prayer" : 2,
+    "slot" : 0
+  },
   "23288" : {
     "itemId" : 23288,
     "name" : "Frog slippers",
@@ -19120,6 +19364,14 @@
     "accuracyMagic" : 4,
     "prayer" : 6,
     "slot" : 4
+  },
+  "27713" : {
+    "itemId" : 27713,
+    "name" : "Crystal legs (27713)",
+    "accuracyMagic" : -12,
+    "accuracyRanged" : 18,
+    "prayer" : 2,
+    "slot" : 7
   },
   "2417" : {
     "itemId" : 2417,
@@ -19645,7 +19897,7 @@
   "11789" : {
     "itemId" : 11789,
     "name" : "Mystic steam staff",
-    "accuracyStab" : 7,
+    "accuracyStab" : 10,
     "accuracySlash" : -1,
     "accuracyCrush" : 40,
     "accuracyMagic" : 14,
@@ -20225,6 +20477,11 @@
     "itemId" : 9767,
     "name" : "Runecraft hood",
     "slot" : 0
+  },
+  "27751" : {
+    "itemId" : 27751,
+    "name" : "Crystal legs (inactive) (27751)",
+    "slot" : 7
   },
   "12295" : {
     "itemId" : 12295,
@@ -23663,6 +23920,11 @@
     "name" : "Spottier cape",
     "slot" : 1
   },
+  "27707" : {
+    "itemId" : 27707,
+    "name" : "Crystal helm (inactive) (27707)",
+    "slot" : 0
+  },
   "1641" : {
     "itemId" : 1641,
     "name" : "Ruby ring",
@@ -25559,6 +25821,14 @@
     "name" : "Gas mask",
     "slot" : 0
   },
+  "27761" : {
+    "itemId" : 27761,
+    "name" : "Crystal legs (27761)",
+    "accuracyMagic" : -12,
+    "accuracyRanged" : 18,
+    "prayer" : 2,
+    "slot" : 7
+  },
   "23630" : {
     "itemId" : 23630,
     "name" : "Heavy ballista (23630)",
@@ -26355,6 +26625,11 @@
     "strengthMelee" : 8,
     "slot" : 12
   },
+  "27767" : {
+    "itemId" : 27767,
+    "name" : "Crystal helm (inactive) (27767)",
+    "slot" : 0
+  },
   "23640" : {
     "itemId" : 23640,
     "name" : "Amulet of fury (23640)",
@@ -26483,6 +26758,14 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "SPEAR"
+  },
+  "27701" : {
+    "itemId" : 27701,
+    "name" : "Crystal legs (27701)",
+    "accuracyMagic" : -12,
+    "accuracyRanged" : 18,
+    "prayer" : 2,
+    "slot" : 7
   },
   "21076" : {
     "itemId" : 21076,
@@ -27717,6 +28000,11 @@
     "name" : "Crystal crown (23921)",
     "slot" : 0
   },
+  "27775" : {
+    "itemId" : 27775,
+    "name" : "Crystal legs (inactive) (27775)",
+    "slot" : 7
+  },
   "12464" : {
     "itemId" : 12464,
     "name" : "Ancient plateskirt",
@@ -27985,6 +28273,14 @@
     "itemId" : 11088,
     "name" : "Inoculation bracelet",
     "slot" : 9
+  },
+  "27745" : {
+    "itemId" : 27745,
+    "name" : "Crystal body (27745)",
+    "accuracyMagic" : -18,
+    "accuracyRanged" : 31,
+    "prayer" : 3,
+    "slot" : 4
   },
   "4101" : {
     "itemId" : 4101,
@@ -28262,6 +28558,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "STAFF"
+  },
+  "27723" : {
+    "itemId" : 27723,
+    "name" : "Crystal body (inactive) (27723)",
+    "slot" : 4
   },
   "13072" : {
     "itemId" : 13072,
