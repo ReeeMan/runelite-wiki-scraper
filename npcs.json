@@ -3051,7 +3051,7 @@
     },
     "attributes" : {
       "npcId" : 794,
-      "name" : "Scarab mage",
+      "name" : "Scarab Mage",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 70
@@ -19097,7 +19097,7 @@
     },
     "attributes" : {
       "npcId" : 11508,
-      "name" : "Scarab mage (Lvl 119)",
+      "name" : "Scarab Mage (Lvl 119)",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 30
@@ -20196,7 +20196,7 @@
     },
     "attributes" : {
       "npcId" : 799,
-      "name" : "Scarab mage (Lvl 66)",
+      "name" : "Scarab Mage (Lvl 66)",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 70

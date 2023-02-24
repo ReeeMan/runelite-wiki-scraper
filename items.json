@@ -3412,6 +3412,11 @@
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
+  "27827" : {
+    "itemId" : 27827,
+    "name" : "Oldschool jumper (27827)",
+    "slot" : 4
+  },
   "26710" : {
     "itemId" : 26710,
     "name" : "Dragon warhammer (or)",
@@ -4568,6 +4573,11 @@
     "accuracyRanged" : -1,
     "slot" : 0
   },
+  "27812" : {
+    "itemId" : 27812,
+    "name" : "10th birthday cape",
+    "slot" : 1
+  },
   "22003" : {
     "itemId" : 22003,
     "name" : "Dragonfire ward (22003)",
@@ -5398,6 +5408,11 @@
     "accuracyMagic" : 3,
     "accuracyRanged" : 3,
     "slot" : 0
+  },
+  "27823" : {
+    "itemId" : 27823,
+    "name" : "Oldschool jumper (27823)",
+    "slot" : 4
   },
   "7348" : {
     "itemId" : 7348,
@@ -8794,6 +8809,11 @@
     "prayer" : 1,
     "slot" : 13
   },
+  "27824" : {
+    "itemId" : 27824,
+    "name" : "Oldschool jumper (27824)",
+    "slot" : 4
+  },
   "7675" : {
     "itemId" : 7675,
     "name" : "Wooden sword",
@@ -9774,6 +9794,11 @@
     "itemId" : 5533,
     "name" : "Body tiara",
     "slot" : 0
+  },
+  "27802" : {
+    "itemId" : 27802,
+    "name" : "Gnome child backpack",
+    "slot" : 1
   },
   "9948" : {
     "itemId" : 9948,
@@ -11583,11 +11608,6 @@
     "slot" : 3,
     "weaponCategory" : "CROSSBOW"
   },
-  "26505" : {
-    "itemId" : 26505,
-    "name" : "Shattered relics iron trophy",
-    "slot" : 5
-  },
   "22810" : {
     "itemId" : 22810,
     "name" : "Dragon knife(p++)",
@@ -11601,6 +11621,16 @@
     "itemId" : 8994,
     "name" : "Brown navy slacks",
     "slot" : 7
+  },
+  "26505" : {
+    "itemId" : 26505,
+    "name" : "Shattered relics iron trophy",
+    "slot" : 5
+  },
+  "27808" : {
+    "itemId" : 27808,
+    "name" : "Jad slippers",
+    "slot" : 10
   },
   "2414" : {
     "itemId" : 2414,
@@ -11950,6 +11980,11 @@
     "name" : "Steel kiteshield (8774)",
     "accuracyMagic" : -8,
     "accuracyRanged" : -3,
+    "slot" : 5
+  },
+  "27816" : {
+    "itemId" : 27816,
+    "name" : "Stray dog plush",
     "slot" : 5
   },
   "5696" : {
@@ -14304,7 +14339,7 @@
     "accuracyCrush" : 25,
     "accuracyMagic" : 12,
     "strengthMelee" : 35,
-    "speed" : 4,
+    "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
@@ -14464,6 +14499,17 @@
     "itemId" : 4860,
     "name" : "Ahrim's hood 0",
     "slot" : 0
+  },
+  "27820" : {
+    "itemId" : 27820,
+    "name" : "10th birthday balloons",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "BLUNT"
   },
   "13373" : {
     "itemId" : 13373,
@@ -15979,6 +16025,11 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "SLASH_SWORD"
+  },
+  "27825" : {
+    "itemId" : 27825,
+    "name" : "Oldschool jumper (27825)",
+    "slot" : 4
   },
   "6269" : {
     "itemId" : 6269,
@@ -17889,6 +17940,11 @@
     "accuracyRanged" : -15,
     "slot" : 4
   },
+  "27814" : {
+    "itemId" : 27814,
+    "name" : "Jad plush",
+    "slot" : 5
+  },
   "19982" : {
     "itemId" : 19982,
     "name" : "Light tuxedo shoes",
@@ -18158,6 +18214,11 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "CROSSBOW"
+  },
+  "27818" : {
+    "itemId" : 27818,
+    "name" : "Gnome child plush",
+    "slot" : 5
   },
   "23652" : {
     "itemId" : 23652,
@@ -18803,6 +18864,17 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
+  },
+  "27810" : {
+    "itemId" : 27810,
+    "name" : "Dragon candle dagger",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
   },
   "26701" : {
     "itemId" : 26701,
@@ -24064,6 +24136,11 @@
     "strengthRanged" : 4,
     "slot" : 4
   },
+  "27806" : {
+    "itemId" : 27806,
+    "name" : "Bob the cat slippers",
+    "slot" : 10
+  },
   "4028" : {
     "itemId" : 4028,
     "name" : "Ancient gorilla greegree",
@@ -24921,15 +24998,6 @@
     "strengthRanged" : 28,
     "slot" : 13
   },
-  "26384" : {
-    "itemId" : 26384,
-    "name" : "Torva platebody",
-    "accuracyMagic" : -18,
-    "accuracyRanged" : -14,
-    "strengthMelee" : 6,
-    "prayer" : 1,
-    "slot" : 4
-  },
   "12426" : {
     "itemId" : 12426,
     "name" : "3rd age longsword",
@@ -25324,6 +25392,11 @@
     "name" : "Lumberjack hat",
     "slot" : 0
   },
+  "27826" : {
+    "itemId" : 27826,
+    "name" : "Oldschool jumper (27826)",
+    "slot" : 4
+  },
   "20389" : {
     "itemId" : 20389,
     "name" : "Dragon arrow (20389)",
@@ -25436,6 +25509,20 @@
     "speed" : 6,
     "slot" : 3,
     "weaponCategory" : "CROSSBOW"
+  },
+  "27828" : {
+    "itemId" : 27828,
+    "name" : "Silver partyhat",
+    "slot" : 0
+  },
+  "26384" : {
+    "itemId" : 26384,
+    "name" : "Torva platebody",
+    "accuracyMagic" : -18,
+    "accuracyRanged" : -14,
+    "strengthMelee" : 6,
+    "prayer" : 1,
+    "slot" : 4
   },
   "5666" : {
     "itemId" : 5666,
@@ -26091,6 +26178,11 @@
     "itemId" : 1059,
     "name" : "Leather gloves",
     "slot" : 9
+  },
+  "27804" : {
+    "itemId" : 27804,
+    "name" : "Cake hat",
+    "slot" : 0
   },
   "22392" : {
     "itemId" : 22392,
@@ -27145,6 +27237,11 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "STAFF"
+  },
+  "27822" : {
+    "itemId" : 27822,
+    "name" : "Oldschool jumper",
+    "slot" : 4
   },
   "26427" : {
     "itemId" : 26427,
