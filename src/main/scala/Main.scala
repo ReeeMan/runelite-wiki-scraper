@@ -12,6 +12,8 @@ object Main extends App {
   implicit val NpcStatsFormat: OFormat[NpcStats] = Jsonx.formatCaseClassUseDefaults[NpcStats]
   implicit val DefenderAttributesFormat: OFormat[DefenderAttributes] = Jsonx.formatCaseClassUseDefaults[DefenderAttributes]
   implicit val DefensiveBonusesFormat: OFormat[DefensiveBonuses] = Jsonx.formatCaseClassUseDefaults[DefensiveBonuses]
+  implicit val AggressiveBonusesFormat: OFormat[AggressiveBonuses] = Jsonx.formatCaseClassUseDefaults[AggressiveBonuses]
+  
   implicit val SkillsFormat: OFormat[Skills] = Jsonx.formatCaseClassUseDefaults[Skills]
   implicit val NpcDataFormat: OFormat[NpcData] = Jsonx.formatCaseClassUseDefaults[NpcData]
   
