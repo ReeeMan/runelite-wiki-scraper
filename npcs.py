@@ -7,7 +7,7 @@ from typing import *
 import copy
 
 # Modification here to include many more attributes
-npc_trait_keys = ["hitpoints", "att", "str", "def", "mage", "range", "attbns", "strbns", "defbns", "amagic", "mbns",
+npc_trait_keys = ["hitpoints", "att", "str", "def", "mage", "range", "attbns", "strbns", "amagic", "mbns", "arange", "rngbns", "defbns", "amagic", "mbns",
 				  "arange", "rngbns", "dstab", "dslash", "dcrush", "dmagic", "drange", "combat", "size"]
 
 
