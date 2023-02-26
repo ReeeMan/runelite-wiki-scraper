@@ -45,7 +45,7 @@ case class NpcStats(
           "RANGED" -> range.getOrElse(0)
         )
       ),
-      AggressiveBonuses = AggressiveBonuses(
+      aggressiveBonuses = AggressiveBonuses(
         aggressiveAttack = attbns,
         aggressiveStrength = strbns,
         aggressiveMagic = amagic,
