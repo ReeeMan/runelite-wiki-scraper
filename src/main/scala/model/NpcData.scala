@@ -16,6 +16,15 @@ case class DefensiveBonuses(
                              defenseMagic: Option[Int]
                            )
 
+case class AggressiveBonuses(
+                             aggressiveAttack: Option[Int],
+                             aggressiveStrength: Option[Int],
+                             aggressiveMagic: Option[Int],
+                             aggressiveMagicStrength: Option[Int],
+                             aggressiveRange: Option[Int],
+                             aggressiveRangeStrength: Option[Int]
+                           )
+
 case class DefenderAttributes(
                                npcId: Int,
                                var name: String,
