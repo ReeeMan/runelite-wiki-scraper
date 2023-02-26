@@ -3,6 +3,7 @@ package model
 case class NpcData(
                     skills: Skills,
                     defensiveBonuses: DefensiveBonuses,
+                    aggressiveBonuses: AggressiveBonuses,
                     attributes: DefenderAttributes
                   )
 
