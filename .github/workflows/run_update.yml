@@ -30,7 +30,6 @@ jobs:
       run: |
         pipenv run python main.py
         mv npcs-dps-calc.min.json npcs-dps-calc.min.json.bak
-        mv items-dps-calc.min.json items-dps-calc.min.json.bak
     - uses: actions/setup-java@v2
       with:
         distribution: adopt
@@ -39,7 +38,6 @@ jobs:
       run: |
         git checkout --force filtering-v2
         mv npcs-dps-calc.min.json.bak npcs-dps-calc.min.json
-        mv items-dps-calc.min.json.bak items-dps-calc.min.json
         sbt run
     - name: Copy to target branch
       run: |
