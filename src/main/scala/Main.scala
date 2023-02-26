@@ -90,38 +90,6 @@ object Main extends App {
   Files.write(new File("npc-base-ids.json").toPath, Json.prettyPrint(Json.toJson(baseIds)).getBytes, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
   Files.write(new File("npc-base-ids.min.json").toPath, Json.toBytes(Json.toJson(baseIds)), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
   
-  println()
-  println("==== Items ====")
-  val itemsRoot = Json.parse(Files.readString(new File("items-dps-calc.min.json").toPath)).as[Map[String, ItemStatsV1]]
-  println("Original: " + itemsRoot.size)
 
-  var itemsFiltered =
-    itemsRoot.filter(_._2.name.isDefined)
-      .filter(t => t._2.slot.isDefined)
-      .filter(t => t._2.slot.get != 3 || t._2.weaponCategory.isDefined)
-      .map { tuple =>
-        tuple._2.id = tuple._1.toIntOption
-        tuple._1 -> tuple._2
-      }
-      .filter(_._2.id.isDefined)
-  println("Filtered: " + itemsFiltered.size)
   
-  var dupeIds = Set[String]()
-  itemsFiltered.toList
-    .sortBy(t => t._1.toInt)
-    .foreach { tuple =>
-    val (id, stats) = tuple
-    if (!dupeIds.contains(id)) {
-        itemsFiltered.filter(p => p._1 != id && p._2.name == stats.name)
-          .filter(p => p._2.copy(id = id.toIntOption) == stats)
-          .values
-          .foreach(is => is.name = is.name.map(_ + s" (${is.id.get})"))
-    }
-  }
-  val itemsDeduped = itemsFiltered.filterNot(t => dupeIds.contains(t._1))
-  
-  val convertedItems = itemsDeduped.map(t => t._1 -> t._2.asV2)
-  Files.write(new File("items.json").toPath, Json.prettyPrint(Json.toJson(convertedItems)).getBytes, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
-  Files.write(new File("items.min.json").toPath, Json.toBytes(Json.toJson(convertedItems)), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)
-
 }
